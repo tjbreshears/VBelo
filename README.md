@@ -2,7 +2,7 @@
 
 
 ## Who gets a dynamic elo rating?
-* NCAA D-I
+* Big West
 * EIVA
 * MIVA
 * MPSF
@@ -10,6 +10,6 @@
 ## Who gets a constant elo rating?
 * Carolinas Conference = x
 * SIAC = x
-* D-II Independent Teams = x
+* Independent Teams = x
 * NCAA D-III = y
 * NAIA = z
