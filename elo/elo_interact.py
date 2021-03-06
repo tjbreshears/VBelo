@@ -13,9 +13,9 @@ with open("inputs/games_2021.csv", 'r') as data:
     for line in csv.DictReader(data):
         games.append(line)
 
-#set initial elo for every team 1350
+#set initial elo for every team 1500 - the hopeful average
 for i in range(len(teams)):
-    teams[i]['elo'] = 1350
+    teams[i]['elo'] = 1500
 
 def static_elo ():
     for i in range(len(teams)):
@@ -34,7 +34,7 @@ def probability(rating1, rating2):
 
 #function for calculating elo
 def eloRating(game):    #was t1,t2,d
-    K = 30 #still working to find an ideal K
+    K = 32 #still working to find an ideal K
 
     static_elo ()
 
