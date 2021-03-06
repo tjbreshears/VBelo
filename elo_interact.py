@@ -2,7 +2,7 @@ import csv
 
 teams = []
 
-with open("data/ncaa_d1_mens_teams.csv", 'r') as data:
+with open("inputs/teams.csv", 'r') as data:
     for line in csv.DictReader(data):
         teams.append(line)
 

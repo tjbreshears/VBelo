@@ -1,4 +1,4 @@
-Ôªøshort_name,full_name,division,mascot,conference,elo,tracking
+short_name,full_name,division,mascot,conference,elo,tracking
 Adrian,Adrian College,D-III,Bulldogs,MCVL,,0
 Alderson,Alderson Broaddus University,D-II,Battlers,Independent,,0
 Alvernia,Alvernia University,D-III,Crusaders,MAC,,0
@@ -22,11 +22,11 @@ Carthage,Carthage College,D-III,Red Men,CCIW,,0
 CCNY,City College of New York,D-III,Beavers,CUNY AC,,0
 Central,Central State University,D-II,Marauders,SIAC,,0
 Charleston,University of Charleston,D-II,Golden Eagles,EIVA,,1
-Colby,Colby‚ÄìSawyer College,D-III,Chargers,GNAC,,0
+Colby,ColbyñSawyer College,D-III,Chargers,GNAC,,0
 Concordia,Concordia University Irvine,D-II,Eagles,MPSF,,1
 CSUN,CSU Northridge,D-I,Matadors,Big West,,1
 CUC,Concordia University Chicago,D-III,Cougars,NACC,,0
-Culver,Culver‚ÄìStockton College,NAIA,Wildcats,NAIA,,0
+Culver,CulverñStockton College,NAIA,Wildcats,NAIA,,0
 CUW,Concordia University Wisconsin,D-III,Falcons,NACC,,0
 Daemen,Daemen College,D-II,Wildcats,Independent,,0
 Dean,Dean College,D-III,Bulldogs,GNAC,,0
@@ -53,7 +53,7 @@ Georgetown,Georgetown College (KY),NAIA,Tigers,NAIA,,0
 GMU,George Mason University,D-I,Patriots,EIVA,,1
 Greenville,North Greenville University,D-II,Crusaders,Carolinas,,0
 Harvard,Harvard University,D-I,Crimson,EIVA,,0
-Hawaii,University of Hawai'i at MƒÅnoa,D-I,Rainbow Warriors,Big West,,1
+Hawaii,University of Hawai'i at M?noa,D-I,Rainbow Warriors,Big West,,1
 Hilbert,Hilbert College,D-III,Hawks,AMCC,,0
 Hiram,Hiram College,D-III,Terriers,AMCC,,0
 Hunter,Hunter College,D-III,Hawks,CUNY AC,,0
@@ -72,7 +72,7 @@ Lakeland,Lakeland University,D-III,Muskies,NACC,,0
 Lancaster,Lancaster Bible College,D-III,Chargers,NEAC,,0
 Lasell,Lasell College,D-III,Lasers,GNAC,,0
 LBSU,Long Beach State,D-I,49ers,Big West,,1
-Lees,Lees‚ÄìMcRae College,D-II,Bobcats,Carolinas,,0
+Lees,LeesñMcRae College,D-II,Bobcats,Carolinas,,0
 Lehman,Lehman College,D-III,Lightning Bugs,CUNY AC,,0
 Lesley,Lesley University,D-III,Lynx,NECC,,0
 Lewis,Lewis University,D-II,Flyers,MIVA,,1
@@ -104,7 +104,7 @@ NJIT,New Jersey Institute of Technology,D-I,Highlanders,EIVA,,1
 Norbert,St. Norbert College,D-III,Green Knights,NACC,,0
 North Central,North Central College,D-III,Cardinals,CCIW,,0
 North Park,North Park University,D-III,Vikings,CCIW,,0
-NVU,Northern Vermont University‚ÄìJohnson,D-III,Badgers,NECC,,0
+NVU,Northern Vermont UniversityñJohnson,D-III,Badgers,NECC,,0
 NYU,New York University,D-III,Violets,UVC,,0
 Ohio,The Ohio State University,D-I,Buckeyes,MIVA,,1
 Olive,University of Mount Olive,D-II,Trojans,Carolinas,,0
@@ -121,12 +121,12 @@ Princeton,Princeton University,D-I,Tigers,EIVA,,0
 Queens,Queens University of Charlotte,D-II,Royals,Independent,,0
 Quincy,Quincy University,D-II,Hawks,MIVA,,1
 Ramapo,Ramapo College,D-III,Roadrunners,Skyline Conference,,0
-Randolph Macon,Randolph‚ÄìMacon College,D-III,Yellow Jackets,CVC,,0
+Randolph Macon,RandolphñMacon College,D-III,Yellow Jackets,CVC,,0
 Regis,Regis College (MA),D-III,Pride,GNAC,,0
 Rivier,Rivier University,D-III,Raiders,GNAC,,0
 Rockford,Rockford University,D-III,Regents,NACC,,0
 Rosemont,Rosemont College,D-III,Ravens,CSAC,,0
-Rutgers,Rutgers University‚ÄìNewark,D-III,Scarlet Raiders,CVC,,0
+Rutgers,Rutgers UniversityñNewark,D-III,Scarlet Raiders,CVC,,0
 Sacred,Sacred Heart University,D-I,Pioneers,EIVA,,1
 Sage,The Sage Colleges,D-III,Gators,NECC,,0
 Saint Vincent,Saint Vincent College,D-III,Bearcats,AMCC,,0
@@ -152,9 +152,9 @@ UCLA,UCLA,D-I,Bruins,MPSF,,1
 UCSB,UC Santa Barbara,D-I,Gauchos,Big West,,1
 UCSC,UC Santa Cruz,D-III,Banana Slugs,Independent,,0
 UCSD,UC San Diego,D-I,Tritons,Big West,,1
-UPRB,University of Puerto Rico at Bayam√≥n,D-II,Cowboys,Independent,,0
-UPRM,University of Puerto Rico at Mayag√ºez,D-II,Tarzans,Independent,,0
-UPRRP,"University of Puerto Rico, R√≠o Piedras",D-II,Gallitos,Independent,,0
+UPRB,University of Puerto Rico at BayamÛn,D-II,Cowboys,Independent,,0
+UPRM,University of Puerto Rico at Mayag¸ez,D-II,Tarzans,Independent,,0
+UPRRP,"University of Puerto Rico, RÌo Piedras",D-II,Gallitos,Independent,,0
 USC,University of Southern California,D-I,Trojans,MPSF,,1
 Valley Forge,University of Valley Forge,D-III,Patriots,CSAC,,0
 Vassar,Vassar College,D-III,Brewers,UVC,,0

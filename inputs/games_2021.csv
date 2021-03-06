@@ -1,4 +1,4 @@
-﻿date,season,home,neutral,playoff,team1,team2,result_team1,result_team2,sets_team1,sets_team2,points_team1,points_team2,elo_start_team1,elo_start_team2,probability_team1,probability_team2,elo_end_team1,elo_end_team2
+date,season,home,neutral,playoff,team1,team2,result_team1,result_team2,sets_team1,sets_team2,points_team1,points_team2,elo_start_team1,elo_start_team2,probability_team1,probability_team2,elo_end_team1,elo_end_team2
 1/13/2021,2021,Quincy,0,0,Indiana Tech,Quincy,0,1,0,3,58,75,,,,,,
 1/15/2021,2021,Queens,0,0,SFU,Queens,0,1,2,3,92,106,,,,,,
 1/16/2021,2021,Queens,0,0,SFU,Queens,1,0,3,1,97,83,,,,,,
