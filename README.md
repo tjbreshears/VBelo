@@ -12,4 +12,4 @@
 * SIAC = x
 * Independent Teams = x
 * NCAA D-III = y
-* NAIA = z
+* NAIA = 1000 (should be 988.50 to give 5% chance at beating average team)
