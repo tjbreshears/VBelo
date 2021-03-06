@@ -12,4 +12,4 @@
 * SIAC = x
 * Independent Teams = x
 * NCAA D-III = y
-* NAIA = 1000 (should be 988.50 to give 5% chance at beating average team)
+* NAIA = 1000 (should be [988.50](calibration/naia_base_elo.py) to give 5% chance at beating average team)
