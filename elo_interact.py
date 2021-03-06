@@ -1,11 +1,4 @@
 """ TODO
-[home court advantage]
-
-update team1 end elo
-update teams current elo
-[if team not tracked, elo reverts to start]
-update team2 end elo
-
 [if team not tracked, elo reverts to start]
 
 Write to games to CSV
