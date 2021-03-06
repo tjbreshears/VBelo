@@ -18,17 +18,20 @@ with open("inputs/games_2021.csv", 'r') as data:
     for line in csv.DictReader(data):
         games.append(line)
 
-#set initial elo for every team based on divison/conference
+#set initial elo for every team 1350
 for i in range(len(teams)):
     teams[i]['elo'] = 1350
-    if teams[i]['division'] == 'NAIA':
-        teams[i]['elo'] = 1000
-    elif teams[i]['division'] == 'D-III':
-        teams[i]['elo'] = 1100
-    elif teams[i]['conference'] == 'Carolinas' or\
-     teams[i]['conference'] =='SIAC' or\
-     teams[i]['conference'] =='Independent':
-        teams[i]['elo'] = 1200
+
+def static_elo ():
+    for i in range(len(teams)):
+        if teams[i]['division'] == 'NAIA':
+            teams[i]['elo'] = 1000
+        elif teams[i]['division'] == 'D-III':
+            teams[i]['elo'] = 1100
+        elif teams[i]['conference'] == 'Carolinas' or\
+         teams[i]['conference'] =='SIAC' or\
+         teams[i]['conference'] =='Independent':
+            teams[i]['elo'] = 1200
 
 # Function to calculate the Probability
 def probability(rating1, rating2):
@@ -37,6 +40,8 @@ def probability(rating1, rating2):
 #function for calculating elo
 def eloRating(game):    #was t1,t2,d
     K = 30 #still working to find an ideal K
+
+    static_elo ()
 
     for i in range(len(teams)):
         if game['team1'] == teams[i]['short_name']:
@@ -78,3 +83,4 @@ def season ():
 
 season()
 print(games)
+print(teams)
