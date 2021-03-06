@@ -1,12 +1,7 @@
-""" TODO
-[if team not tracked, elo reverts to start]
-
-Write to games to CSV
-Write tracked teams to CSV
-"""
-
 import csv
 import math
+from export_data import export_teams
+from export_data import export_games
 
 teams = []
 with open("inputs/teams.csv", 'r') as data:
@@ -80,7 +75,7 @@ def eloRating(game):    #was t1,t2,d
 def season ():
     for i in range(len(games)):
         eloRating(games[i])
+    export_teams (teams)
+    export_games (games)
 
 season()
-print(games)
-print(teams)
