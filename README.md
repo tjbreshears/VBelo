@@ -37,22 +37,23 @@ Currently, only wins and losses are taken into account. Margin of victory (sets 
 |elo| Placeholder for elo rating as matches are played. In output, this is where elo is stored.|
 |tracking|If team has its games added to games spreadsheet, value = 1.|
 
-## Considerations
-### Whose games are "tracked"/ who gets a dynamic elo rating?
-The goal is to include all teams eligible for the National Championship.
+## The Details
+### What teams are in the model?
+The goal is to include all NCAA D-I and D-II teams since they are all competing for the same national championship. This includes the following conferences:
 * Big West
 * EIVA
 * MIVA
 * MPSF
 
-* Carolinas Conference - In progress
-* D-I & D-II Independent Teams - In progress
+* Carolinas Conference - Data Collection in progress
+* Independent Teams - Data Collection in progress
 
 *Harvard, Princeton, and the entire SIAC have opted out of the 2021 season and are not included.
 
-### Whose games are not "tracked/ who gets a constant elo rating?
-* Carolinas Conference = [1200](calibration/non_tracking_base_elo.py)
-* SIAC = [1200](calibration/non_tracking_base_elo.py)
-* Independent Teams = [1200](calibration/non_tracking_base_elo.py)
-* NCAA D-III = 1100 (splitting the difference between the above and below groups)
-* NAIA = 1000 (should be [988.50](calibration/naia_base_elo.py) to give 5% chance at beating average team)
+### What about D-III and NAIA teams?
+Sadly, there is not enough resources to collect all of the data needed to include D-III and NAIA. (If someone wants to collect that data, they could use this same code, though.)
+
+Since D-I and D-II teams often play non-conference games against D-III and NAIA opponents, they have a static role in the model (i.e. their elo is always the same.) Due to the relative parity of competition of these teams, they share the same elo rating: **1200**. [(Where this number comes from)](calibration/non_tracking_base_elo.py)
+
+### What is the K value?
+32. This will be revisited as more data is collected.
