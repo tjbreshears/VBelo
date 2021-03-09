@@ -1,5 +1,5 @@
 # NCAA Men's Volleyball Elo
-*Game Data through 03/04/2021*
+*Game Data through 03/07/2021*
 
 ## The Project
 Volleyball, a much beloved sport, is significantly lacking in the category of advanced statistics. This is an attempt to help bring the widely used elo rating system into men's collediate volleyball.
@@ -39,12 +39,16 @@ Currently, only wins and losses are taken into account. Margin of victory (sets 
 
 ## Considerations
 ### Whose games are "tracked"/ who gets a dynamic elo rating?
+The goal is to include all teams eligible for the National Championship.
 * Big West
 * EIVA
 * MIVA
 * MPSF
 
-These conferences are predominantly D-I programs. The D-II schools that play in these conferences have similar schedule strengths so their games are also tracked.
+* Carolinas Conference - In progress
+* D-I & D-II Independent Teams - In progress
+
+*Harvard, Princeton, and the entire SIAC have opted out of the 2021 season and are not included.
 
 ### Whose games are not "tracked/ who gets a constant elo rating?
 * Carolinas Conference = [1200](calibration/non_tracking_base_elo.py)
