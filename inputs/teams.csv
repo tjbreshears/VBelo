@@ -8,9 +8,9 @@ Aurora,Aurora University,D-III,Spartans,NACC,,0
 Baldwin,Baldwin Wallace University,D-III,Yellow Jackets,MCVL,,0
 Ball,Ball State University,D-I,Cardinals,MIVA,,1
 Bard,Bard College,D-III,Raptors,UVC,,0
-Barton,Barton College,D-II,Bulldogs,Carolinas,,0
+Barton,Barton College,D-II,Bulldogs,Carolinas,,1
 Baruch,Baruch College,D-III,Bearcats,CUNY AC,,0
-Belmont,Belmont Abbey College,D-II,Crusaders,Carolinas,,0
+Belmont,Belmont Abbey College,D-II,Crusaders,Carolinas,,1
 Benedict,Benedict College,D-II,Tigers,SIAC,,0
 Benedictine,Benedictine University,D-III,Eagles,NACC,,0
 Bluefield,Bluefield College,NAIA,Rams,NAIA,,0
@@ -40,19 +40,19 @@ Elizabethtown,Elizabethtown College,D-III,Blue Jays,CVC,,0
 Elmira,Elmira College,D-III,Soaring Eagles,UVC,,0
 Elms,College of Our Lady of the Elms,D-III,Blazers,NECC,,0
 Emerson,Emerson College,D-III,Lions,GNAC,,0
-Emmanuel,Emmanuel College,D-II,Lions,Carolinas,,0
+Emmanuel,Emmanuel College,D-II,Lions,Carolinas,,1
 Emmanuel MA,Emmanuel College (MA),D-III,Saints,GNAC,,0
 EMU,Eastern Mennonite University,D-III,Royals,CVC,,0
 Endicott,Endicott College,D-III,Gulls,NECC,,0
 ENU,Eastern Nazarene College,D-III,Lions,NECC,,0
-Erskine,Erskine College,D-II,Flying Fleet,Carolinas,,0
+Erskine,Erskine College,D-II,Flying Fleet,Carolinas,,1
 Fontbonne,Fontbonne University,D-III,Griffins,MCVL,,0
 Fort Valley,Fort Valley State University,D-II,Wildcats,SIAC,,0
 GCU,Grand Canyon University,D-I,Antelopes,MPSF,,1
 Geneva,Geneva College,D-III,Golden Tornadoes,AMCC,,0
 Georgetown,Georgetown College (KY),NAIA,Tigers,NAIA,,0
 GMU,George Mason University,D-I,Patriots,EIVA,,1
-Greenville,North Greenville University,D-II,Crusaders,Carolinas,,0
+Greenville,North Greenville University,D-II,Crusaders,Carolinas,,1
 Harvard,Harvard University,D-I,Crimson,EIVA,,0
 Hawaii,University of Hawai'i at Manoa,D-I,Rainbow Warriors,Big West,,1
 Hilbert,Hilbert College,D-III,Hawks,AMCC,,0
@@ -67,17 +67,18 @@ John Fisher,St. John Fisher College,D-III,Cardinals,UVC,,0
 John Jay,John Jay College of Criminal Justice,D-III,Bloodhounds,CUNY AC,,0
 Juniata,Juniata College,D-III,Eagles,CVC,,0
 Kean,Kean University,D-III,Cougars,CVC,,0
-King,King University,D-II,Tornados,Carolinas,,0
+King,King University,D-II,Tornados,Carolinas,,1
 Kings,King's College,D-III,Monarchs,MAC,,0
 KSU,Kentucky State University,D-II,Thorobreds,SIAC,,0
 Lakeland,Lakeland University,D-III,Muskies,NACC,,0
 Lancaster,Lancaster Bible College,D-III,Chargers,NEAC,,0
 Lasell,Lasell College,D-III,Lasers,GNAC,,0
 LBSU,Long Beach State,D-I,49ers,Big West,,1
-Lees,Lees-McRae College,D-II,Bobcats,Carolinas,,0
+Lees,Lees-McRae College,D-II,Bobcats,Carolinas,,1
 Lehman,Lehman College,D-III,Lightning Bugs,CUNY AC,,0
 Lesley,Lesley University,D-III,Lynx,NECC,,0
 Lewis,Lewis University,D-II,Flyers,MIVA,,1
+Life,Life University,NAIA,Running Eagles,NAIA,,0
 Limestone,Limestone University,D-II,Saints,Independent,,0
 Lindenwood,Lindenwood University,D-II,Lions,MIVA,,1
 LMU,Lincoln Memorial University,D-II,Railsplitters,Independent,,0
@@ -109,7 +110,7 @@ North Park,North Park University,D-III,Vikings,CCIW,,0
 NVU,Northern Vermont University-Johnson,D-III,Badgers,NECC,,0
 NYU,New York University,D-III,Violets,UVC,,0
 Ohio,The Ohio State University,D-I,Buckeyes,MIVA,,1
-Olive,University of Mount Olive,D-II,Trojans,Carolinas,,0
+Olive,University of Mount Olive,D-II,Trojans,Carolinas,,1
 Olivet,Olivet College,D-III,Comets,MCVL,,0
 OUAZ,Ottawa University Arizona,NAIA,Spirit,NAIA,,0
 Paine,Paine College,D-II,Lions,SIAC,,0
