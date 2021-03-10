@@ -49,11 +49,15 @@ def eloRating(game):    #was t1,t2,d
     game['probability_team2'] = p2
 
     if game['result_team1'] == '1':
-        r1 = r1 + K * (1 - p1)
-        r2 = r2 + K * (0 - p2)
+        d1 = int(game['sets_team1'])-int(game['sets_team2'])
+        d2 = int(game['sets_team2'])
+        r1 = r1 + K * (1 - p1) + (K/6 * (d1/3))
+        r2 = r2 + K * (0 - p2) + (K/6 * (d2/3))
     elif game['result_team2'] == '1':
-        r1 = r1 + K * (0 - p1)
-        r2 = r2 + K * (1 - p2)
+        d1 = int(game['sets_team2'])-int(game['sets_team1'])
+        d2 = int(game['sets_team1'])
+        r1 = r1 + K * (0 - p1) + (K/6 * (d1/3))
+        r2 = r2 + K * (1 - p2) + (K/6 * (d2/3))
     else:
         pass
 
