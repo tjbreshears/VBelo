@@ -1,7 +1,9 @@
 # NCAA Men's Volleyball Elo
-*Game Data through 03/07/2021*
+*Game Data through 03/09/2021*
 
-![Rankings throuhg 3/7/21](/images/elo030721.png)
+*Recently added: margin-of-victory, Carolinas Conference games*
+
+![Rankings throuhg 3/9/21](/images/elo030921.png)
 
 ## The Project
 Volleyball, a much beloved sport, is significantly lacking in the category of advanced statistics. This is an attempt to help bring the widely used elo rating system into men's collediate volleyball.
@@ -43,11 +45,11 @@ Currently, only wins and losses are taken into account. Margin of victory (sets 
 ### What teams are in the model?
 The goal is to include all NCAA D-I and D-II teams since they are all competing for the same national championship. This includes the following conferences:
 * Big West
+* Carolinas Conference
 * EIVA
 * MIVA
 * MPSF
 
-* Carolinas Conference - Data Collection in progress
 * Independent Teams - Data Collection in progress
 
 *Harvard, Princeton, and the entire SIAC have opted out of the 2021 season and are not included.
@@ -55,7 +57,9 @@ The goal is to include all NCAA D-I and D-II teams since they are all competing 
 ### What about D-III and NAIA teams?
 Sadly, there is not enough resources to collect all of the data needed to include D-III and NAIA. (If someone wants to collect that data, they could use this same code, though.)
 
-Since D-I and D-II teams often play non-conference games against D-III and NAIA opponents, they have a static role in the model (i.e. their elo is always the same.) Due to the relative parity of competition of these teams, they share the same elo rating: **1200**. [(Where this number comes from)](calibration/non_tracking_base_elo.py)
+Since D-I and D-II teams often play non-conference games against D-III and NAIA opponents, they have a static role in the model (i.e. their elo is always the same.) Thanks to volleyball stat nerd Jonathan, the average winning percentage of these teams vs. D-I and D-II programs was used to get their static elo ratings.
+* D-III = 1419
+* NAIA = 1373
 
-### What is the K value?
-32. This will be revisited as more data is collected.
+### What about margin of victory?
+Currently, sets won/lost are taken into account. Eventually, points will be added too.
