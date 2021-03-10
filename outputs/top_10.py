@@ -7,5 +7,4 @@ rank = rank.drop(['short_name', 'division', 'mascot','conference','tracking'], a
 rank.columns = ['School', 'Elo']
 rank = rank.to_string(index=False)
 
-
 print(rank)
