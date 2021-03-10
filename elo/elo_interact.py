@@ -19,8 +19,10 @@ for i in range(len(teams)):
 
 def static_elo ():
     for i in range(len(teams)):
-        if teams[i]['tracking'] == '0':
-            teams[i]['elo'] = 1200
+        if teams[i]['division'] == 'D-III':
+            teams[i]['elo'] = 1419
+        elif teams[i]['division'] == 'NAIA':
+            teams[i]['elo'] = 1373
 
 # Function to calculate the Probability
 def probability(rating1, rating2):
