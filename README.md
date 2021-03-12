@@ -54,7 +54,7 @@ The goal is to include all NCAA D-I and D-II teams since they are all competing 
 
 * Independent Teams - Data Collection in progress
 
-*Harvard, Princeton, and the entire SIAC have opted out of the 2021 season and are not included.
+*Harvard, Princeton, the SIAC conference are not playing any games in the 2021 season and are, thus, not included.
 
 ### What about D-III and NAIA teams?
 Sadly, there is not enough resources to collect all of the data needed to include D-III and NAIA. (If someone wants to collect that data, they could use this same code, though.)
