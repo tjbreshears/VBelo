@@ -10,6 +10,8 @@ Volleyball, a much beloved sport, is significantly lacking in the category of ad
 
 Currently, only wins and losses are taken into account. Margin of victory (sets and points) is a future addition to the model as well as home court advantage.
 
+Huge thanks to Jonathan Bates [@mpsf_bias](http://www.twitter.com/mpsf_bias) for contributing thoughts and tons of data.
+
 ## The Data
 ***Always looking for more data. Let me know if you are interested in helping with data collection.***
 
