@@ -19,15 +19,16 @@ BYU,Brigham Young University,D-I,Cougars,MPSF,,1
 Cairn,Cairn University,D-III,Highlanders,CSAC,,0
 Cal Lu,California Lutheran University,D-III,Kingsmen,Independent,,0
 Campbellsville,Campbellsville University,NAIA,Tigers,NAIA,,0
+Carlow,Carlow University,NAIA,Celtics,NAIA,,0
 Carthage,Carthage College,D-III,Red Men,CCIW,,0
 CCNY,City College of New York,D-III,Beavers,CUNY AC,,0
 Central,Central State University,D-II,Marauders,SIAC,,0
 Charleston,University of Charleston,D-II,Golden Eagles,EIVA,,1
-Colby,Colby-Sawyer College,D-III,Chargers,GNAC,,0
+Colby,Colby–Sawyer College,D-III,Chargers,GNAC,,0
 Concordia,Concordia University Irvine,D-II,Eagles,MPSF,,1
 CSUN,CSU Northridge,D-I,Matadors,Big West,,1
 CUC,Concordia University Chicago,D-III,Cougars,NACC,,0
-Culver,Culver-Stockton College,NAIA,Wildcats,NAIA,,0
+Culver,Culver–Stockton College,NAIA,Wildcats,NAIA,,0
 CUW,Concordia University Wisconsin,D-III,Falcons,NACC,,0
 Daemen,Daemen College,D-II,Wildcats,Independent,,0
 Dean,Dean College,D-III,Bulldogs,GNAC,,0
@@ -46,6 +47,7 @@ EMU,Eastern Mennonite University,D-III,Royals,CVC,,0
 Endicott,Endicott College,D-III,Gulls,NECC,,0
 ENU,Eastern Nazarene College,D-III,Lions,NECC,,0
 Erskine,Erskine College,D-II,Flying Fleet,Carolinas,,1
+Fisher,St. John Fisher College,D-III,Cardinals,UVC,,0
 Fontbonne,Fontbonne University,D-III,Griffins,MCVL,,0
 Fort Valley,Fort Valley State University,D-II,Wildcats,SIAC,,0
 GCU,Grand Canyon University,D-I,Antelopes,MPSF,,1
@@ -63,7 +65,6 @@ Immaculata,Immaculata University,D-III,Mighty Macs,CVC,,0
 Indiana Tech,Indiana Institute of Technology,NAIA,Warriors,NAIA,,0
 IWU,Illinois Wesleyan University,D-III,Titans,CCIW,,0
 Jamestown,University of Jamestown,NAIA,Jimmies,NAIA,,0
-John Fisher,St. John Fisher College,D-III,Cardinals,UVC,,0
 John Jay,John Jay College of Criminal Justice,D-III,Bloodhounds,CUNY AC,,0
 Juniata,Juniata College,D-III,Eagles,CVC,,0
 Kean,Kean University,D-III,Cougars,CVC,,0
@@ -74,7 +75,7 @@ Lakeland,Lakeland University,D-III,Muskies,NACC,,0
 Lancaster,Lancaster Bible College,D-III,Chargers,NEAC,,0
 Lasell,Lasell College,D-III,Lasers,GNAC,,0
 LBSU,Long Beach State,D-I,49ers,Big West,,1
-Lees,Lees-McRae College,D-II,Bobcats,Carolinas,,1
+Lees,Lees–McRae College,D-II,Bobcats,Carolinas,,1
 Lehman,Lehman College,D-III,Lightning Bugs,CUNY AC,,0
 Lesley,Lesley University,D-III,Lynx,NECC,,0
 Lewis,Lewis University,D-II,Flyers,MIVA,,1
@@ -83,6 +84,7 @@ Limestone,Limestone University,D-II,Saints,Independent,,0
 Lindenwood,Lindenwood University,D-II,Lions,MIVA,,1
 LMU,Lincoln Memorial University,D-II,Railsplitters,Independent,,0
 Loras,Loras College,D-III,Duhawks,CCIW,,0
+Lourdes,Lourdes University,NAIA,Grey Wolves,NAIA,,0
 Loyola,Loyola University Chicago,D-I,Ramblers,MIVA,,1
 Maranatha,Maranatha Baptist University,D-III,Sabercats,Independent,,0
 Marian,Marian University (WI),D-III,Sabres,NACC,,0
@@ -107,7 +109,7 @@ NJIT,New Jersey Institute of Technology,D-I,Highlanders,EIVA,,1
 Norbert,St. Norbert College,D-III,Green Knights,NACC,,0
 North Central,North Central College,D-III,Cardinals,CCIW,,0
 North Park,North Park University,D-III,Vikings,CCIW,,0
-NVU,Northern Vermont University-Johnson,D-III,Badgers,NECC,,0
+NVU,Northern Vermont University–Johnson,D-III,Badgers,NECC,,0
 NYU,New York University,D-III,Violets,UVC,,0
 Ohio,The Ohio State University,D-I,Buckeyes,MIVA,,1
 Olive,University of Mount Olive,D-II,Trojans,Carolinas,,1
@@ -125,13 +127,13 @@ Princeton,Princeton University,D-I,Tigers,EIVA,,0
 Queens,Queens University of Charlotte,D-II,Royals,Independent,,0
 Quincy,Quincy University,D-II,Hawks,MIVA,,1
 Ramapo,Ramapo College,D-III,Roadrunners,Skyline Conference,,0
-Randolph Macon,Randolph-Macon College,D-III,Yellow Jackets,CVC,,0
+Randolph Macon,Randolph–Macon College,D-III,Yellow Jackets,CVC,,0
 Regis,Regis College (MA),D-III,Pride,GNAC,,0
 Reinhardt,Reinhardt University,NAIA,Eagles,NAIA,,0
 Rivier,Rivier University,D-III,Raiders,GNAC,,0
 Rockford,Rockford University,D-III,Regents,NACC,,0
 Rosemont,Rosemont College,D-III,Ravens,CSAC,,0
-Rutgers,Rutgers University-Newark,D-III,Scarlet Raiders,CVC,,0
+Rutgers,Rutgers University–Newark,D-III,Scarlet Raiders,CVC,,0
 Sacred,Sacred Heart University,D-I,Pioneers,EIVA,,1
 Sage,The Sage Colleges,D-III,Gators,NECC,,0
 Saint Vincent,Saint Vincent College,D-III,Bearcats,AMCC,,0
@@ -141,6 +143,7 @@ SFU,Saint Francis University (PA),D-I,Red Flash,EIVA,,1
 SJC Brooklyn,St. Joseph's College-Brooklyn,D-III,Bears,Skyline Conference,,0
 SJC Long Island,St. Joseph's College-Long Island,D-III,Golden Eagles,Skyline Conference,,0
 Springfield,Springfield College (MA),D-III,Pride,Independent,,0
+St Andrews,St. Andrews University,NAIA,Knights,NAIA,,0
 Stanford,Stanford University,D-I,Cardinal,MPSF,,1
 Stevens,Stevens Institute of Technology,D-III,Ducks,MAC,,0
 Stevenson,Stevenson University,D-III,Mustangs,MAC,,0
