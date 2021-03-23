@@ -6,7 +6,7 @@
 ![Rankings throuhg 3/22/21](/images/elo032221.png)
 
 ## The Project
-Volleyball, a much beloved sport, is significantly lacking in the category of advanced statistics. This is an attempt to help bring the widely used elo rating system into men's collediate volleyball.
+Volleyball, a much beloved sport, is significantly lacking in the category of advanced statistics. This is an attempt to help bring the widely used elo rating system into men's collegiate volleyball.
 
 Currently, only wins and losses are taken into account. Margin of victory (sets and points) is a future addition to the model as well as home court advantage.
 
