@@ -1,9 +1,9 @@
 # NCAA Men's Volleyball Elo
-*Game Data through 03/17/2021*
+*Game Data through 03/22/2021*
 
 *Recently added: margin-of-victory, Carolinas Conference games*
 
-![Rankings throuhg 3/17/21](/images/elo031721.png)
+![Rankings throuhg 3/22/21](/images/elo032221.png)
 
 ## The Project
 Volleyball, a much beloved sport, is significantly lacking in the category of advanced statistics. This is an attempt to help bring the widely used elo rating system into men's collediate volleyball.
@@ -54,7 +54,7 @@ The goal is to include all NCAA D-I and D-II teams since they are all competing 
 
 * Independent Teams - Data Collection in progress
 
-*Harvard, Princeton, the SIAC conference are not playing any games in the 2021 season and are, thus, not included.
+*Harvard, Princeton, the SIAC conference are not playing any games in the 2021 season and are, thus, not included. Technically, KSU played a match but it was exhibition.
 
 ### What about D-III and NAIA teams?
 Sadly, there is not enough resources to collect all of the data needed to include D-III and NAIA. (If someone wants to collect that data, they could use this same code, though.)
