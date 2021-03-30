@@ -1,9 +1,9 @@
 # NCAA Men's Volleyball Elo
 *Game Data through 03/28/2021*
 
-*Recently added: margin-of-victory, Carolinas Conference games*
+*Recently added: Updated K to lower Mean Squared Error*
 
-![Rankings throuhg 3/28/21](/images/elo032821.png)
+![Rankings through 3/28/21](/images/elo032821.png)
 
 ## The Project
 Volleyball, a much beloved sport, is significantly lacking in the category of advanced statistics. This is an attempt to help bring the widely used elo rating system into men's collegiate volleyball.
@@ -65,3 +65,6 @@ Since D-I and D-II teams often play non-conference games against D-III and NAIA 
 
 ### What about margin of victory?
 Currently, sets won/lost are taken into account. Eventually, points will be added too.
+
+### What is the K value?
+It is currently 24. That was the best value to optimize the mean squared error (~0.2). As more data is collected, this will be revisited.

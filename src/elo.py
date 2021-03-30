@@ -29,8 +29,8 @@ def probability(rating1, rating2):
     return 1.0 * 1.0 / (1 + 1.0 * math.pow(10, 1.0 * (rating1 - rating2) / 400))
 
 #function for calculating elo
-def eloRating(game):    #was t1,t2,d
-    K = 32 #still working to find an ideal K
+def eloRating(game,K):    #was t1,t2,d
+#    K = 32 #still working to find an ideal K
 
     static_elo ()
 
@@ -72,10 +72,10 @@ def eloRating(game):    #was t1,t2,d
         if game['team2'] == teams[i]['short_name']:
             teams[i]['elo'] = r2
 
-def season ():
+def season (K):
     for i in range(len(games)):
-        eloRating(games[i])
+        eloRating(games[i],K)
     export_teams (teams)
     export_games (games)
 
-season()
+season(24)
