@@ -30,7 +30,6 @@ def probability(rating1, rating2):
 
 #function for calculating elo
 def eloRating(game,K):    #was t1,t2,d
-#    K = 32 #still working to find an ideal K
 
     static_elo ()
 
