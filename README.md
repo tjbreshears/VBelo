@@ -1,9 +1,9 @@
 # NCAA Men's Volleyball Elo
-*Game Data through 04/01/2021*
+*Game Data through 04/06/2021*
 
 *Recently added: Updated K to lower Mean Squared Error*
 
-![Rankings through 4/1/21](/images/elo040121.png)
+![Rankings through 4/6/21](/images/elo040621.png)
 
 ## The Project
 Volleyball, a much beloved sport, is significantly lacking in the category of advanced statistics. This is an attempt to help bring the widely used elo rating system into men's collegiate volleyball.

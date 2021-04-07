@@ -32,7 +32,7 @@ def probability(rating1, rating2):
 def eloRating(game,K):    #was t1,t2,d
 
     static_elo ()
-
+    global r1,r2
     for i in range(len(teams)):
         if game['team1'] == teams[i]['short_name']:
             r1 = teams[i]['elo']
