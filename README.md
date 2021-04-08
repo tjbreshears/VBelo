@@ -1,9 +1,9 @@
 # NCAA Men's Volleyball Elo
 *Game Data through 04/06/2021*
 
-*Recently added: Updated K to lower Mean Squared Error*
+*Recently added: Added home court advantage*
 
-![Rankings through 4/6/21](/images/elo040621.png)
+![Rankings through 4/6/21](/images/elo040721.png)
 
 ## The Project
 Volleyball, a much beloved sport, is significantly lacking in the category of advanced statistics. This is an attempt to help bring the widely used elo rating system into men's collegiate volleyball.
@@ -65,6 +65,9 @@ Since D-I and D-II teams often play non-conference games against D-III and NAIA 
 
 ### What about margin of victory?
 Currently, sets won/lost are taken into account. Eventually, points will be added too.
+
+### What about home court advantage?
+There is a seemingly significant advantage to playing at home in NCAA Men's Volleyball. Between 2015 and 2020, home teams won a little over 63% of the time. \([All credit to this goes to Jonathan Bates.](https://www.offtheblockblog.com/2021/04/data-analysis-home-court-not-as-important-during-2021-season/)\) Since 2021 has seen a slight decrease in home court advantage, the adjustment in the model for being the home team is equal to 70 elo points. This is equivalent to about a 10% advantage. While this is below the "actual" home court advantage, this leaves room for other factors, such as travel.
 
 ### What is the K value?
 It is currently 24. That was the best value to optimize the mean squared error (~0.2). As more data is collected, this will be revisited.
