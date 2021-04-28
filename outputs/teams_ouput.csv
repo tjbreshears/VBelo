@@ -15,7 +15,7 @@ Benedict,Benedict College,D-II,Tigers,SIAC,1500,0
 Benedictine,Benedictine University,D-III,Eagles,NACC,1419,0
 Bluefield,Bluefield College,NAIA,Rams,NAIA,1373,0
 Brooklyn,Brooklyn College,D-III,Bulldogs,CUNY AC,1419,0
-BYU,Brigham Young University,D-I,Cougars,MPSF,1672.804379947105,1
+BYU,Brigham Young University,D-I,Cougars,MPSF,1685.9612861817836,1
 Cairn,Cairn University,D-III,Highlanders,CSAC,1419,0
 Cal Lu,California Lutheran University,D-III,Kingsmen,Independent,1419,0
 Campbellsville,Campbellsville University,NAIA,Tigers,NAIA,1373,0
@@ -25,8 +25,8 @@ CCNY,City College of New York,D-III,Beavers,CUNY AC,1419,0
 Central,Central State University,D-II,Marauders,SIAC,1500,0
 Charleston,University of Charleston,D-II,Golden Eagles,EIVA,1430.7959022455843,1
 Colby,Colby–Sawyer College,D-III,Chargers,GNAC,1419,0
-Concordia,Concordia University Irvine,D-II,Eagles,MPSF,1436.2225459234396,1
-CSUN,CSU Northridge,D-I,Matadors,Big West,1458.5942767707968,1
+Concordia,Concordia University Irvine,D-II,Eagles,MPSF,1432.7000735779252,1
+CSUN,CSU Northridge,D-I,Matadors,Big West,1449.227161839855,1
 CUC,Concordia University Chicago,D-III,Cougars,NACC,1419,0
 Culver,Culver–Stockton College,NAIA,Wildcats,NAIA,1373,0
 CUW,Concordia University Wisconsin,D-III,Falcons,NACC,1419,0
@@ -50,13 +50,13 @@ Erskine,Erskine College,D-II,Flying Fleet,Carolinas,1463.453268198248,1
 Fisher,St. John Fisher College,D-III,Cardinals,UVC,1419,0
 Fontbonne,Fontbonne University,D-III,Griffins,MCVL,1419,0
 Fort Valley,Fort Valley State University,D-II,Wildcats,SIAC,1500,0
-GCU,Grand Canyon University,D-I,Antelopes,MPSF,1528.824463767446,1
+GCU,Grand Canyon University,D-I,Antelopes,MPSF,1539.2747142611909,1
 Geneva,Geneva College,D-III,Golden Tornadoes,AMCC,1419,0
 Georgetown,Georgetown College (KY),NAIA,Tigers,NAIA,1373,0
-GMU,George Mason University,D-I,Patriots,EIVA,1588.5606629415745,1
+GMU,George Mason University,D-I,Patriots,EIVA,1600.8274872287304,1
 Greenville,North Greenville University,D-II,Crusaders,Carolinas,1579.3307598516988,1
 Harvard,Harvard University,D-I,Crimson,EIVA,1500,0
-Hawaii,University of Hawai'i at Manoa,D-I,Rainbow Warriors,Big West,1676.295206933956,1
+Hawaii,University of Hawai'i at Manoa,D-I,Rainbow Warriors,Big West,1659.0445990180208,1
 Hilbert,Hilbert College,D-III,Hawks,AMCC,1419,0
 Hiram,Hiram College,D-III,Terriers,AMCC,1419,0
 Hunter,Hunter College,D-III,Hawks,CUNY AC,1419,0
@@ -74,18 +74,18 @@ KSU,Kentucky State University,D-II,Thorobreds,SIAC,1500,0
 Lakeland,Lakeland University,D-III,Muskies,NACC,1419,0
 Lancaster,Lancaster Bible College,D-III,Chargers,NEAC,1419,0
 Lasell,Lasell College,D-III,Lasers,GNAC,1419,0
-LBSU,Long Beach State,D-I,49ers,Big West,1540.9136978345655,1
+LBSU,Long Beach State,D-I,49ers,Big West,1545.5047939443652,1
 Lees,Lees–McRae College,D-II,Bobcats,Carolinas,1398.7118425317296,1
 Lehman,Lehman College,D-III,Lightning Bugs,CUNY AC,1419,0
 Lesley,Lesley University,D-III,Lynx,NECC,1419,0
-Lewis,Lewis University,D-II,Flyers,MIVA,1685.489917722759,1
+Lewis,Lewis University,D-II,Flyers,MIVA,1693.206967491132,1
 Life,Life University,NAIA,Running Eagles,NAIA,1373,0
 Limestone,Limestone University,D-II,Saints,Independent,1546.4475422710163,0
 Lindenwood,Lindenwood University,D-II,Lions,MIVA,1472.6155019840269,1
 LMU,Lincoln Memorial University,D-II,Railsplitters,Independent,1604.298077660501,0
 Loras,Loras College,D-III,Duhawks,CCIW,1419,0
 Lourdes,Lourdes University,NAIA,Grey Wolves,NAIA,1373,0
-Loyola,Loyola University Chicago,D-I,Ramblers,MIVA,1625.777199969848,1
+Loyola,Loyola University Chicago,D-I,Ramblers,MIVA,1622.060150201475,1
 Maranatha,Maranatha Baptist University,D-III,Sabercats,Independent,1419,0
 Marian,Marian University (WI),D-III,Sabres,NACC,1419,0
 Marymount,Marymount University,D-III,Saints,CVC,1419,0
@@ -105,7 +105,7 @@ Nazareth,Nazareth College (NY),D-III,Golden Flyers,UVC,1419,0
 Neumann,Neumann University,D-III,Knights,CVC,1419,0
 New Jersey,New Jersey City University,D-III,Gothic Knights,Skyline Conference,1419,0
 Nichols,Nichols College,D-III,Bison,NECC,1419,0
-NJIT,New Jersey Institute of Technology,D-I,Highlanders,EIVA,1614.588498551471,1
+NJIT,New Jersey Institute of Technology,D-I,Highlanders,EIVA,1601.6912069012644,1
 Norbert,St. Norbert College,D-III,Green Knights,NACC,1419,0
 North Central,North Central College,D-III,Cardinals,CCIW,1419,0
 North Park,North Park University,D-III,Vikings,CCIW,1419,0
@@ -116,10 +116,10 @@ Olive,University of Mount Olive,D-II,Trojans,Carolinas,1624.2587203981127,1
 Olivet,Olivet College,D-III,Comets,MCVL,1419,0
 OUAZ,Ottawa University Arizona,NAIA,Spirit,NAIA,1373,0
 Paine,Paine College,D-II,Lions,SIAC,1500,0
-Penn,Pennsylvania State University,D-I,Nittany Lions,EIVA,1675.012808322559,1
+Penn,Pennsylvania State University,D-I,Nittany Lions,EIVA,1687.9438911501595,1
 Penn Altoona,Penn State Altoona,D-III,Nittany Lions,AMCC,1419,0
 Penn Behrend,"Penn State Erie, The Behrend College",D-III,Behrend Lions,AMCC,1419,0
-Pepperdine,Pepperdine University,D-I,Waves,MPSF,1581.9104338660493,1
+Pepperdine,Pepperdine University,D-I,Waves,MPSF,1605.969460097508,1
 PFW,Purdue University Fort Wayne,D-I,Mastodons,MIVA,1503.469630426659,1
 Pine Manor,Pine Manor College,D-III,Gators,Independent,1419,0
 Pratt,Pratt Institute,D-III,Cannoneers,Independent,1419,0
@@ -139,12 +139,12 @@ Sage,The Sage Colleges,D-III,Gators,NECC,1419,0
 Saint Vincent,Saint Vincent College,D-III,Bearcats,AMCC,1419,0
 Sarah,Sarah Lawrence College,D-III,Gryphons,Skyline Conference,1419,0
 SFCB,St. Francis College (Brooklyn),D-I,Terriers,Independent,1514.4680809215884,0
-SFU,Saint Francis University (PA),D-I,Red Flash,EIVA,1480.6439901133015,1
+SFU,Saint Francis University (PA),D-I,Red Flash,EIVA,1480.3433746487517,1
 SJC Brooklyn,St. Joseph's College-Brooklyn,D-III,Bears,Skyline Conference,1419,0
 SJC Long Island,St. Joseph's College-Long Island,D-III,Golden Eagles,Skyline Conference,1419,0
 Springfield,Springfield College (MA),D-III,Pride,Independent,1419,0
 St Andrews,St. Andrews University,NAIA,Knights,NAIA,1373,0
-Stanford,Stanford University,D-I,Cardinal,MPSF,1448.9011534392564,1
+Stanford,Stanford University,D-I,Cardinal,MPSF,1442.616453819695,1
 Stevens,Stevens Institute of Technology,D-III,Ducks,MAC,1419,0
 Stevenson,Stevenson University,D-III,Mustangs,MAC,1419,0
 SUNY New Paltz,State University of New York at New Paltz,D-III,Hawks,UVC,1419,0
@@ -155,15 +155,15 @@ SVU,Southern Virginia University,D-III,Knights,CVC,1419,0
 Thiel,Thiel College,D-III,Tomcats,AMCC,1419,0
 Trine,Trine University,D-III,Thunder,MCVL,1419,0
 Tusculum,Tusculum University,D-II,Pioneers,Independent,1458.4333460226237,0
-UCI,UC Irvine,D-I,Anteaters,Big West,1428.9063547765932,1
-UCLA,UCLA,D-I,Bruins,MPSF,1619.8444165969584,1
-UCSB,UC Santa Barbara,D-I,Gauchos,Big West,1601.674266925802,1
+UCI,UC Irvine,D-I,Anteaters,Big West,1420.646275905592,1
+UCLA,UCLA,D-I,Bruins,MPSF,1614.156232329214,1
+UCSB,UC Santa Barbara,D-I,Gauchos,Big West,1623.988521817997,1
 UCSC,UC Santa Cruz,D-III,Banana Slugs,Independent,1419,0
-UCSD,UC San Diego,D-I,Tritons,Big West,1457.6161967582864,1
+UCSD,UC San Diego,D-I,Tritons,Big West,1485.5886474741699,1
 UPRB,University of Puerto Rico at Bayamon,D-II,Cowboys,Independent,1500,0
 UPRM,University of Puerto Rico at Mayaguez,D-II,Tarzans,Independent,1500,0
 UPRRP,"University of Puerto Rico, Rio Piedras",D-II,Gallitos,Independent,1500,0
-USC,University of Southern California,D-I,Trojans,MPSF,1455.4926064597453,1
+USC,University of Southern California,D-I,Trojans,MPSF,1447.3217797326834,1
 Valley Forge,University of Valley Forge,D-III,Patriots,CSAC,1419,0
 Vassar,Vassar College,D-III,Brewers,UVC,1419,0
 Wabash,Wabash College,D-III,Little Giants,MCVL,1419,0
