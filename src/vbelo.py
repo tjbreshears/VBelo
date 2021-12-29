@@ -22,6 +22,8 @@ def static_elo ():
             teams[i]['elo'] = 1419
         elif teams[i]['division'] == 'NAIA':
             teams[i]['elo'] = 1373
+        elif teams[i]['division'] == 'NCCAA':
+            teams[i]['elo'] = 1373
 
 # Function to calculate the Probability of winning/losing
 def probability(rating1, rating2):
