@@ -3,7 +3,7 @@
 
 *Recently added: Added distance traveled adjustment*
 
-![Rankings through 5/8/21](/images/elo050821.png)
+![2022 Pre-season Rankings](/images/elo.2021.12.29.png)
 
 ## The Project
 Volleyball, a much beloved sport, is significantly lacking in the category of advanced statistics. This is an attempt to help bring the widely used elo rating system into men's collegiate volleyball.
