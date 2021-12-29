@@ -1,9 +1,9 @@
 # VBelo - NCAA Men's Volleyball Elo
-*Game Data through 2021 season*
 
 *Recently added: Added distance traveled adjustment*
 
-![2022 Pre-season Rankings](/images/elo.2021.12.29.png)
+## 2022 Pre-season Rankings
+![2022 Pre-season Rankings](/images/elo2021.12.29.png)
 
 ## The Project
 Volleyball, a much beloved sport, is significantly lacking in the category of advanced statistics. This is an attempt to help bring the widely used elo rating system into men's collegiate volleyball.
