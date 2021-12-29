@@ -137,7 +137,7 @@ def top25 (teams):
     df = df.reset_index(drop=True)
     df.index = df.index + 1
     df['elo'] = df['elo'].round(decimals = 0).astype(int)
-    df.rename(columns = {'short_name':'School', 'elo':'Elo Rating'}, inplace = True)
+    df.rename(columns = {'full_name':'School', 'elo':'Elo Rating'}, inplace = True)
     print(df[['School','Elo Rating']].head(25))
 
 season(24,-1,'2021')
