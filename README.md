@@ -1,8 +1,8 @@
 # VBelo - NCAA Men's Volleyball Elo
-*Game Data through 2021 season*
 
 *Recently added: Added distance traveled adjustment*
 
+## 2022 Pre-season Rankings
 ![2022 Pre-season Rankings](/images/elo2021.12.29.png)
 
 ## The Project
