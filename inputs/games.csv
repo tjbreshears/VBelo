@@ -426,5 +426,5 @@ date,season,home,neutral,playoff,team1,team2,result_team1,result_team2,sets_team
 5/6/2021,2021,Ohio,1,1,Hawaii,UCSB,1,0,3,0,75,62,,,,,,,,
 5/6/2021,2021,Ohio,1,1,BYU,Lewis,1,0,3,1,101,85,,,,,,,,
 5/8/2021,2021,Ohio,1,1,BYU,Hawaii,0,1,0,3,56,75,,,,,,,,
-1/5/2022,2022,Hawaii,0,0,Loyola,Hawaii,,,,,,,,,,,,,,
-1/5/2022,2022,Stanford,0,0,Lindenwood,Stanford,,,,,,,,,,,,,,
+1/5/2022,2022,Hawaii,0,0,Loyola,Hawaii,0,1,0,3,55,75,,,,,,,,
+1/5/2022,2022,Stanford,0,0,Lindenwood,Stanford,0,1,0,3,48,75,,,,,,,,

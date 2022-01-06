@@ -123,6 +123,7 @@ def season (K,t,season1):
         eloRating(games[i],K,t,current_season)
         current_season = games[i]['season']
     export_games (games)
+    export_teams (teams)
 
 def export_games (games):
     field_names = ['date','season','home','neutral','playoff','team1','team2','result_team1','result_team2','sets_team1','sets_team2','points_team1','points_team2','elo_start_team1','elo_start_team2','elo_adjusted_team1','elo_adjusted_team2','probability_team1','probability_team2','elo_end_team1','elo_end_team2']
@@ -131,8 +132,16 @@ def export_games (games):
         writer.writeheader()
         writer.writerows(games)
 
+def export_teams (teams):
+    field_names = ['short_name','full_name','division','mascot','conference','elo','location','eligible']
+    with open('outputs/teams_ouput.csv', 'w', newline='') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames = field_names)
+        writer.writeheader()
+        writer.writerows(teams)
+
 def top25 (teams):
     df = pd.DataFrame.from_dict(teams)
+    df = df.loc[df['eligible'] == '1']
     df = df.sort_values(['elo'], ascending=False)
     df = df.reset_index(drop=True)
     df.index = df.index + 1
