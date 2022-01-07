@@ -52,6 +52,7 @@ The goal is to include all NCAA D-I and D-II teams since they are all competing 
 * EIVA
 * MIVA
 * MPSF
+* SIAC
 * Independent Teams
 
 ### What about D-III, NAIA, and NCCAA teams?
