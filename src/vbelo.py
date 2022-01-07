@@ -32,6 +32,11 @@ def probability(rating1, rating2):
 
 # Function for calculating elo for a single game
 def eloRating(game,K,t,current_season):
+    global last_date
+    if game['result_team1'] == '':
+        pass
+    else:
+        last_date = game['date']
 
 # Reverts elo to mean by 1/3 for new season
     if game['season'] != current_season:
@@ -140,7 +145,7 @@ def export_teams (teams):
         writer.writeheader()
         writer.writerows(teams)
 
-def toplist (teams):
+def top25 (teams):
     df = pd.DataFrame.from_dict(teams)
     df = df.loc[df['eligible'] == '1']
     df = df.sort_values(['elo'], ascending=False)
@@ -152,19 +157,24 @@ def toplist (teams):
     rank = df[['School','Elo Rating']].head(25)
 
     # Table
-    fig, ax = plt.subplots()
+    fig, ax = plt.subplots(dpi=200)
     fig.patch.set_visible(False)
     ax.axis('off')
     ax.axis('tight')
-    plt.title('VBelo Ranking', loc='center',pad='40')
+    plt.title('VBelo Ranking', loc='center',pad='40',size='x-large',family='Cambria',weight='bold')
     table = ax.table(cellText=rank.values, colLabels=rank.columns, loc='center',rowLabels=rank.index)
     table.auto_set_font_size(False)
     table.set_fontsize(8)
     table.auto_set_column_width(col=list(range(len(rank.columns))))
+    plt.text(0,-0.072,f"Games through: {last_date}",ha='center',size='small',family='Cambria')
+    cells = table.properties()["celld"]
+    for i in range(0, 26):
+        cells[i, 1].set_text_props(ha="center")
 
     #display table
     fig.tight_layout()
-    plt.show()
+#    plt.show()
+    plt.savefig("outputs\elo_top_25.jpg")
 
 season(24,-1,'2021')
-toplist(teams)
+top25(teams)
