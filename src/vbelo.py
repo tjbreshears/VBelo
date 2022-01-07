@@ -2,6 +2,7 @@ import csv
 import math
 import pandas as pd
 import geopy.distance as gp
+import matplotlib.pyplot as plt
 
 teams = []
 with open("inputs/teams.csv", 'r') as data:
@@ -139,7 +140,7 @@ def export_teams (teams):
         writer.writeheader()
         writer.writerows(teams)
 
-def top25 (teams):
+def toplist (teams):
     df = pd.DataFrame.from_dict(teams)
     df = df.loc[df['eligible'] == '1']
     df = df.sort_values(['elo'], ascending=False)
@@ -147,7 +148,23 @@ def top25 (teams):
     df.index = df.index + 1
     df['elo'] = df['elo'].round(decimals = 0).astype(int)
     df.rename(columns = {'full_name':'School', 'elo':'Elo Rating'}, inplace = True)
-    print(df[['School','Elo Rating']].head(25))
+    df.index.name = "Rank"
+    rank = df[['School','Elo Rating']].head(25)
+
+    # Table
+    fig, ax = plt.subplots()
+    fig.patch.set_visible(False)
+    ax.axis('off')
+    ax.axis('tight')
+    plt.title('VBelo Ranking', loc='center',pad='40')
+    table = ax.table(cellText=rank.values, colLabels=rank.columns, loc='center',rowLabels=rank.index)
+    table.auto_set_font_size(False)
+    table.set_fontsize(8)
+    table.auto_set_column_width(col=list(range(len(rank.columns))))
+
+    #display table
+    fig.tight_layout()
+    plt.show()
 
 season(24,-1,'2021')
-top25(teams)
+toplist(teams)
