@@ -173,7 +173,7 @@ def top25 (teams):
 
     #display table
     fig.tight_layout()
-    plt.show()
+#    plt.show()
     plt.savefig("outputs\elo_top_25.jpg")
 
 season(30,-1,'2020')
