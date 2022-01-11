@@ -38,11 +38,11 @@ def eloRating(game,K,t,current_season):
     else:
         last_date = game['date']
 
-# Reverts elo to mean by 1/3 for new season
+# Reverts elo to mean by 1/4 for new season
     if game['season'] != current_season:
         current_season = game['season']
         for i in range(len(teams)):
-            teams[i]['elo'] = int(teams[i]['elo'])-((int(teams[i]['elo'])-1500)/3)
+            teams[i]['elo'] = int(teams[i]['elo'])-((int(teams[i]['elo'])-1500)/4)
 
     static_elo ()
     global r1_start,r2_start,r1_adjust,r2_adjust,r1_end,r2_end
@@ -65,7 +65,7 @@ def eloRating(game,K,t,current_season):
 #home court advantage
 #home teams are always listed as team2 in input
     if game['home'] == game['team2']:
-        r2_adjust = r2_start + 70
+        r2_adjust = r2_start + 50
         game['elo_adjusted_team2'] = r2_adjust
 
 # Travel adjustment
@@ -173,8 +173,8 @@ def top25 (teams):
 
     #display table
     fig.tight_layout()
-#    plt.show()
+    plt.show()
     plt.savefig("outputs\elo_top_25.jpg")
 
-season(24,-1,'2021')
+season(30,-1,'2020')
 top25(teams)
