@@ -77,7 +77,7 @@ Traveling is hard, so I want the model to reflect that. By looking at mean squar
 ### What about players graduating and year-to-year changes?
 Obviously, no program has the exact same roster two years in a row. To help adjust for graduates and/or transfers (and potentially elo inflation), at the beginning of each season, every team will have their elo reverted by 1/4 to 1500 (the average elo).
 
-### What about schools that add mn's volleyball?
+### What about schools that add men's volleyball?
 For new programs to the D-I/II level starting in 2022, they will be given a starting elo of 1419 (the static elo given to D-III teams). They will start as if they were D-III teams and then their elo will change with every game they play.
 
 ### What is the K value?
