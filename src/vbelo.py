@@ -43,6 +43,20 @@ def eloRating(game,K,t,current_season):
         current_season = game['season']
         for i in range(len(teams)):
             teams[i]['elo'] = int(teams[i]['elo'])-((int(teams[i]['elo'])-1500)/4)
+# Sets elo for new teams for their first season
+        if current_season == '2022':
+            for i in range(len(teams)):
+                if teams[i]['short_name'] == 'American' or \
+                teams[i]['short_name'] == 'Benedict' or \
+                teams[i]['short_name'] == 'Central' or \
+                teams[i]['short_name'] == 'Edward' or \
+                teams[i]['short_name'] == 'Fairleigh' or \
+                teams[i]['short_name'] == 'Fort Valley' or \
+                teams[i]['short_name'] == 'KSU' or \
+                teams[i]['short_name'] == 'LIU' or \
+                teams[i]['short_name'] == 'Maryville' or \
+                teams[i]['short_name'] == 'Morehouse':
+                    teams[i]['elo'] = 1419
 
     static_elo ()
     global r1_start,r2_start,r1_adjust,r2_adjust,r1_end,r2_end
