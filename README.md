@@ -15,7 +15,7 @@ Huge thanks to Jonathan Bates [@mpsf_bias](http://www.twitter.com/mpsf_bias) for
 ## The Data
 ***Always looking for more data. Let me know if you are interested in helping with data collection.***
 
-**[Games](inputs/games.csv)** - A list of games where at least one team is eligible to compete for the NCAA D-I/II Championship. Currently, dataset include seasons starting from 2020.
+**[Games](inputs/VBelo - games.csv)** - A list of games where at least one team is eligible to compete for the NCAA D-I/II Championship. Currently, dataset include seasons starting from 2020.
 |Field|Description|
 | ----------- | ----------- |
 |date|Date the game was played.|
@@ -32,7 +32,7 @@ Huge thanks to Jonathan Bates [@mpsf_bias](http://www.twitter.com/mpsf_bias) for
 |probability_team#|Probability that team# will will the game given both teams beginning elo rating.|
 |elo_end_team#|The elo rating at the end of the match after match results are complete.|
 
-**[Teams List](inputs/teams.csv)** - A complete list of D-I, D-II, and D-III men's volleyball programs. Select NAIA and NCCAA schools added if they play a Championship eligible team.
+**[Teams List](inputs/VBelo - teams.csv)** - A complete list of D-I, D-II, and D-III men's volleyball programs. Select NAIA and NCCAA schools added if they play a Championship eligible team.
 |Field|Description|
 | ----------- | ----------- |
 |short_name|School name used in games spreadsheet.|

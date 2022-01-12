@@ -5,14 +5,14 @@ import geopy.distance as gp
 import matplotlib.pyplot as plt
 
 teams = []
-with open("inputs/teams.csv", 'r') as data:
+with open("inputs/VBelo - teams.csv", 'r') as data:
     for line in csv.DictReader(data):
         teams.append(line)
 for i in range(len(teams)):
     teams[i]['elo'] = int(teams[i]['elo'])
 
 games = []
-with open("inputs/games.csv", 'r') as data:
+with open("inputs/VBelo - games.csv", 'r') as data:
     for line in csv.DictReader(data):
         games.append(line)
 
