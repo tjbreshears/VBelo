@@ -153,7 +153,7 @@ def export_games (games):
         writer.writerows(games)
 
 def export_teams (teams):
-    field_names = ['short_name','full_name','division','mascot','conference','elo','location','eligible']
+    field_names = ['short_name','full_name','division','mascot','conference','elo','location','eligible','twitter']
     with open('outputs/teams_ouput.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames = field_names)
         writer.writeheader()
