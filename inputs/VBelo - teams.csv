@@ -2,7 +2,7 @@ short_name,full_name,division,mascot,conference,elo,location,eligible,twitter
 Adrian,Adrian College,D-III,Bulldogs,MCVL,1500,"41.897785701653525, -84.06378176498569",0,
 Alderson,Alderson Broaddus University,D-II,Battlers,Independent,1500,"39.15707821033467, -80.05158937406792",1,
 Alvernia,Alvernia University,D-III,Crusaders,MAC,1500,"40.308195482372284, -75.93609804774519",0,
-American,American International College,D-II,Yellow Jackets,Independent,1419,"42.11819653301246, -72.55411909135562",1,
+American,American International College,D-II,Yellow Jackets,Independent,1419,"42.11819653301246, -72.55411909135562",1,@AiCmvb
 Arcadia,Arcadia University,D-III,Knights,MAC,1500,"40.09189512018325, -75.16543497405404",0,
 Augustana,Augustana College (IL),D-III,Vikings,CCIW,1500,"41.50707807397814, -90.5507023989337",0,
 Aurora,Aurora University,D-III,Spartans,NACC,1500,"41.754929518874825, -88.35040048173529",0,
@@ -35,7 +35,7 @@ CUW,Concordia University Wisconsin,D-III,Falcons,NACC,1500,"43.25429597914008, -
 Daemen,Daemen College,D-II,Wildcats,Independent,1500,"42.964334636072195, -78.78783629673202",1,
 Dean,Dean College,D-III,Bulldogs,GNAC,1500,"42.08636133425835, -71.39748949045915",0,
 Dominican,Dominican University (IL),D-III,Stars,NACC,1500,"41.903363621408715, -87.82152751845709",0,
-DYouville,D'Youville College,D-II,Saints,Independent,1500,"42.90182578107489, -78.88965269252517",1,
+DYouville,D'Youville College,D-II,Saints,Independent,1500,"42.90182578107489, -78.88965269252517",1,@DYouvilleMVB
 Eastern,Eastern University,D-III,Eagles,MAC,1500,"40.050986680102724, -75.37269408034746",0,
 Edgewood,Edgewood College,D-III,Eagles,NACC,1500,"43.05830704392353, -89.42167424499276",0,
 Edward,Edward Waters University,D-II,Tigers,SIAC,1419,"30.34614835020607, -81.68808435799133",1,#EWUMVB
@@ -47,7 +47,7 @@ Emerson,Emerson College,D-III,Lions,GNAC,1500,"42.35224553601047, -71.0658221301
 Emmanuel,Emmanuel College,D-II,Lions,Carolinas,1500,"34.28232255958307, -83.15283746675586",1,
 Emmanuel MA,Emmanuel College (MA),D-III,Saints,GNAC,1500,"42.34035470893204, -71.10340832812273",0,
 EMU,Eastern Mennonite University,D-III,Royals,CVC,1500,"38.4724731498568, -78.87859418683938",0,
-Endicott,Endicott College,D-III,Gulls,NECC,1500,"42.555019322717676, -70.83965869564096",0,
+Endicott,Endicott College,D-III,Gulls,NECC,1500,"42.555019322717676, -70.83965869564096",0,@EndicottMVB
 ENU,Eastern Nazarene College,D-III,Lions,NECC,1500,"42.27217678612162, -71.01071405591968",0,
 Erskine,Erskine College,D-II,Flying Fleet,Carolinas,1500,"34.33264844123455, -82.39295012824844",1,
 Fairleigh,Fairleigh Dickinson University,D-I,Knights,Independent,1419,"40.896665989152474, -74.03244336140656",1,
@@ -63,7 +63,7 @@ Grand View,Grand View University,NAIA,Vikings,NAIA,1500,"41.61980219082709, -93.
 Greenville,North Greenville University,D-II,Crusaders,Carolinas,1500,"35.069533766249734, -82.37309708210283",1,
 Harvard,Harvard University,D-I,Crimson,EIVA,1500,"42.37135182238967, -71.11941108239166",1,@HarvardMVB
 Hawaii,University of Hawai'i at Manoa,D-I,Rainbow Warriors,Big West,1500,"21.294609859692425, -157.8183992624992",1,@HawaiiMensVB
-Hilbert,Hilbert College,D-III,Hawks,AMCC,1500,"42.75407223484585, -78.81970205433396",0,
+Hilbert,Hilbert College,D-III,Hawks,AMCC,1500,"42.75407223484585, -78.81970205433396",0,@HilbertAthletic
 Hiram,Hiram College,D-III,Terriers,AMCC,1500,"41.311370096971544, -81.14153368962442",0,
 Hunter,Hunter College,D-III,Hawks,CUNY AC,1500,"40.76777636366904, -73.96455470358497",0,
 IIT,Illinois Institute of Technology,D-III,Scarlet Hawks,NACC,1500,"41.839019206655045, -87.62557170033118",0,
