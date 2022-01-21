@@ -49,7 +49,7 @@ Emmanuel MA,Emmanuel College (MA),D-III,Saints,GNAC,1419,"42.34035470893204, -71
 EMU,Eastern Mennonite University,D-III,Royals,CVC,1419,"38.4724731498568, -78.87859418683938",0,
 Endicott,Endicott College,D-III,Gulls,NECC,1419,"42.555019322717676, -70.83965869564096",0,@EndicottMVB
 ENU,Eastern Nazarene College,D-III,Lions,NECC,1419,"42.27217678612162, -71.01071405591968",0,
-Erskine,Erskine College,D-II,Flying Fleet,Carolinas,1442.492733581294,"34.33264844123455, -82.39295012824844",1,@FlyingFleetMVB
+Erskine,Erskine College,D-II,Flying Fleet,Carolinas,1440.1864519328078,"34.33264844123455, -82.39295012824844",1,@FlyingFleetMVB
 Fairleigh,Fairleigh Dickinson University,D-I,Knights,Independent,1419,"40.896665989152474, -74.03244336140656",1,
 First Point,First Point Collegiate Challenge,n/a,n/a,n/a,656.25,"30.263653912461567, -97.73966337824726",0,
 Fisher,St. John Fisher College,D-III,Cardinals,UVC,1419,"43.11613765507209, -77.50989152025222",0,
@@ -58,7 +58,7 @@ Fort Valley,Fort Valley State University,D-II,Wildcats,SIAC,1415.5636882122492,"
 GCU,Grand Canyon University,D-I,Antelopes,MPSF,1606.574839095212,"33.51026623785861, -112.12902999636252",1,@GCU_MVolleyball
 Geneva,Geneva College,D-III,Golden Tornadoes,AMCC,1419,"40.77105523710914, -80.32069510818673",0,
 Georgetown,Georgetown College (KY),NAIA,Tigers,NAIA,1373,"38.2075905437859, -84.55289270669186",0,@GCAthletics
-GMU,George Mason University,D-I,Patriots,EIVA,1627.8201226141225,"38.83065978140495, -77.3124337809112",1,@GoMasonMVB
+GMU,George Mason University,D-I,Patriots,EIVA,1643.8402625314561,"38.83065978140495, -77.3124337809112",1,@GoMasonMVB
 Grand View,Grand View University,NAIA,Vikings,NAIA,1373,"41.61980219082709, -93.59806643803012",0,
 Greenville,North Greenville University,D-II,Crusaders,Carolinas,1605.4545915723077,"35.069533766249734, -82.37309708210283",1,
 Harvard,Harvard University,D-I,Crimson,EIVA,1518.1070560821795,"42.37135182238967, -71.11941108239166",1,@HarvardMVB
@@ -88,7 +88,7 @@ Lehman,Lehman College,D-III,Lightning Bugs,CUNY AC,1419,"40.87466726077226, -73.
 Lesley,Lesley University,D-III,Lynx,NECC,1419,"42.43001050429625, -71.12511049597039",0,
 Lewis,Lewis University,D-II,Flyers,MIVA,1752.1451787779422,"41.60507512399408, -88.08211780186922",1,@LewisMVBall
 Life,Life University,NAIA,Running Eagles,NAIA,1373,"33.931020655187076, -84.51727778423846",0,
-Limestone,Limestone University,D-II,Saints,Independent,1589.3764339245686,"35.0550147456207, -81.65177833084384",1,@LimestoneSaints
+Limestone,Limestone University,D-II,Saints,Independent,1596.6827155730548,"35.0550147456207, -81.65177833084384",1,@LimestoneSaints
 Lindenwood,Lindenwood University,D-II,Lions,MIVA,1480.293369605994,"38.78885569308603, -90.50402535960333",1,
 LIU,Long Island University,D-I,Sharks,Independent,1417.1206170394175,"40.69062486571616, -73.979257542518",1,
 LMU,Lincoln Memorial University,D-II,Railsplitters,Independent,1649.0686645908925,"36.58069456454686, -83.6625514731423",1,
@@ -135,7 +135,7 @@ Penn,Pennsylvania State University,D-I,Nittany Lions,EIVA,1738.362330694298,"40.
 Penn Altoona,Penn State Altoona,D-III,Nittany Lions,AMCC,1419,"40.54129159543888, -78.4106558057087",0,
 Penn Behrend,"Penn State Erie, The Behrend College",D-III,Behrend Lions,AMCC,1419,"42.12012061305278, -79.97809207472905",0,
 Pepperdine,Pepperdine University,D-I,Waves,MPSF,1648.7310873580088,"34.03852398415157, -118.70978524990564",1,
-PFW,Purdue University Fort Wayne,D-I,Mastodons,MIVA,1561.8357455546447,"41.11944698196785, -85.10730666554868",1,@MastodonMVB
+PFW,Purdue University Fort Wayne,D-I,Mastodons,MIVA,1550.8156056373111,"41.11944698196785, -85.10730666554868",1,@MastodonMVB
 Pine Manor,Pine Manor College,D-III,Gators,Independent,1419,"42.32090975390333, -71.15797182073103",0,
 Pratt,Pratt Institute,D-III,Cannoneers,Independent,1419,"40.690913899534586, -73.96207617419944",0,
 Princeton,Princeton University,D-I,Tigers,EIVA,1561.2496123557855,"40.345617856393154, -74.65879610189774",1,@PrincetonVolley
