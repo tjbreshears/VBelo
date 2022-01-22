@@ -44,7 +44,7 @@ def season_stats (year):
 
 def export_teams_season (teams):
     field_names = ['short_name','full_name','division','conference','w','l','sf','sa','sd','pf','pa','pd']
-    with open('outputs/teams_ouput_2022.csv', 'w', newline='') as csvfile:
+    with open('outputs/teams_output_2022.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames = field_names)
         writer.writeheader()
         writer.writerows(teams)
