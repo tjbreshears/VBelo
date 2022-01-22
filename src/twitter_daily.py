@@ -27,4 +27,4 @@ def tweet(date):
                     team2 = teams[x]['twitter']
             text += (f'{team1} ({team1p}%) vs {team2} ({team2p}%)\n')
     print(text)
-tweet('1/20/2022')
+tweet('1/22/2022')
