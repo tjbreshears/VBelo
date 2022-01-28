@@ -1,56 +1,56 @@
-short_name,full_name,division,conference,w,l,sf,sa,sd,pf,pa,pd
-Alderson,Alderson Broaddus University,D-II,Independent,0,0,0,0,0,0,0,0
-American,American International College,D-II,Independent,0,0,0,0,0,0,0,0
-Ball,Ball State University,D-I,MIVA,0,0,0,0,0,0,0,0
-Barton,Barton College,D-II,Carolinas,0,0,0,0,0,0,0,0
-Belmont,Belmont Abbey College,D-II,Carolinas,0,0,0,0,0,0,0,0
-Benedict,Benedict College,D-II,SIAC,0,0,0,0,0,0,0,0
-BYU,Brigham Young University,D-I,MPSF,0,0,0,0,0,0,0,0
-Central,Central State University,D-II,SIAC,0,0,0,0,0,0,0,0
-Charleston,University of Charleston,D-II,EIVA,0,0,0,0,0,0,0,0
-Concordia,Concordia University Irvine,D-II,MPSF,0,0,0,0,0,0,0,0
-CSUN,CSU Northridge,D-I,Big West,0,0,0,0,0,0,0,0
-Daemen,Daemen College,D-II,Independent,0,0,0,0,0,0,0,0
-DYouville,D'Youville College,D-II,Independent,0,0,0,0,0,0,0,0
-Edward,Edward Waters University,D-II,SIAC,0,0,0,0,0,0,0,0
-Emmanuel,Emmanuel College,D-II,Carolinas,0,0,0,0,0,0,0,0
-Erskine,Erskine College,D-II,Carolinas,0,0,0,0,0,0,0,0
-Fairleigh,Fairleigh Dickinson University,D-I,Independent,0,0,0,0,0,0,0,0
-Fort Valley,Fort Valley State University,D-II,SIAC,0,0,0,0,0,0,0,0
-GCU,Grand Canyon University,D-I,MPSF,0,0,0,0,0,0,0,0
-GMU,George Mason University,D-I,EIVA,0,0,0,0,0,0,0,0
-Greenville,North Greenville University,D-II,Carolinas,0,0,0,0,0,0,0,0
-Harvard,Harvard University,D-I,EIVA,0,0,0,0,0,0,0,0
-Hawaii,University of Hawai'i at Manoa,D-I,Big West,0,0,0,0,0,0,0,0
-King,King University,D-II,Carolinas,0,0,0,0,0,0,0,0
-KSU,Kentucky State University,D-II,SIAC,0,0,0,0,0,0,0,0
-LBSU,Long Beach State,D-I,Big West,0,0,0,0,0,0,0,0
-Lees,Lees–McRae College,D-II,Carolinas,0,0,0,0,0,0,0,0
-Lewis,Lewis University,D-II,MIVA,0,0,0,0,0,0,0,0
-Limestone,Limestone University,D-II,Independent,0,0,0,0,0,0,0,0
-Lindenwood,Lindenwood University,D-II,MIVA,0,0,0,0,0,0,0,0
-LIU,Long Island University,D-I,Independent,0,0,0,0,0,0,0,0
-LMU,Lincoln Memorial University,D-II,Independent,0,0,0,0,0,0,0,0
-Loyola,Loyola University Chicago,D-I,MIVA,0,0,0,0,0,0,0,0
-Maryville,Maryville University,D-II,Independent,0,0,0,0,0,0,0,0
-McKendree,McKendree University,D-II,MIVA,0,0,0,0,0,0,0,0
-Morehouse,Morehouse College,D-II,SIAC,0,0,0,0,0,0,0,0
-NJIT,New Jersey Institute of Technology,D-I,EIVA,0,0,0,0,0,0,0,0
-Ohio,The Ohio State University,D-I,MIVA,0,0,0,0,0,0,0,0
-Olive,University of Mount Olive,D-II,Carolinas,0,0,0,0,0,0,0,0
-Penn,Pennsylvania State University,D-I,EIVA,0,0,0,0,0,0,0,0
-Pepperdine,Pepperdine University,D-I,MPSF,0,0,0,0,0,0,0,0
-PFW,Purdue University Fort Wayne,D-I,MIVA,0,0,0,0,0,0,0,0
-Princeton,Princeton University,D-I,EIVA,0,0,0,0,0,0,0,0
-Queens,Queens University of Charlotte,D-II,Independent,0,0,0,0,0,0,0,0
-Quincy,Quincy University,D-II,MIVA,0,0,0,0,0,0,0,0
-Sacred,Sacred Heart University,D-I,EIVA,0,0,0,0,0,0,0,0
-SFCB,St. Francis College (Brooklyn),D-I,EIVA,0,0,0,0,0,0,0,0
-SFU,Saint Francis University (PA),D-I,EIVA,0,0,0,0,0,0,0,0
-Stanford,Stanford University,D-I,MPSF,0,0,0,0,0,0,0,0
-Tusculum,Tusculum University,D-II,Independent,0,0,0,0,0,0,0,0
-UCI,UC Irvine,D-I,Big West,0,0,0,0,0,0,0,0
-UCLA,UCLA,D-I,MPSF,0,0,0,0,0,0,0,0
-UCSB,UC Santa Barbara,D-I,Big West,0,0,0,0,0,0,0,0
-UCSD,UC San Diego,D-I,Big West,0,0,0,0,0,0,0,0
-USC,University of Southern California,D-I,MPSF,0,0,0,0,0,0,0,0
+short_name,full_name,division,conference,w,l,sf,sa,sd,pf,pa,pd,soo
+Alderson,Alderson Broaddus University,D-II,Independent,0,0,0,0,0,0,0,0,0
+American,American International College,D-II,Independent,0,0,0,0,0,0,0,0,0
+Ball,Ball State University,D-I,MIVA,0,0,0,0,0,0,0,0,0
+Barton,Barton College,D-II,Carolinas,0,0,0,0,0,0,0,0,0
+Belmont,Belmont Abbey College,D-II,Carolinas,0,0,0,0,0,0,0,0,0
+Benedict,Benedict College,D-II,SIAC,0,0,0,0,0,0,0,0,0
+BYU,Brigham Young University,D-I,MPSF,0,0,0,0,0,0,0,0,0
+Central,Central State University,D-II,SIAC,0,0,0,0,0,0,0,0,0
+Charleston,University of Charleston,D-II,EIVA,0,0,0,0,0,0,0,0,0
+Concordia,Concordia University Irvine,D-II,MPSF,0,0,0,0,0,0,0,0,0
+CSUN,CSU Northridge,D-I,Big West,0,0,0,0,0,0,0,0,0
+Daemen,Daemen College,D-II,Independent,0,0,0,0,0,0,0,0,0
+DYouville,D'Youville College,D-II,Independent,0,0,0,0,0,0,0,0,0
+Edward,Edward Waters University,D-II,SIAC,0,0,0,0,0,0,0,0,0
+Emmanuel,Emmanuel College,D-II,Carolinas,0,0,0,0,0,0,0,0,0
+Erskine,Erskine College,D-II,Carolinas,0,0,0,0,0,0,0,0,0
+Fairleigh,Fairleigh Dickinson University,D-I,Independent,0,0,0,0,0,0,0,0,0
+Fort Valley,Fort Valley State University,D-II,SIAC,0,0,0,0,0,0,0,0,0
+GCU,Grand Canyon University,D-I,MPSF,0,0,0,0,0,0,0,0,0
+GMU,George Mason University,D-I,EIVA,0,0,0,0,0,0,0,0,0
+Greenville,North Greenville University,D-II,Carolinas,0,0,0,0,0,0,0,0,0
+Harvard,Harvard University,D-I,EIVA,0,0,0,0,0,0,0,0,0
+Hawaii,University of Hawai'i at Manoa,D-I,Big West,0,0,0,0,0,0,0,0,0
+King,King University,D-II,Carolinas,0,0,0,0,0,0,0,0,0
+KSU,Kentucky State University,D-II,SIAC,0,0,0,0,0,0,0,0,0
+LBSU,Long Beach State,D-I,Big West,0,0,0,0,0,0,0,0,0
+Lees,Lees–McRae College,D-II,Carolinas,0,0,0,0,0,0,0,0,0
+Lewis,Lewis University,D-II,MIVA,0,0,0,0,0,0,0,0,0
+Limestone,Limestone University,D-II,Independent,0,0,0,0,0,0,0,0,0
+Lindenwood,Lindenwood University,D-II,MIVA,0,0,0,0,0,0,0,0,0
+LIU,Long Island University,D-I,Independent,0,0,0,0,0,0,0,0,0
+LMU,Lincoln Memorial University,D-II,Independent,0,0,0,0,0,0,0,0,0
+Loyola,Loyola University Chicago,D-I,MIVA,0,0,0,0,0,0,0,0,0
+Maryville,Maryville University,D-II,Independent,0,0,0,0,0,0,0,0,0
+McKendree,McKendree University,D-II,MIVA,0,0,0,0,0,0,0,0,0
+Morehouse,Morehouse College,D-II,SIAC,0,0,0,0,0,0,0,0,0
+NJIT,New Jersey Institute of Technology,D-I,EIVA,0,0,0,0,0,0,0,0,0
+Ohio,The Ohio State University,D-I,MIVA,0,0,0,0,0,0,0,0,0
+Olive,University of Mount Olive,D-II,Carolinas,0,0,0,0,0,0,0,0,0
+Penn,Pennsylvania State University,D-I,EIVA,0,0,0,0,0,0,0,0,0
+Pepperdine,Pepperdine University,D-I,MPSF,0,0,0,0,0,0,0,0,0
+PFW,Purdue University Fort Wayne,D-I,MIVA,0,0,0,0,0,0,0,0,0
+Princeton,Princeton University,D-I,EIVA,0,0,0,0,0,0,0,0,0
+Queens,Queens University of Charlotte,D-II,Independent,0,0,0,0,0,0,0,0,0
+Quincy,Quincy University,D-II,MIVA,0,0,0,0,0,0,0,0,0
+Sacred,Sacred Heart University,D-I,EIVA,0,0,0,0,0,0,0,0,0
+SFCB,St. Francis College (Brooklyn),D-I,EIVA,0,0,0,0,0,0,0,0,0
+SFU,Saint Francis University (PA),D-I,EIVA,0,0,0,0,0,0,0,0,0
+Stanford,Stanford University,D-I,MPSF,0,0,0,0,0,0,0,0,0
+Tusculum,Tusculum University,D-II,Independent,0,0,0,0,0,0,0,0,0
+UCI,UC Irvine,D-I,Big West,0,0,0,0,0,0,0,0,0
+UCLA,UCLA,D-I,MPSF,0,0,0,0,0,0,0,0,0
+UCSB,UC Santa Barbara,D-I,Big West,0,0,0,0,0,0,0,0,0
+UCSD,UC San Diego,D-I,Big West,0,0,0,0,0,0,0,0,0
+USC,University of Southern California,D-I,MPSF,0,0,0,0,0,0,0,0,0

@@ -29,6 +29,7 @@ def season_stats (year):
                     teams[x]['pf'] = int(teams[x]['pf']) + int(games[i]['points_team1'])
                     teams[x]['pa'] = int(teams[x]['pa']) + int(games[i]['points_team2'])
                     teams[x]['pd'] = teams[x]['pf'] - teams[x]['pa']
+                    teams[x]['soo'] = float(teams[x]['soo']) + float(games[i]['elo_start_team2'])
                 if games[i]['team2'] == teams[x]['short_name']:
                     if games[i]['result_team2'] == '1':
                         teams[x]['w'] = int(teams[x]['w']) + 1
@@ -40,10 +41,11 @@ def season_stats (year):
                     teams[x]['pf'] = int(teams[x]['pf']) + int(games[i]['points_team2'])
                     teams[x]['pa'] = int(teams[x]['pa']) + int(games[i]['points_team1'])
                     teams[x]['pd'] = int(teams[x]['pf']) - int(teams[x]['pa'])
+                    teams[x]['soo'] = float(teams[x]['soo']) + float(games[i]['elo_start_team1'])
         export_teams_season(teams)
 
 def export_teams_season (teams):
-    field_names = ['short_name','full_name','division','conference','w','l','sf','sa','sd','pf','pa','pd']
+    field_names = ['short_name','full_name','division','conference','w','l','sf','sa','sd','pf','pa','pd','soo']
     with open('outputs/teams_output_2022.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames = field_names)
         writer.writeheader()
