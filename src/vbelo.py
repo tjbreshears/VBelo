@@ -36,7 +36,7 @@ def eloRating(game,K,t,current_season):
     if game['result_team1'] == '':
         pass
     else:
-        last_date = game['date']
+        last_date = game['date'].split(' ',1)[0]
 
 # Reverts elo to mean by 1/4 for new season
     if game['season'] != current_season:
