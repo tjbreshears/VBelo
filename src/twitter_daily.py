@@ -16,15 +16,15 @@ def tweet(date):
     text = 'Daily #VBelo Predictions: ' + date + '\n'
     for i in range(len(games)):
         if date in games[i]['date']:
-            team1 = games[i]['team1']
+            team1 = games[i]['t1']
             team1p = round(float(games[i]['probability_team1'])*100)
-            team2 = games[i]['team2']
+            team2 = games[i]['t2']
             team2p = round(float(games[i]['probability_team2'])*100)
             for x in range(len(teams)):
-                if games[i]['team1'] == teams[x]['short_name']:
+                if games[i]['t1'] == teams[x]['short_name']:
                     team1 = teams[x]['twitter']
-                if games[i]['team2'] == teams[x]['short_name']:
+                if games[i]['t2'] == teams[x]['short_name']:
                     team2 = teams[x]['twitter']
             text += (f'{team1} ({team1p}%) vs {team2} ({team2p}%)\n')
     print(text)
-tweet('1/28/2022')
+tweet('1/29/2022')

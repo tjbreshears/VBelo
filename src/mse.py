@@ -18,11 +18,11 @@ def mse_k ():
         actual = []
 
         for i in range(len(games)):
-            if games[i]['result_team1'] != '':
+            if games[i]['r_t1'] != '':
                 expected.append(float(games[i]['probability_team1']))
                 expected.append(float(games[i]['probability_team2']))
-                actual.append(float(games[i]['result_team1']))
-                actual.append(float(games[i]['result_team2']))
+                actual.append(float(games[i]['r_t1']))
+                actual.append(float(games[i]['r_t2']))
 
         mse = np.square(np.subtract(expected,actual)).mean()
         if mse < best[1]:
@@ -45,11 +45,11 @@ def mse_t ():
         actual = []
 
         for i in range(len(games)):
-            if games[i]['result_team1'] != '':
+            if games[i]['r_t1'] != '':
                 expected.append(float(games[i]['probability_team1']))
                 expected.append(float(games[i]['probability_team2']))
-                actual.append(float(games[i]['result_team1']))
-                actual.append(float(games[i]['result_team2']))
+                actual.append(float(games[i]['r_t1']))
+                actual.append(float(games[i]['r_t2']))
 
         mse = np.square(np.subtract(expected,actual)).mean()
         if mse < best[1]:
@@ -73,11 +73,11 @@ def mse_kt ():
             actual = []
 
             for i in range(len(games)):
-                if games[i]['result_team1'] != '':
+                if games[i]['r_t1'] != '':
                     expected.append(float(games[i]['probability_team1']))
                     expected.append(float(games[i]['probability_team2']))
-                    actual.append(float(games[i]['result_team1']))
-                    actual.append(float(games[i]['result_team2']))
+                    actual.append(float(games[i]['r_t1']))
+                    actual.append(float(games[i]['r_t2']))
 
             mse = np.square(np.subtract(expected,actual)).mean()
             if mse < best[2]:
@@ -100,11 +100,11 @@ def mse_current ():
     actual = []
 
     for i in range(len(games)):
-        if games[i]['result_team1'] != '':
+        if games[i]['r_t1'] != '':
             expected.append(float(games[i]['probability_team1']))
             expected.append(float(games[i]['probability_team2']))
-            actual.append(float(games[i]['result_team1']))
-            actual.append(float(games[i]['result_team2']))
+            actual.append(float(games[i]['r_t1']))
+            actual.append(float(games[i]['r_t2']))
 
     mse = np.square(np.subtract(expected,actual)).mean()
     print(f'Current RSE: {mse}')

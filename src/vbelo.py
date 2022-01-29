@@ -33,7 +33,7 @@ def probability(rating1, rating2):
 # Function for calculating elo for a single game
 def eloRating(game,K,t,current_season):
     global last_date
-    if game['result_team1'] == '':
+    if game['r_t1'] == '':
         pass
     else:
         last_date = game['date'].split(' ',1)[0]
@@ -61,11 +61,11 @@ def eloRating(game,K,t,current_season):
     static_elo ()
     global r1_start,r2_start,r1_adjust,r2_adjust,r1_end,r2_end
     for i in range(len(teams)):
-        if game['team1'] == teams[i]['short_name']:
+        if game['t1'] == teams[i]['short_name']:
             r1_start = teams[i]['elo']
             game['elo_start_team1'] = r1_start
     for i in range(len(teams)):
-        if game['team2'] == teams[i]['short_name']:
+        if game['t2'] == teams[i]['short_name']:
             r2_start = teams[i]['elo']
             game['elo_start_team2'] = r2_start
 
@@ -78,7 +78,7 @@ def eloRating(game,K,t,current_season):
 
 #home court advantage
 #home teams are always listed as team2 in input
-    if game['home'] == game['team2']:
+    if game['home'] == game['t2']:
         r2_adjust = r2_start + 50
         game['elo_adjusted_team2'] = r2_adjust
 
@@ -88,9 +88,9 @@ def eloRating(game,K,t,current_season):
     for i in range(len(teams)):
         if game['home'] == teams[i]['short_name']:
             loc_home = teams[i]['location']
-        if game['team1'] == teams[i]['short_name']:
+        if game['t1'] == teams[i]['short_name']:
             loc_1 = teams[i]['location']
-        if game['team2'] == teams[i]['short_name']:
+        if game['t2'] == teams[i]['short_name']:
             loc_2 = teams[i]['location']
     dist_1 = gp.distance(loc_home,loc_1).miles
     dist_2 = gp.distance(loc_home,loc_2).miles
@@ -111,14 +111,14 @@ def eloRating(game,K,t,current_season):
     p2 = probability(r1_adjust, r2_adjust)
     game['probability_team2'] = p2
 
-    if game['result_team1'] == '1':
-        d1 = int(game['sets_team1'])-int(game['sets_team2'])
-        d2 = int(game['sets_team2'])
+    if game['r_t1'] == '1':
+        d1 = int(game['s_t1'])-int(game['s_t2'])
+        d2 = int(game['s_t2'])
         r1_end = r1_start + K * (1 - p1) + (K/6 * (d1/3))
         r2_end = r2_start + K * (0 - p2) + (K/6 * (d2/3))
-    elif game['result_team2'] == '1':
-        d1 = int(game['sets_team2'])-int(game['sets_team1'])
-        d2 = int(game['sets_team1'])
+    elif game['r_t2'] == '1':
+        d1 = int(game['s_t2'])-int(game['s_t1'])
+        d2 = int(game['s_t1'])
         r1_end = r1_start + K * (0 - p1) + (K/6 * (d1/3))
         r2_end = r2_start + K * (1 - p2) + (K/6 * (d2/3))
     else:
@@ -130,10 +130,10 @@ def eloRating(game,K,t,current_season):
 
 #updates elo on teams list
     for i in range(len(teams)):
-        if game['team1'] == teams[i]['short_name']:
+        if game['t1'] == teams[i]['short_name']:
             teams[i]['elo'] = r1_end
     for i in range(len(teams)):
-        if game['team2'] == teams[i]['short_name']:
+        if game['t2'] == teams[i]['short_name']:
             teams[i]['elo'] = r2_end
 
 #K value, Travel multiplier, first year in data
@@ -146,7 +146,7 @@ def season (K,t,season1):
     export_teams (teams)
 
 def export_games (games):
-    field_names = ['date','season','home','neutral','playoff','team1','team2','result_team1','result_team2','sets_team1','sets_team2','points_team1','points_team2','elo_start_team1','elo_start_team2','elo_adjusted_team1','elo_adjusted_team2','probability_team1','probability_team2','elo_end_team1','elo_end_team2']
+    field_names = ['date','season','home','n','p','t1','t2','r_t1','r_t2','s_t1','s_t2','p_t1','p_t2','s1_t1','s1_t2','s2_t1','s2_t2','s3_t1','s3_t2','s4_t1','s4_t2','s5_t1','s5_t2','elo_start_team1','elo_start_team2','elo_adjusted_team1','elo_adjusted_team2','probability_team1','probability_team2','elo_end_team1','elo_end_team2']
     with open('outputs/games_output.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames = field_names)
         writer.writeheader()
