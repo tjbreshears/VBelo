@@ -48,7 +48,7 @@ Huge thanks to Jonathan Bates [@mpsf_bias](http://www.twitter.com/mpsf_bias) for
 ### What teams are in the model?
 The goal is to include all NCAA D-I and D-II teams since they are all competing for the same national championship. This includes the following conferences:
 * Big West
-* Carolinas Conference
+* Conference Carolinas
 * EIVA
 * MIVA
 * MPSF
