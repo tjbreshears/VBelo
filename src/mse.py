@@ -90,7 +90,7 @@ def mse_kt ():
 
 # MSE for one set of input variables
 def mse_current ():
-    vbelo.season (24,-1,'2021')
+    vbelo.season (30,-1,'2020')
     games = []
     with open("outputs/games_output.csv", 'r') as data:
         for line in csv.DictReader(data):
