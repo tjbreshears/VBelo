@@ -43,7 +43,7 @@ def eod(date):
     diff = 0
     cinco = 0
     home_w = 0
-    favorites = 0
+    upsets = 0
     for i in range(len(games)):
         if date in games[i]['date']:
             count += 1
@@ -54,17 +54,16 @@ def eod(date):
                 cinco += 1
             if games[i]['home'] == games[i]['t2'] and games[i]['r_t2'] == '1':
                 home_w += 1
-            if games[i]['r_t1'] == '1' and float(games[i]['probability_team1']) > 0.5:
-                favorites += 1
-            if games[i]['r_t2'] == '1' and float(games[i]['probability_team2']) > 0.5:
-                favorites += 1
+            if games[i]['r_t1'] == '1' and float(games[i]['probability_team1']) < 0.3:
+                upsets += 1
+            if games[i]['r_t2'] == '1' and float(games[i]['probability_team2']) < 0.3:
+                upsets += 1
     text = intro + f'''\nGames: {count}
 Total Points: {points}
 Sets/game: {round(sets/count,2)}
 Average Set Differential: {round(diff/sets,2)} points
 Home Win Pct: {round(home_w/count*100,2)}%
-#cincosets: {cinco}
-VBelo Favorite Wins: {favorites}'''
+#cincosets: {cinco}'''
     print('\n\n' + text + '\n\n')
     pc.copy(text)
 
