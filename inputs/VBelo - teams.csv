@@ -29,7 +29,8 @@ Central,Central State University,D-II,Marauders,SIAC,1500,"39.715131597362756, -
 Charleston,University of Charleston,D-II,Golden Eagles,EIVA,1500,"38.33334229250818, -81.61707890009181",1,@ucwv_mvball,#61162d
 Coker,Coker University,D-II,Cobras,Independent,1500,"34.37528373319098, -80.06614319438705",0,@Coker_Cobras,#233a75
 Colby,Colby–Sawyer College,D-III,Chargers,D-III,1500,"43.41183934465652, -71.9754399209063",0,,
-Concordia,Concordia University Irvine,D-II,Eagles,MPSF,1500,"33.654125685708344, -117.81056815720085",1,@cuimvolleyball,
+Concordia,Concordia University Irvine,D-II,Eagles,MPSF,1500,"33.654125685708344, -117.81056815720085",1,@cuimvolleyball,#0f4d2a
+Cornerstone,Cornerstone Univeristy,NAIA,Golden Eagles,NAIA,1500,"42.98216485583985, -85.59340682236592",0,@CornerstoneMVB,#00235d
 CSUN,CSU Northridge,D-I,Matadors,Big West,1500,"34.24217382508362, -118.52592070292671",1,@CSUNMensVB,
 CUC,Concordia University Chicago,D-III,Cougars,D-III,1500,"41.899237012815654, -87.80952090882946",0,,
 Culver,Culver–Stockton College,NAIA,Wildcats,NAIA,1500,"40.128468061043186, -91.53302925364306",0,@CSCMensVolley,
@@ -62,6 +63,7 @@ GCU,Grand Canyon University,D-I,Antelopes,MPSF,1500,"33.51026623785861, -112.129
 Geneva,Geneva College,D-III,Golden Tornadoes,D-III,1500,"40.77105523710914, -80.32069510818673",0,@GenevaAthletics,#b4975b
 Georgetown,Georgetown College (KY),NAIA,Tigers,NAIA,1500,"38.2075905437859, -84.55289270669186",0,@GCAthletics,
 GMU,George Mason University,D-I,Patriots,EIVA,1500,"38.83065978140495, -77.3124337809112",1,@GoMasonMVB,#006938
+Graceland,Graceland University,NAIA,Yellowjackets,NAIA,1500,"40.61455111800166, -93.9265999300875",0,@GUjackets,#00275c
 Grand View,Grand View University,NAIA,Vikings,NAIA,1500,"41.61980219082709, -93.59806643803012",0,@VikingAthletics,
 Greenville,North Greenville University,D-II,Crusaders,Carolinas,1500,"35.069533766249734, -82.37309708210283",1,@NGU_MVB,
 Harvard,Harvard University,D-I,Crimson,EIVA,1500,"42.37135182238967, -71.11941108239166",1,@HarvardMVB,#a31f36
@@ -132,7 +134,7 @@ North Central,North Central College,D-III,Cardinals,D-III,1500,"41.7698022156022
 North Park,North Park University,D-III,Vikings,D-III,1500,"41.97507802707824, -87.70908385315052",0,,
 NVU,Northern Vermont University–Johnson,D-III,Badgers,D-III,1500,"44.64170222739891, -72.67127077254793",0,,
 NYU,New York University,D-III,Violets,D-III,1500,"40.69426223581706, -73.98649046111277",0,,
-Ohio,The Ohio State University,D-I,Buckeyes,MIVA,1500,"40.013659150194385, -83.02835385096364",1,@OhioStateMVB,
+Ohio,The Ohio State University,D-I,Buckeyes,MIVA,1500,"40.013659150194385, -83.02835385096364",1,@OhioStateMVB,#ce0f3d
 Olive,University of Mount Olive,D-II,Trojans,Carolinas,1500,"35.206267828209945, -78.07135766938003",1,@UMOMVB,#026241
 Olivet,Olivet College,D-III,Comets,D-III,1500,"42.43590104499605, -84.926079186222",0,@OlivetAthletics,
 OUAZ,Ottawa University Arizona,NAIA,Spirit,NAIA,1500,"33.62841394840269, -112.37179237613786",0,,
@@ -147,7 +149,7 @@ Pine Manor,Pine Manor College,D-III,Gators,D-III,1500,"42.32090975390333, -71.15
 Pratt,Pratt Institute,D-III,Cannoneers,D-III,1500,"40.690913899534586, -73.96207617419944",0,,
 Princeton,Princeton University,D-I,Tigers,EIVA,1500,"40.345617856393154, -74.65879610189774",1,@PrincetonVolley,#ff6000
 Queens,Queens University of Charlotte,D-II,Royals,Independent,1500,"35.18849968417609, -80.83507306216742",1,@QueensAthletics,
-Quincy,Quincy University,D-II,Hawks,MIVA,1500,"39.9384182056001, -91.38529127307119",1,@QUMVB,
+Quincy,Quincy University,D-II,Hawks,MIVA,1500,"39.9384182056001, -91.38529127307119",1,@QUMVB,#591f00
 Ramapo,Ramapo College,D-III,Roadrunners,D-III,1500,"41.08237213924209, -74.17750497174502",0,,
 Randolph Macon,Randolph–Macon College,D-III,Yellow Jackets,D-III,1500,"37.762889757977874, -77.47861657454743",0,@RMCathletics,
 Regis,Regis College (MA),D-III,Pride,D-III,1500,"42.350914973456305, -71.3074520630383",0,,
