@@ -1,56 +1,56 @@
 short_name,full_name,division,conference,w,l,sf,sa,sd,pf,pa,pd,soo
-Alderson,Alderson Broaddus University,D-II,Independent,3,7,13,24,-11,762,842,-80,14483.022868058133
-American,American International College,D-II,Independent,2,7,6,22,-16,491,656,-165,13193.203994017204
-Ball,Ball State University,D-I,MIVA,9,2,30,12,18,1007,830,177,18250.031227140567
-Barton,Barton College,D-II,Carolinas,0,5,3,15,-12,328,430,-102,8050.506333595121
-Belmont,Belmont Abbey College,D-II,Carolinas,9,4,28,13,15,948,848,100,19461.863310113524
-Benedict,Benedict College,D-II,SIAC,1,5,6,15,-9,396,482,-86,8872.889867786167
-BYU,Brigham Young University,D-I,MPSF,5,7,21,28,-7,1086,1134,-48,19679.141945628515
-Central,Central State University,D-II,SIAC,0,8,4,24,-20,535,674,-139,11855.123798508224
-Charleston,University of Charleston,D-II,EIVA,4,4,16,12,4,631,560,71,12191.247084584777
-Concordia,Concordia University Irvine,D-II,MPSF,5,2,15,8,7,545,477,68,10161.910624350478
-CSUN,CSU Northridge,D-I,Big West,3,3,9,10,-1,426,386,40,8978.182713862
-Daemen,Daemen College,D-II,Independent,7,2,25,10,15,787,660,127,12912.257031363653
-DYouville,D'Youville College,D-II,Independent,4,6,14,18,-4,705,694,11,14211.890384918137
-Edward,Edward Waters University,D-II,SIAC,1,11,13,35,-22,920,1106,-186,18255.704776321225
-Emmanuel,Emmanuel College,D-II,Carolinas,5,4,19,19,0,803,832,-29,13471.71859704654
-Erskine,Erskine College,D-II,Carolinas,4,11,16,37,-21,1053,1250,-197,23158.460297070866
-Fairleigh,Fairleigh Dickinson University,D-I,Independent,2,6,8,18,-10,510,617,-107,12069.909911409364
+Alderson,Alderson Broaddus University,D-II,Independent,3,9,15,30,-15,934,1033,-99,17305.50521587153
+American,American International College,D-II,Independent,2,9,7,28,-21,627,834,-207,16031.203994017204
+Ball,Ball State University,D-I,MIVA,11,2,36,13,23,1180,978,202,21185.917658232298
+Barton,Barton College,D-II,Carolinas,0,8,5,24,-19,549,705,-156,12668.214323406397
+Belmont,Belmont Abbey College,D-II,Carolinas,10,6,34,19,15,1199,1106,93,24042.611277672186
+Benedict,Benedict College,D-II,SIAC,1,6,6,18,-12,452,557,-105,10357.092629050161
+BYU,Brigham Young University,D-I,MPSF,5,9,24,34,-10,1291,1353,-62,22958.688157212408
+Central,Central State University,D-II,SIAC,1,9,7,27,-20,671,807,-136,14916.344768670226
+Charleston,University of Charleston,D-II,EIVA,5,5,21,16,5,833,755,78,15028.974711620618
+Concordia,Concordia University Irvine,D-II,MPSF,5,4,16,14,2,673,647,26,13597.414449629086
+CSUN,CSU Northridge,D-I,Big West,5,3,15,11,4,602,527,75,11884.939327579481
+Daemen,Daemen College,D-II,Independent,9,2,31,11,20,955,804,151,15708.274731933107
+DYouville,D'Youville College,D-II,Independent,4,7,14,21,-7,763,769,-6,15564.184849275749
+Edward,Edward Waters University,D-II,SIAC,2,11,16,35,-19,995,1146,-151,19628.704776321225
+Emmanuel,Emmanuel College,D-II,Carolinas,6,5,24,23,1,1006,1031,-25,16533.497163836597
+Erskine,Erskine College,D-II,Carolinas,5,12,19,40,-21,1183,1381,-198,26213.49831632791
+Fairleigh,Fairleigh Dickinson University,D-I,Independent,4,7,15,23,-8,789,892,-103,16501.74276926412
 Fort Valley,Fort Valley State University,D-II,SIAC,1,6,3,18,-15,365,503,-138,10291.184246962655
-GCU,Grand Canyon University,D-I,MPSF,7,6,28,22,6,1148,1100,48,21084.259190770015
-GMU,George Mason University,D-I,EIVA,4,6,16,23,-7,819,849,-30,16022.299072741074
-Greenville,North Greenville University,D-II,Carolinas,8,3,28,16,12,1008,922,86,16572.94153928174
+GCU,Grand Canyon University,D-I,MPSF,9,6,34,25,9,1367,1305,62,24466.841601959022
+GMU,George Mason University,D-I,EIVA,5,7,21,27,-6,1025,1046,-21,18988.49670887904
+Greenville,North Greenville University,D-II,Carolinas,10,3,34,16,18,1158,1032,126,19439.386139740673
 Harvard,Harvard University,D-I,EIVA,4,6,15,20,-5,794,782,12,15850.567003386062
 Hawaii,University of Hawai'i at Manoa,D-I,Big West,13,2,41,10,31,1218,855,363,23414.7353143521
-King,King University,D-II,Carolinas,4,8,19,26,-7,938,965,-27,18666.48199350188
-KSU,Kentucky State University,D-II,SIAC,1,3,5,9,-4,265,313,-48,5492.0
-LBSU,Long Beach State,D-I,Big West,7,2,25,9,16,800,690,110,14674.394372677993
-Lees,Lees–McRae College,D-II,Carolinas,4,4,13,13,0,576,577,-1,11933.776348814661
-Lewis,Lewis University,D-II,MIVA,8,4,27,16,11,997,912,85,18940.360724168986
-Limestone,Limestone University,D-II,Independent,10,3,32,16,16,1098,979,119,19395.163624958695
-Lindenwood,Lindenwood University,D-II,MIVA,3,6,11,20,-9,664,711,-47,13875.07780520539
-LIU,Long Island University,D-I,Independent,4,10,13,33,-20,931,1098,-167,22041.529976879763
+King,King University,D-II,Carolinas,5,9,24,29,-5,1122,1138,-16,21856.125123407597
+KSU,Kentucky State University,D-II,SIAC,1,5,5,15,-10,370,464,-94,8528.36136573337
+LBSU,Long Beach State,D-I,Big West,8,2,28,9,19,875,749,126,16210.39055471872
+Lees,Lees–McRae College,D-II,Carolinas,5,6,17,21,-4,825,871,-46,16796.796488300406
+Lewis,Lewis University,D-II,MIVA,8,6,27,22,5,1127,1062,65,22206.48707176408
+Limestone,Limestone University,D-II,Independent,10,4,33,19,14,1187,1078,109,20978.350128113343
+Lindenwood,Lindenwood University,D-II,MIVA,3,8,12,26,-14,809,884,-75,17190.6298873457
+LIU,Long Island University,D-I,Independent,4,12,15,39,-24,1095,1281,-186,25202.33087193972
 LMU,Lincoln Memorial University,D-II,Independent,8,3,25,13,12,855,764,91,17933.807475722664
-Loyola,Loyola University Chicago,D-I,MIVA,8,5,25,22,3,1038,1024,14,20951.431715168306
-Maryville,Maryville University,D-II,Independent,9,8,31,29,2,1264,1303,-39,24560.114743851216
-McKendree,McKendree University,D-II,MIVA,6,4,22,13,9,812,730,82,15485.364054692789
-Morehouse,Morehouse College,D-II,SIAC,0,3,0,9,-9,121,225,-104,4126.3248714745205
-NJIT,New Jersey Institute of Technology,D-I,EIVA,7,3,24,12,12,823,778,45,15534.963113260583
-Ohio,The Ohio State University,D-I,MIVA,5,6,23,19,4,938,923,15,17453.753619849
-Olive,University of Mount Olive,D-II,Carolinas,3,3,14,13,1,607,579,28,9970.940544338664
-Penn,Pennsylvania State University,D-I,EIVA,10,3,32,11,21,1022,865,157,20966.215368682664
-Pepperdine,Pepperdine University,D-I,MPSF,6,4,23,13,10,850,768,82,15692.592009713075
-PFW,Purdue University Fort Wayne,D-I,MIVA,8,6,30,23,7,1208,1136,72,21567.51223890925
-Princeton,Princeton University,D-I,EIVA,4,8,18,27,-9,984,1019,-35,19035.870293408687
-Queens,Queens University of Charlotte,D-II,Independent,6,7,24,25,-1,1018,1073,-55,20121.61398720143
-Quincy,Quincy University,D-II,MIVA,3,7,14,24,-10,813,865,-52,14812.247559258214
-Sacred,Sacred Heart University,D-I,EIVA,4,5,17,17,0,717,706,11,13887.043876355803
-SFCB,St. Francis College (Brooklyn),D-I,EIVA,6,4,21,21,0,882,909,-27,14974.055656815903
-SFU,Saint Francis University (PA),D-I,EIVA,7,5,22,21,1,946,976,-30,18988.914344209956
-Stanford,Stanford University,D-I,MPSF,8,3,26,12,14,899,793,106,16389.92678341683
-Tusculum,Tusculum University,D-II,Independent,2,7,9,22,-13,628,720,-92,13712.847734372905
+Loyola,Loyola University Chicago,D-I,MIVA,9,6,30,25,5,1211,1192,19,24314.524977099518
+Maryville,Maryville University,D-II,Independent,12,8,40,30,10,1510,1499,11,28776.924358241507
+McKendree,McKendree University,D-II,MIVA,7,5,27,18,9,1029,942,87,18791.856489308244
+Morehouse,Morehouse College,D-II,SIAC,0,4,0,12,-12,141,300,-159,5499.3248714745205
+NJIT,New Jersey Institute of Technology,D-I,EIVA,8,4,29,15,14,1000,945,55,18899.060391093237
+Ohio,The Ohio State University,D-I,MIVA,7,6,29,19,10,1088,1031,57,20390.251947189518
+Olive,University of Mount Olive,D-II,Carolinas,6,3,23,16,7,897,797,100,14479.221341828292
+Penn,Pennsylvania State University,D-I,EIVA,12,3,38,13,25,1203,1024,179,24208.548117330385
+Pepperdine,Pepperdine University,D-I,MPSF,7,5,27,18,9,1052,972,80,18914.108723504585
+PFW,Purdue University Fort Wayne,D-I,MIVA,10,6,36,25,11,1397,1315,82,24970.971587860826
+Princeton,Princeton University,D-I,EIVA,5,8,21,29,-8,1093,1122,-29,20666.625418493433
+Queens,Queens University of Charlotte,D-II,Independent,8,7,30,28,2,1222,1253,-31,23409.69896173974
+Quincy,Quincy University,D-II,MIVA,3,9,14,30,-16,924,1015,-91,18127.18774514974
+Sacred,Sacred Heart University,D-I,EIVA,5,6,21,22,-1,912,908,4,16839.089397599822
+SFCB,St. Francis College (Brooklyn),D-I,EIVA,7,6,24,29,-5,1113,1165,-52,19788.4749773903
+SFU,Saint Francis University (PA),D-I,EIVA,9,6,28,24,4,1159,1177,-18,23673.902692157208
+Stanford,Stanford University,D-I,MPSF,8,5,27,18,9,1044,969,75,19555.814545319707
+Tusculum,Tusculum University,D-II,Independent,4,8,16,27,-11,908,988,-80,18112.672930757843
 UCI,UC Irvine,D-I,Big West,5,8,24,26,-2,1107,1143,-36,20808.641213075804
-UCLA,UCLA,D-I,MPSF,8,2,24,15,9,887,824,63,15943.701591370273
-UCSB,UC Santa Barbara,D-I,Big West,9,4,31,21,10,1187,1118,69,20783.501777142956
-UCSD,UC San Diego,D-I,Big West,7,5,26,22,4,1077,1040,37,19048.909935267966
-USC,University of Southern California,D-I,MPSF,10,2,32,12,20,1058,927,131,19124.2388694042
+UCLA,UCLA,D-I,MPSF,10,2,30,16,14,1057,952,105,18999.909468047106
+UCSB,UC Santa Barbara,D-I,Big West,10,4,34,22,12,1285,1203,82,22391.60215753248
+UCSD,UC San Diego,D-I,Big West,7,6,27,25,2,1162,1138,24,20788.661876191323
+USC,University of Southern California,D-I,MPSF,11,3,37,16,21,1262,1129,133,22424.14329932355
