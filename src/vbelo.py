@@ -16,6 +16,9 @@ with open("inputs/VBelo - games.csv", 'r') as data:
     for line in csv.DictReader(data):
         games.append(line)
 
+old_date = ''
+tracking = []
+
 # Resets static elo for D-III and NAIA teams
 def static_elo ():
     for i in range(len(teams)):
@@ -33,6 +36,8 @@ def probability(rating1, rating2):
 # Function for calculating elo for a single game
 def eloRating(game,K,t,current_season):
     global last_date
+    global new_date
+    global old_date
     if game['r_t1'] == '':
         pass
     else:
@@ -57,6 +62,20 @@ def eloRating(game,K,t,current_season):
                 teams[i]['short_name'] == 'Maryville' or \
                 teams[i]['short_name'] == 'Morehouse':
                     teams[i]['elo'] = 1419
+
+#lifetime tracking of each team's elo
+    new_date = game['date'].split(' ',1)[0]
+
+    if old_date == new_date:
+        pass
+    elif old_date != new_date and game['r_t1'] != '':
+        new_date_dict = {}
+        for i in range(len(teams)):
+            new_date_dict['date'] = new_date
+            if teams[i]['eligible'] == '1':
+                new_date_dict[teams[i]['short_name']] = teams[i]['elo']
+        tracking.append(new_date_dict)
+        old_date = new_date
 
     static_elo ()
     global r1_start,r2_start,r1_adjust,r2_adjust,r1_end,r2_end
@@ -144,6 +163,7 @@ def season (K,t,season1):
         current_season = games[i]['season']
     export_games (games)
     export_teams (teams)
+    export_tracking (tracking)
 
 def export_games (games):
     field_names = ['date','season','home','n','p','t1','t2','r_t1','r_t2','s_t1','s_t2','p_t1','p_t2','s1_t1','s1_t2','s2_t1','s2_t2','s3_t1','s3_t2','s4_t1','s4_t2','s5_t1','s5_t2','elo_start_team1','elo_start_team2','elo_adjusted_team1','elo_adjusted_team2','probability_team1','probability_team2','elo_end_team1','elo_end_team2']
@@ -158,6 +178,12 @@ def export_teams (teams):
         writer = csv.DictWriter(csvfile, fieldnames = field_names)
         writer.writeheader()
         writer.writerows(teams)
+
+def export_tracking (tracking):
+    df_track = pd.DataFrame(tracking)
+    df_track.rename(columns=df_track.iloc[0]).drop(df_track.index[0])
+    df_track.transpose()
+    df_track.to_csv('outputs/tracking.csv',index=False)
 
 def top25 (teams):
     df = pd.DataFrame.from_dict(teams)
