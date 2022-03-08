@@ -36,7 +36,7 @@ CUC,Concordia University Chicago,D-III,Cougars,D-III,1500,"41.899237012815654, -
 Culver,Culver–Stockton College,NAIA,Wildcats,NAIA,1500,"40.128468061043186, -91.53302925364306",0,@CSCMensVolley,
 Cumberland,Cumberland University,NAIA,Phoenix,NAIA,1500,"36.20324853719004, -86.29933821955521",0,@GoCUPhoenix,#84152C
 CUW,Concordia University Wisconsin,D-III,Falcons,D-III,1500,"43.25429597914008, -87.91661537299478",0,,
-Daemen,Daemen College,D-II,Wildcats,Independent,1500,"42.964334636072195, -78.78783629673202",1,@DaemenMVB,
+Daemen,Daemen College,D-II,Wildcats,Independent,1500,"42.964334636072195, -78.78783629673202",1,@DaemenMVB,#013893
 Dean,Dean College,D-III,Bulldogs,D-III,1500,"42.08636133425835, -71.39748949045915",0,,
 Dominican,Dominican University (IL),D-III,Stars,D-III,1500,"41.903363621408715, -87.82152751845709",0,,
 DYouville,D'Youville University,D-II,Saints,Independent,1500,"42.90182578107489, -78.88965269252517",1,@DYouvilleMVB,
@@ -65,7 +65,7 @@ Georgetown,Georgetown College (KY),NAIA,Tigers,NAIA,1500,"38.2075905437859, -84.
 GMU,George Mason University,D-I,Patriots,EIVA,1500,"38.83065978140495, -77.3124337809112",1,@GoMasonMVB,#006938
 Graceland,Graceland University,NAIA,Yellowjackets,NAIA,1500,"40.61455111800166, -93.9265999300875",0,@GUjackets,#00275c
 Grand View,Grand View University,NAIA,Vikings,NAIA,1500,"41.61980219082709, -93.59806643803012",0,@VikingAthletics,
-Greenville,North Greenville University,D-II,Crusaders,Carolinas,1500,"35.069533766249734, -82.37309708210283",1,@NGU_MVB,
+Greenville,North Greenville University,D-II,Crusaders,Carolinas,1500,"35.069533766249734, -82.37309708210283",1,@NGU_MVB,#c00000
 Harvard,Harvard University,D-I,Crimson,EIVA,1500,"42.37135182238967, -71.11941108239166",1,@HarvardMVB,#a31f36
 Hawaii,University of Hawai'i at Manoa,D-I,Rainbow Warriors,Big West,1500,"21.294609859692425, -157.8183992624992",1,@HawaiiMensVB,#005837
 Hilbert,Hilbert College,D-III,Hawks,D-III,1500,"42.75407223484585, -78.81970205433396",0,@HilbertAthletic,
@@ -95,9 +95,10 @@ Lesley,Lesley University,D-III,Lynx,D-III,1500,"42.43001050429625, -71.125110495
 Lewis,Lewis University,D-II,Flyers,MIVA,1500,"41.60507512399408, -88.08211780186922",1,@LewisMVBall,#c00000
 Life,Life University,NAIA,Running Eagles,NAIA,1500,"33.931020655187076, -84.51727778423846",0,@lifeu_mvb,
 Limestone,Limestone University,D-II,Saints,Independent,1500,"35.0550147456207, -81.65177833084384",1,@LimestoneSaints,#0038a5
-Lindenwood,Lindenwood University,D-II,Lions,MIVA,1500,"38.78885569308603, -90.50402535960333",1,@lindenwoodMVB,
+Lincoln,Lincoln College,NAIA,Lynx,NAIA,1500,"40.15727080993323, -89.36035218954572",0,@LincolnLynxMVB,#712E91
+Lindenwood,Lindenwood University,D-II,Lions,MIVA,1500,"38.78885569308603, -90.50402535960333",1,@lindenwoodMVB,#dcd087
 LIU,Long Island University,D-I,Sharks,Independent,1500,"40.69062486571616, -73.979257542518",1,@LIUAthletics,
-LMU,Lincoln Memorial University,D-II,Railsplitters,Independent,1500,"36.58069456454686, -83.6625514731423",1,@SplittersMensVB,
+LMU,Lincoln Memorial University,D-II,Railsplitters,Independent,1500,"36.58069456454686, -83.6625514731423",1,@SplittersMensVB,#002461
 Loras,Loras College,D-III,Duhawks,D-III,1500,"42.504879804777005, -90.67847969314923",0,,
 Lourdes,Lourdes University,NAIA,Grey Wolves,NAIA,1500,"41.7080917959541, -83.70556847058288",0,,
 Loyola,Loyola University Chicago,D-I,Ramblers,MIVA,1500,"42.000567998243376, -87.65897785953142",1,@RamblersMVB,#582931
@@ -138,6 +139,7 @@ Ohio,The Ohio State University,D-I,Buckeyes,MIVA,1500,"40.013659150194385, -83.0
 Olive,University of Mount Olive,D-II,Trojans,Carolinas,1500,"35.206267828209945, -78.07135766938003",1,@UMOMVB,#026241
 Olivet,Olivet College,D-III,Comets,D-III,1500,"42.43590104499605, -84.926079186222",0,@OlivetAthletics,
 OUAZ,Ottawa University Arizona,NAIA,Spirit,NAIA,1500,"33.62841394840269, -112.37179237613786",0,,
+OUKA,Ottawa University Kansas,NAIA,Braves,NAIA,1500,"38.60167971936256, -95.26329401980554",0,@ottawamens_vb,#ffbe29
 Paine,Paine College,NCCAA,Lions,NCCAA,1500,"33.47082393014291, -81.99702436738723",0,,
 Park,Park University,NAIA,Pirates,NAIA,1500,"33.29997589547613, -111.62490849737839",0,,
 Penn,Pennsylvania State University,D-I,Nittany Lions,EIVA,1500,"40.79587992368765, -77.86941460188768",1,@PennStateMVBALL,#002D62
@@ -171,12 +173,13 @@ St Andrews,St. Andrews University,NAIA,Knights,NAIA,1500,"34.745921130860445, -7
 Stanford,Stanford University,D-I,Cardinal,MPSF,1500,"37.42962789960126, -122.16063330196073",1,@StanfordMVB,#8c1515
 Stevens,Stevens Institute of Technology,D-III,Ducks,D-III,1500,"40.74330688729092, -74.02580511631534",0,,
 Stevenson,Stevenson University,D-III,Mustangs,D-III,1500,"39.427623235478656, -76.77926613430805",0,,
-SUNY New Paltz,State University of New York at New Paltz,D-III,Hawks,D-III,1500,"41.739840548230994, -74.08651471281539",0,,
+SUNY New Paltz,State University of New York at New Paltz,D-III,Hawks,D-III,1500,"41.739840548230994, -74.08651471281539",0,@nphawks,
 SUNY Poly,State University of New York Polytechnic Institute,D-III,Wildcats,D-III,1500,"43.137836223361504, -75.22973236333709",0,,
 SUNY Potsdam,State University of New York at Potsdam,D-III,Bears,D-III,1500,"44.660676196882086, -74.96712355234018",0,@PotsdamBears,
 SUNY Purchase,State University of New York at Purchase,D-III,Panthers,D-III,1500,"41.05010343783726, -73.69852253602835",0,,
 SVU,Southern Virginia University,D-III,Knights,D-III,1500,"37.74147880883873, -79.34995625019081",0,@svuathletics,
 Thiel,Thiel College,D-III,Tomcats,D-III,1500,"41.411953215542255, -80.38403895686261",0,,
+Thomas More,Thomas More University,NAIA,Saints,NAIA,1500,"39.0210397287091, -84.56872684972652",0,@tmusaints,#00549f
 Trine,Trine University,D-III,Thunder,D-III,1500,"41.63098230268178, -85.01231909201103",0,,
 Truett,Truett-McConnell Univeristy,NAIA,Bears,NAIA,1500,"34.59660840107576, -83.75065653236048",0,@TMUBears,#002a46
 Tusculum,Tusculum University,D-II,Pioneers,Independent,1500,"36.172235784169594, -82.76122001547911",1,@TusculumMVB,#ec6633
