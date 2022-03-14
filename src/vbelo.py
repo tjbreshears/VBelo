@@ -164,6 +164,7 @@ def season (K,t,season1):
     export_games (games)
     export_teams (teams)
     export_tracking (tracking)
+    top25(teams)
 
 def export_games (games):
     field_names = ['date','season','home','n','p','t1','t2','r_t1','r_t2','s_t1','s_t2','p_t1','p_t2','s1_t1','s1_t2','s2_t1','s2_t2','s3_t1','s3_t2','s4_t1','s4_t2','s5_t1','s5_t2','elo_start_team1','elo_start_team2','elo_adjusted_team1','elo_adjusted_team2','probability_team1','probability_team2','elo_end_team1','elo_end_team2']
@@ -217,4 +218,3 @@ def top25 (teams):
     plt.show()
 
 season(30,-1,'2020')
-top25(teams)

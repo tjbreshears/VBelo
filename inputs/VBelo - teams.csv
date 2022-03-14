@@ -40,7 +40,7 @@ Daemen,Daemen College,D-II,Wildcats,Independent,1500,"42.964334636072195, -78.78
 Dean,Dean College,D-III,Bulldogs,D-III,1500,"42.08636133425835, -71.39748949045915",0,,
 Dominican,Dominican University (IL),D-III,Stars,D-III,1500,"41.903363621408715, -87.82152751845709",0,,
 DYouville,D'Youville University,D-II,Saints,Independent,1500,"42.90182578107489, -78.88965269252517",1,@DYouvilleMVB,
-Eastern,Eastern University,D-III,Eagles,D-III,1500,"40.050986680102724, -75.37269408034746",0,,
+Eastern,Eastern University,D-III,Eagles,D-III,1500,"40.050986680102724, -75.37269408034746",0,@EUEagles,
 Edgewood,Edgewood College,D-III,Eagles,D-III,1500,"43.05830704392353, -89.42167424499276",0,,
 Edward,Edward Waters University,D-II,Tigers,SIAC,1500,"30.34614835020607, -81.68808435799133",1,@EWU_Athletics,
 Elizabeth,Saint Elizabeth University,D-III,Eagles,D-III,1500,"40.777375075122734, -74.43415675237851",0,,
@@ -73,7 +73,7 @@ Hiram,Hiram College,D-III,Terriers,D-III,1500,"41.311370096971544, -81.141533689
 Hunter,Hunter College,D-III,Hawks,D-III,1500,"40.76777636366904, -73.96455470358497",0,,
 IIT,Illinois Institute of Technology,D-III,Scarlet Hawks,D-III,1500,"41.839019206655045, -87.62557170033118",0,,
 Immaculata,Immaculata University,D-III,Mighty Macs,D-III,1500,"40.027973552241136, -75.57068390446615",0,,
-Indiana Tech,Indiana Institute of Technology,NAIA,Warriors,NAIA,1500,"41.078223061447055, -85.11802161138166",0,,
+Indiana Tech,Indiana Institute of Technology,NAIA,Warriors,NAIA,1500,"41.078223061447055, -85.11802161138166",0,@INTechMVB,
 IWU,Illinois Wesleyan University,D-III,Titans,D-III,1500,"40.49388795647673, -88.98929385170241",0,,
 Jamestown,University of Jamestown,NAIA,Jimmies,NAIA,1500,"46.9150125897768, -98.69405345622302",0,,
 John Jay,John Jay College of Criminal Justice,D-III,Bloodhounds,D-III,1500,"40.77035218686202, -73.98835148520904",0,,
@@ -94,7 +94,7 @@ Lehman,Lehman College,D-III,Lightning Bugs,D-III,1500,"40.87466726077226, -73.89
 Lesley,Lesley University,D-III,Lynx,D-III,1500,"42.43001050429625, -71.12511049597039",0,,
 Lewis,Lewis University,D-II,Flyers,MIVA,1500,"41.60507512399408, -88.08211780186922",1,@LewisMVBall,#c00000
 Life,Life University,NAIA,Running Eagles,NAIA,1500,"33.931020655187076, -84.51727778423846",0,@lifeu_mvb,
-Limestone,Limestone University,D-II,Saints,Independent,1500,"35.0550147456207, -81.65177833084384",1,@LimestoneSaints,#0038a5
+Limestone,Limestone University,D-II,Saints,Independent,1500,"35.0550147456207, -81.65177833084384",1,@LimestoneMVB,#0038a5
 Lincoln,Lincoln College,NAIA,Lynx,NAIA,1500,"40.15727080993323, -89.36035218954572",0,@LincolnLynxMVB,#712E91
 Lindenwood,Lindenwood University,D-II,Lions,MIVA,1500,"38.78885569308603, -90.50402535960333",1,@lindenwoodMVB,#dcd087
 LIU,Long Island University,D-I,Sharks,Independent,1500,"40.69062486571616, -73.979257542518",1,@LIUAthletics,
