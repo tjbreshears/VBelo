@@ -119,7 +119,7 @@ Millikin,Millikin University,D-III,Big Blue,D-III,1500,"39.843612359218106, -88.
 Misericordia,Misericordia University,D-III,Cougars,D-III,1500,"41.346573259307426, -75.97430701035299",0,,
 MIT,Massachusetts Institute of Technology,D-III,Engineers,D-III,1500,"42.35920143502328, -71.09598651534462",0,,
 Morehouse,Morehouse College,D-II,Maroon Tigers,SIAC,1500,"33.74897155900181, -84.40861390674647",1,@MaroonTigers,
-Mount Union,University of Mount Union,D-III,Purple Raiders,D-III,1500,"40.90245029151455, -81.11104969355848",0,,
+Mount Union,University of Mount Union,D-III,Purple Raiders,D-III,1500,"40.90245029151455, -81.11104969355848",0,@purpleraiders,
 MSJ,Mount St. Joseph University,D-III,Lions,D-III,1500,"39.095018513143216, -84.6404775537773",0,@MSJmensVball,
 MSOE,Milwaukee School of Engineering,D-III,Raiders,D-III,1500,"43.04662807366095, -87.90950353546796",0,,
 MSV,College of Mount Saint Vincent,D-III,Dolphins,D-III,1500,"40.91356526437771, -73.90614706114066",0,,
@@ -133,7 +133,7 @@ NJIT,New Jersey Institute of Technology,D-I,Highlanders,EIVA,1500,"40.7422630849
 Norbert,St. Norbert College,D-III,Green Knights,D-III,1500,"44.442076059728834, -88.06813597045847",0,,
 North Central,North Central College,D-III,Cardinals,D-III,1500,"41.769802215602205, -88.14426296972064",0,,
 North Park,North Park University,D-III,Vikings,D-III,1500,"41.97507802707824, -87.70908385315052",0,,
-NVU,Northern Vermont University–Johnson,D-III,Badgers,D-III,1500,"44.64170222739891, -72.67127077254793",0,,
+NVU,Northern Vermont University–Johnson,D-III,Badgers,D-III,1500,"44.64170222739891, -72.67127077254793",0,@NVUBadgers,
 NYU,New York University,D-III,Violets,D-III,1500,"40.69426223581706, -73.98649046111277",0,,
 Ohio,The Ohio State University,D-I,Buckeyes,MIVA,1500,"40.013659150194385, -83.02835385096364",1,@OhioStateMVB,#ce0f3d
 Olive,University of Mount Olive,D-II,Trojans,Carolinas,1500,"35.206267828209945, -78.07135766938003",1,@UMOMVB,#026241
@@ -159,7 +159,7 @@ Reinhardt,Reinhardt University,NAIA,Eagles,NAIA,1500,"34.318858281323614, -84.54
 Rivier,Rivier University,D-III,Raiders,D-III,1500,"42.73813288937704, -71.45234267759334",0,,
 Rockford,Rockford University,D-III,Regents,D-III,1500,"42.269156247760925, -89.02165338002247",0,,
 Rosemont,Rosemont College,D-III,Ravens,D-III,1500,"40.033736490844156, -75.33160520871527",0,,
-Rutgers,Rutgers University–Newark,D-III,Scarlet Raiders,D-III,1500,"40.73916807034423, -74.17387951111192",0,,
+Rutgers,Rutgers University–Newark,D-III,Scarlet Raiders,D-III,1500,"40.73916807034423, -74.17387951111192",0,@ScarletRaiders,
 Sacred,Sacred Heart University,D-I,Pioneers,EIVA,1500,"41.21960639882194, -73.24464177304239",1,@SHUBigRed,
 Sage,The Sage Colleges,D-III,Gators,D-III,1500,"42.65142294260737, -73.78257340262616",0,@sagemvb,
 Saint Vincent,Saint Vincent College,D-III,Bearcats,D-III,1500,"40.29242584013322, -79.40378787664432",0,@SVC_Bearcats,#1e5632
