@@ -1,6 +1,6 @@
 short_name,full_name,division,mascot,conference,elo,location,eligible,twitter,color
 Adrian,Adrian College,D-III,Bulldogs,D-III,1419,"41.897785701653525, -84.06378176498569",0,,
-Alderson,Alderson Broaddus University,D-II,Battlers,Independent,1369.9767583952348,"39.15707821033467, -80.05158937406792",1,@ABUmvb,
+Alderson,Alderson Broaddus University,D-II,Battlers,Independent,1349.4509277936725,"39.15707821033467, -80.05158937406792",1,@ABUmvb,
 Alvernia,Alvernia University,D-III,Crusaders,D-III,1419,"40.308195482372284, -75.93609804774519",0,@AlverniaMVB,
 Ambrose,Saint Ambrose University (Iowa),NAIA,Fighting Bees,NAIA,1373,"41.541422428054254, -90.58036660471811",0,@SAUBEES,#00549D
 American,American International College,D-II,Yellow Jackets,Independent,1353.1831712613778,"42.11819653301246, -72.55411909135562",1,@AiCmvb,
@@ -36,7 +36,7 @@ CUC,Concordia University Chicago,D-III,Cougars,D-III,1419,"41.899237012815654, -
 Culver,Culver–Stockton College,NAIA,Wildcats,NAIA,1373,"40.128468061043186, -91.53302925364306",0,@CSCMensVolley,
 Cumberland,Cumberland University,NAIA,Phoenix,NAIA,1373,"36.20324853719004, -86.29933821955521",0,@GoCUPhoenix,#84152C
 CUW,Concordia University Wisconsin,D-III,Falcons,D-III,1419,"43.25429597914008, -87.91661537299478",0,,
-Daemen,Daemen College,D-II,Wildcats,Independent,1649.3235837825907,"42.964334636072195, -78.78783629673202",1,@DaemenMVB,#013893
+Daemen,Daemen College,D-II,Wildcats,Independent,1662.2029141518194,"42.964334636072195, -78.78783629673202",1,@DaemenMVB,#013893
 Dean,Dean College,D-III,Bulldogs,D-III,1419,"42.08636133425835, -71.39748949045915",0,,
 Dominican,Dominican University (IL),D-III,Stars,D-III,1419,"41.903363621408715, -87.82152751845709",0,,
 DYouville,D'Youville University,D-II,Saints,Independent,1393.7540101287632,"42.90182578107489, -78.88965269252517",1,@DYouvilleMVB,
@@ -105,7 +105,7 @@ Loyola,Loyola University Chicago,D-I,Ramblers,MIVA,1717.1855700304814,"42.000567
 Maranatha,Maranatha Baptist University,D-III,Sabercats,D-III,1419,"43.19434080238715, -88.7378745828583",0,,
 Marian,Marian University (WI),D-III,Sabres,D-III,1419,"43.77635064609146, -88.41999676090558",0,,
 Marymount,Marymount University,D-III,Saints,D-III,1419,"38.90566645273184, -77.12717533225883",0,,
-Maryville,Maryville University,D-II,Saints,Independent,1570.7701067989256,"38.64372686506051, -90.50393139677512",1,@MaryvilleMVB,
+Maryville,Maryville University,D-II,Saints,Independent,1579.913811963052,"38.64372686506051, -90.50393139677512",1,@MaryvilleMVB,
 Masters,The Master's University,NAIA,Mustangs,NAIA,1373,"34.38300835589866, -118.51955473325665",0,@TMUAthletics,#0c2340
 MBU,Missouri Baptist University,NAIA,Spartans,NAIA,1373,"38.64163159240683, -90.46136632365594",0,@MBUVolleyball,
 McKendree,McKendree University,D-II,Bearcats,MIVA,1661.717088366344,"38.61089984668392, -89.81457515960716",1,@McKMVB,#592b85
@@ -119,7 +119,7 @@ Millikin,Millikin University,D-III,Big Blue,D-III,1419,"39.843612359218106, -88.
 Misericordia,Misericordia University,D-III,Cougars,D-III,1419,"41.346573259307426, -75.97430701035299",0,,
 MIT,Massachusetts Institute of Technology,D-III,Engineers,D-III,1419,"42.35920143502328, -71.09598651534462",0,,
 Morehouse,Morehouse College,D-II,Maroon Tigers,SIAC,1325.3367329661655,"33.74897155900181, -84.40861390674647",1,@MaroonTigers,
-Mount Union,University of Mount Union,D-III,Purple Raiders,D-III,1419,"40.90245029151455, -81.11104969355848",0,,
+Mount Union,University of Mount Union,D-III,Purple Raiders,D-III,1419,"40.90245029151455, -81.11104969355848",0,@purpleraiders,
 MSJ,Mount St. Joseph University,D-III,Lions,D-III,1419,"39.095018513143216, -84.6404775537773",0,@MSJmensVball,
 MSOE,Milwaukee School of Engineering,D-III,Raiders,D-III,1419,"43.04662807366095, -87.90950353546796",0,,
 MSV,College of Mount Saint Vincent,D-III,Dolphins,D-III,1419,"40.91356526437771, -73.90614706114066",0,,
@@ -133,7 +133,7 @@ NJIT,New Jersey Institute of Technology,D-I,Highlanders,EIVA,1657.4003989061532,
 Norbert,St. Norbert College,D-III,Green Knights,D-III,1419,"44.442076059728834, -88.06813597045847",0,,
 North Central,North Central College,D-III,Cardinals,D-III,1419,"41.769802215602205, -88.14426296972064",0,,
 North Park,North Park University,D-III,Vikings,D-III,1419,"41.97507802707824, -87.70908385315052",0,,
-NVU,Northern Vermont University–Johnson,D-III,Badgers,D-III,1419,"44.64170222739891, -72.67127077254793",0,,
+NVU,Northern Vermont University–Johnson,D-III,Badgers,D-III,1419,"44.64170222739891, -72.67127077254793",0,@NVUBadgers,
 NYU,New York University,D-III,Violets,D-III,1419,"40.69426223581706, -73.98649046111277",0,,
 Ohio,The Ohio State University,D-I,Buckeyes,MIVA,1607.9581139391087,"40.013659150194385, -83.02835385096364",1,@OhioStateMVB,#ce0f3d
 Olive,University of Mount Olive,D-II,Trojans,Carolinas,1708.4475908526044,"35.206267828209945, -78.07135766938003",1,@UMOMVB,#026241
@@ -159,7 +159,7 @@ Reinhardt,Reinhardt University,NAIA,Eagles,NAIA,1373,"34.318858281323614, -84.54
 Rivier,Rivier University,D-III,Raiders,D-III,1419,"42.73813288937704, -71.45234267759334",0,,
 Rockford,Rockford University,D-III,Regents,D-III,1419,"42.269156247760925, -89.02165338002247",0,,
 Rosemont,Rosemont College,D-III,Ravens,D-III,1419,"40.033736490844156, -75.33160520871527",0,,
-Rutgers,Rutgers University–Newark,D-III,Scarlet Raiders,D-III,1419,"40.73916807034423, -74.17387951111192",0,,
+Rutgers,Rutgers University–Newark,D-III,Scarlet Raiders,D-III,1419,"40.73916807034423, -74.17387951111192",0,@ScarletRaiders,
 Sacred,Sacred Heart University,D-I,Pioneers,EIVA,1421.338130471632,"41.21960639882194, -73.24464177304239",1,@SHUBigRed,
 Sage,The Sage Colleges,D-III,Gators,D-III,1419,"42.65142294260737, -73.78257340262616",0,@sagemvb,
 Saint Vincent,Saint Vincent College,D-III,Bearcats,D-III,1419,"40.29242584013322, -79.40378787664432",0,@SVC_Bearcats,#1e5632
