@@ -31,7 +31,7 @@ Coker,Coker University,D-II,Cobras,Independent,1500,"34.37528373319098, -80.0661
 Colby,Colby–Sawyer College,D-III,Chargers,D-III,1500,"43.41183934465652, -71.9754399209063",0,,
 Concordia,Concordia University Irvine,D-II,Eagles,MPSF,1500,"33.654125685708344, -117.81056815720085",1,@cuimvolleyball,#0f4d2a
 Cornerstone,Cornerstone Univeristy,NAIA,Golden Eagles,NAIA,1500,"42.98216485583985, -85.59340682236592",0,@CornerstoneMVB,#00235d
-CSUN,CSU Northridge,D-I,Matadors,Big West,1500,"34.24217382508362, -118.52592070292671",1,@CSUNMensVB,
+CSUN,CSU Northridge,D-I,Matadors,Big West,1500,"34.24217382508362, -118.52592070292671",1,@CSUNMensVB,#c8102e
 CUC,Concordia University Chicago,D-III,Cougars,D-III,1500,"41.899237012815654, -87.80952090882946",0,,
 Culver,Culver–Stockton College,NAIA,Wildcats,NAIA,1500,"40.128468061043186, -91.53302925364306",0,@CSCMensVolley,
 Cumberland,Cumberland University,NAIA,Phoenix,NAIA,1500,"36.20324853719004, -86.29933821955521",0,@GoCUPhoenix,#84152C
@@ -83,7 +83,7 @@ JWU,Johnson and Wales University (RI),D-III,Wildcats,D-III,1500,"41.789260098294
 Katherine,University of Saint Katherine,NAIA,Firebirds,NAIA,1500,"33.14459389006438, -117.188980895342",0,@UskMvb,
 Kean,Kean University,D-III,Cougars,D-III,1500,"40.68045714398456, -74.23754322953764",0,@KeanMVB,
 King,King University,D-II,Tornados,Carolinas,1500,"36.585282826029015, -82.15931172711392",1,@TornadoMVB,#cf102d
-Kings,King's College,D-III,Monarchs,D-III,1500,"41.249174900875346, -75.87696569302454",0,,
+Kings,King's College,D-III,Monarchs,D-III,1500,"41.249174900875346, -75.87696569302454",0,@KingsMonarchs,
 KSU,Kentucky State University,D-II,Thorobreds,SIAC,1500,"38.20016245445245, -84.86007930194451",1,@KYSUAthletics,
 Lakeland,Lakeland University,D-III,Muskies,D-III,1500,"43.843452277396864, -87.88577772880265",0,,
 Lancaster,Lancaster Bible College,D-III,Chargers,D-III,1500,"40.07544941311759, -76.28914618292605",0,,
@@ -202,7 +202,7 @@ Warner,Warner University,NAIA,Royals,NAIA,1500,"27.851729076947557, -81.59915062
 Webber,Webber International University,NAIA,Warriors,NAIA,1500,"27.83794368879541, -81.53348173209628",0,@WebberAthletics,
 Wells,Wells College,D-III,Express,D-III,1500,"42.74657777700596, -76.69624086746354",0,@WellsExpress,#b31b34
 Westcliff,Westcliff University,NAIA,Warriors,NAIA,1500,"33.79535549977899, -117.76684789770304",0,,
-Widener,Widener University,D-III,Pride,D-III,1500,"39.86591052264735, -75.35187384013149",0,,
+Widener,Widener University,D-III,Pride,D-III,1500,"39.86591052264735, -75.35187384013149",0,@WidenerMVB,
 Wilkes,Wilkes University,D-III,Colonels,D-III,1500,"41.2423605095444, -75.890487664037",0,,
 Wilson,Wilson College (PA),D-III,Phoenix,D-III,1500,"39.953606035662204, -77.6499938604079",0,,
 WIT,Wentworth Institute of Technology,D-III,Leopards,D-III,1500,"42.33551821175901, -71.094890253902",0,,
