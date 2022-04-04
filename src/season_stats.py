@@ -66,7 +66,7 @@ def season_stats (year):
                     teams[x]['points_lost'] = int(teams[x]['points_lost']) + int(games[i]['p_t1'])
                     teams[x]['point_diff'] = int(teams[x]['points_won']) - int(teams[x]['points_lost'])
                     teams[x]['soo'] = float(teams[x]['soo']) + float(games[i]['elo_start_team1'])
-                    teams[x]['sos'] = teams[x]['soo']/teams[x]['games']
+                    teams[x]['sos'] = round(teams[x]['soo']/teams[x]['games'],2)
         export_teams_season(teams)
 
 def export_teams_season (teams):
