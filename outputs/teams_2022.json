@@ -24,7 +24,8 @@
         "points_won": 1757,
         "points_lost": 1952,
         "point_diff": -195,
-        "soo": 63.271594511683034
+        "soo": 33522.48775656115,
+        "sos": 1457.4994676765718
     },
     {
         "short_name": "American",
@@ -51,7 +52,8 @@
         "points_won": 961,
         "points_lost": 1359,
         "point_diff": -398,
-        "soo": 90.6323614980644
+        "soo": 26213.29100395763,
+        "sos": 1456.293944664313
     },
     {
         "short_name": "Ball",
@@ -78,7 +80,8 @@
         "points_won": 1880,
         "points_lost": 1587,
         "point_diff": 293,
-        "soo": 86.47841998206559
+        "soo": 34087.87734397051,
+        "sos": 1623.2322544747863
     },
     {
         "short_name": "Barton",
@@ -105,7 +108,8 @@
         "points_won": 1193,
         "points_lost": 1500,
         "point_diff": -307,
-        "soo": 98.48770003386615
+        "soo": 26938.346538641472,
+        "sos": 1584.6086199200865
     },
     {
         "short_name": "Belmont",
@@ -132,7 +136,8 @@
         "points_won": 2105,
         "points_lost": 2039,
         "point_diff": 66,
-        "soo": 65.92161798207569
+        "soo": 41250.89711834381,
+        "sos": 1527.811004383104
     },
     {
         "short_name": "Benedict",
@@ -159,7 +164,8 @@
         "points_won": 1265,
         "points_lost": 1356,
         "point_diff": -91,
-        "soo": 85.36429681202159
+        "soo": 26105.264277933613,
+        "sos": 1450.2924598852007
     },
     {
         "short_name": "BYU",
@@ -186,7 +192,8 @@
         "points_won": 1773,
         "points_lost": 1847,
         "point_diff": -74,
-        "soo": 88.32481266090579
+        "soo": 32642.916628563547,
+        "sos": 1632.1458314281774
     },
     {
         "short_name": "Central",
@@ -213,7 +220,8 @@
         "points_won": 1421,
         "points_lost": 1402,
         "point_diff": 19,
-        "soo": 79.52889868571549
+        "soo": 27666.637848030674,
+        "sos": 1456.1388341068775
     },
     {
         "short_name": "Charleston",
@@ -240,7 +248,8 @@
         "points_won": 1463,
         "points_lost": 1498,
         "point_diff": -35,
-        "soo": 97.92278485300683
+        "soo": 28296.62520770621,
+        "sos": 1572.034733761456
     },
     {
         "short_name": "Concordia",
@@ -267,7 +276,8 @@
         "points_won": 1745,
         "points_lost": 1767,
         "point_diff": -22,
-        "soo": 81.21019490402503
+        "soo": 34266.78281215033,
+        "sos": 1557.5810369159242
     },
     {
         "short_name": "CSUN",
@@ -294,7 +304,8 @@
         "points_won": 1168,
         "points_lost": 1227,
         "point_diff": -59,
-        "soo": 103.00631283511846
+        "soo": 27367.550987707305,
+        "sos": 1609.855940453371
     },
     {
         "short_name": "Daemen",
@@ -321,7 +332,8 @@
         "points_won": 1590,
         "points_lost": 1374,
         "point_diff": 216,
-        "soo": 93.409913146175
+        "soo": 26346.947530660673,
+        "sos": 1463.7193072589262
     },
     {
         "short_name": "DYouville",
@@ -348,7 +360,8 @@
         "points_won": 1187,
         "points_lost": 1193,
         "point_diff": -6,
-        "soo": 97.54007298209154
+        "soo": 22930.682016207575,
+        "sos": 1433.1676260129734
     },
     {
         "short_name": "Edward",
@@ -375,7 +388,8 @@
         "points_won": 2041,
         "points_lost": 2113,
         "point_diff": -72,
-        "soo": 53.33653550092077
+        "soo": 38227.5505800049,
+        "sos": 1470.2904069232654
     },
     {
         "short_name": "Emmanuel",
@@ -402,7 +416,8 @@
         "points_won": 2039,
         "points_lost": 2098,
         "point_diff": -59,
-        "soo": 62.34065954618824
+        "soo": 37087.89156835378,
+        "sos": 1545.3288153480742
     },
     {
         "short_name": "Erskine",
@@ -429,7 +444,8 @@
         "points_won": 1993,
         "points_lost": 2134,
         "point_diff": -141,
-        "soo": 66.64386724502796
+        "soo": 41423.67021085382,
+        "sos": 1534.2100078094008
     },
     {
         "short_name": "Fairleigh",
@@ -456,7 +472,8 @@
         "points_won": 1291,
         "points_lost": 1426,
         "point_diff": -135,
-        "soo": 93.37107997807195
+        "soo": 27047.061484588954,
+        "sos": 1502.6145269216086
     },
     {
         "short_name": "Fort Valley",
@@ -483,7 +500,8 @@
         "points_won": 1047,
         "points_lost": 1161,
         "point_diff": -114,
-        "soo": 87.61020118482078
+        "soo": 23301.092275457922,
+        "sos": 1456.3182672161201
     },
     {
         "short_name": "GCU",
@@ -510,7 +528,8 @@
         "points_won": 2124,
         "points_lost": 1989,
         "point_diff": 135,
-        "soo": 63.899586284090454
+        "soo": 40106.788057654376,
+        "sos": 1604.271522306175
     },
     {
         "short_name": "GMU",
@@ -537,7 +556,8 @@
         "points_won": 1966,
         "points_lost": 2019,
         "point_diff": -53,
-        "soo": 65.3895183689172
+        "soo": 36277.501469529205,
+        "sos": 1577.2826725882262
     },
     {
         "short_name": "Greenville",
@@ -564,7 +584,8 @@
         "points_won": 1829,
         "points_lost": 1624,
         "point_diff": 205,
-        "soo": 80.30444194180649
+        "soo": 32268.43869371594,
+        "sos": 1536.5923187483781
     },
     {
         "short_name": "Harvard",
@@ -591,7 +612,8 @@
         "points_won": 1596,
         "points_lost": 1575,
         "point_diff": 21,
-        "soo": 86.90967128932368
+        "soo": 31795.97373518022,
+        "sos": 1589.7986867590112
     },
     {
         "short_name": "Hawaii",
@@ -618,7 +640,8 @@
         "points_won": 1935,
         "points_lost": 1501,
         "point_diff": 434,
-        "soo": 80.30619088900222
+        "soo": 36533.1606314366,
+        "sos": 1588.3982883233305
     },
     {
         "short_name": "King",
@@ -645,7 +668,8 @@
         "points_won": 2096,
         "points_lost": 2056,
         "point_diff": 40,
-        "soo": 60.32718523546677
+        "soo": 38959.736769897725,
+        "sos": 1558.389470795909
     },
     {
         "short_name": "KSU",
@@ -672,7 +696,8 @@
         "points_won": 808,
         "points_lost": 1072,
         "point_diff": -264,
-        "soo": 111.5470029691157
+        "soo": 19679.27639612888,
+        "sos": 1405.6625997234914
     },
     {
         "short_name": "LBSU",
@@ -699,7 +724,8 @@
         "points_won": 1670,
         "points_lost": 1437,
         "point_diff": 233,
-        "soo": 101.75788167719911
+        "soo": 31165.61679980445,
+        "sos": 1640.2956210423395
     },
     {
         "short_name": "Lees",
@@ -726,7 +752,8 @@
         "points_won": 1393,
         "points_lost": 1483,
         "point_diff": -90,
-        "soo": 91.57955116274898
+        "soo": 28851.703690660754,
+        "sos": 1518.5107205610923
     },
     {
         "short_name": "Lewis",
@@ -753,7 +780,8 @@
         "points_won": 1927,
         "points_lost": 1865,
         "point_diff": 62,
-        "soo": 79.03020681181614
+        "soo": 38942.66455455982,
+        "sos": 1622.6110231066593
     },
     {
         "short_name": "Limestone",
@@ -780,7 +808,8 @@
         "points_won": 1955,
         "points_lost": 1778,
         "point_diff": 177,
-        "soo": 73.64475061422026
+        "soo": 34857.78198727311,
+        "sos": 1515.555738577092
     },
     {
         "short_name": "Lindenwood",
@@ -807,7 +836,8 @@
         "points_won": 1485,
         "points_lost": 1594,
         "point_diff": -109,
-        "soo": 92.5438149222379
+        "soo": 30190.893179339913,
+        "sos": 1588.9943778599954
     },
     {
         "short_name": "LIU",
@@ -834,7 +864,8 @@
         "points_won": 1800,
         "points_lost": 1932,
         "point_diff": -132,
-        "soo": 55.91120210249857
+        "soo": 38428.99943271225,
+        "sos": 1537.15997730849
     },
     {
         "short_name": "LMU",
@@ -861,7 +892,8 @@
         "points_won": 1819,
         "points_lost": 1604,
         "point_diff": 215,
-        "soo": 62.58402986340602
+        "soo": 36410.04050147342,
+        "sos": 1583.0452391944966
     },
     {
         "short_name": "Loyola",
@@ -888,7 +920,8 @@
         "points_won": 1908,
         "points_lost": 1763,
         "point_diff": 145,
-        "soo": 64.66654427255159
+        "soo": 37239.688317363885,
+        "sos": 1619.1168833636473
     },
     {
         "short_name": "Maryville",
@@ -915,7 +948,8 @@
         "points_won": 2398,
         "points_lost": 2279,
         "point_diff": 119,
-        "soo": 47.42480725459325
+        "soo": 42516.36009383191,
+        "sos": 1417.2120031277302
     },
     {
         "short_name": "McKendree",
@@ -942,7 +976,8 @@
         "points_won": 1912,
         "points_lost": 1850,
         "point_diff": 62,
-        "soo": 76.4234774168131
+        "soo": 35662.792518797374,
+        "sos": 1621.0360235816988
     },
     {
         "short_name": "Morehouse",
@@ -969,7 +1004,8 @@
         "points_won": 511,
         "points_lost": 1051,
         "point_diff": -540,
-        "soo": 109.47361914691751
+        "soo": 20095.50033582232,
+        "sos": 1435.3928811301655
     },
     {
         "short_name": "NJIT",
@@ -996,7 +1032,8 @@
         "points_won": 1794,
         "points_lost": 1705,
         "point_diff": 89,
-        "soo": 81.37255031182669
+        "soo": 33001.11785771978,
+        "sos": 1571.481802748561
     },
     {
         "short_name": "Ohio",
@@ -1023,7 +1060,8 @@
         "points_won": 2070,
         "points_lost": 1990,
         "point_diff": 80,
-        "soo": 74.2101147465298
+        "soo": 39022.158810255154,
+        "sos": 1625.9232837606314
     },
     {
         "short_name": "Olive",
@@ -1050,7 +1088,8 @@
         "points_won": 1584,
         "points_lost": 1390,
         "point_diff": 194,
-        "soo": 96.61902055258969
+        "soo": 26906.217748006467,
+        "sos": 1582.718691059204
     },
     {
         "short_name": "Penn",
@@ -1077,7 +1116,8 @@
         "points_won": 1858,
         "points_lost": 1529,
         "point_diff": 329,
-        "soo": 72.9533818303394
+        "soo": 36745.15700623198,
+        "sos": 1597.6155220100861
     },
     {
         "short_name": "Pepperdine",
@@ -1104,7 +1144,8 @@
         "points_won": 1799,
         "points_lost": 1596,
         "point_diff": 203,
-        "soo": 76.67631138664156
+        "soo": 33211.816436041096,
+        "sos": 1581.5150683829092
     },
     {
         "short_name": "PFW",
@@ -1131,7 +1172,8 @@
         "points_won": 2123,
         "points_lost": 2016,
         "point_diff": 107,
-        "soo": 65.37416644362318
+        "soo": 39336.539220891216,
+        "sos": 1573.4615688356487
     },
     {
         "short_name": "Princeton",
@@ -1158,7 +1200,8 @@
         "points_won": 1759,
         "points_lost": 1789,
         "point_diff": -30,
-        "soo": 73.26878782758413
+        "soo": 33635.884308910936,
+        "sos": 1601.7087766148065
     },
     {
         "short_name": "Queens",
@@ -1185,7 +1228,8 @@
         "points_won": 1898,
         "points_lost": 1935,
         "point_diff": -37,
-        "soo": 72.98658574562025
+        "soo": 35905.697307297516,
+        "sos": 1561.1172742303268
     },
     {
         "short_name": "Quincy",
@@ -1212,7 +1256,8 @@
         "points_won": 1486,
         "points_lost": 1707,
         "point_diff": -221,
-        "soo": 92.44821823975657
+        "soo": 31249.479678838878,
+        "sos": 1562.473983941944
     },
     {
         "short_name": "Sacred",
@@ -1239,7 +1284,8 @@
         "points_won": 1872,
         "points_lost": 1891,
         "point_diff": -19,
-        "soo": 72.81197180831042
+        "soo": 34128.827583808255,
+        "sos": 1551.310344718557
     },
     {
         "short_name": "SFCB",
@@ -1266,7 +1312,8 @@
         "points_won": 1702,
         "points_lost": 1784,
         "point_diff": -82,
-        "soo": 77.06292148283708
+        "soo": 30310.468374994132,
+        "sos": 1515.5234187497067
     },
     {
         "short_name": "SFU",
@@ -1293,7 +1340,8 @@
         "points_won": 1929,
         "points_lost": 1963,
         "point_diff": -34,
-        "soo": 80.15158053414567
+        "soo": 37914.36469735604,
+        "sos": 1579.7651957231683
     },
     {
         "short_name": "Stanford",
@@ -1320,7 +1368,8 @@
         "points_won": 1767,
         "points_lost": 1726,
         "point_diff": 41,
-        "soo": 85.00720638910832
+        "soo": 32840.98888757261,
+        "sos": 1563.856613693934
     },
     {
         "short_name": "Tusculum",
@@ -1347,7 +1396,8 @@
         "points_won": 1729,
         "points_lost": 1952,
         "point_diff": -223,
-        "soo": 74.76098250393075
+        "soo": 35580.65165015686,
+        "sos": 1546.9848543546461
     },
     {
         "short_name": "UCI",
@@ -1374,7 +1424,8 @@
         "points_won": 1830,
         "points_lost": 1894,
         "point_diff": -64,
-        "soo": 87.72572149693048
+        "soo": 34164.86737881726,
+        "sos": 1626.8984466103457
     },
     {
         "short_name": "UCLA",
@@ -1401,7 +1452,8 @@
         "points_won": 1734,
         "points_lost": 1464,
         "point_diff": 270,
-        "soo": 87.59973543640722
+        "soo": 31376.32650442592,
+        "sos": 1568.816325221296
     },
     {
         "short_name": "UCSB",
@@ -1428,7 +1480,8 @@
         "points_won": 1833,
         "points_lost": 1686,
         "point_diff": 147,
-        "soo": 77.85245206571447
+        "soo": 33359.41045822589,
+        "sos": 1588.5433551536137
     },
     {
         "short_name": "UCSD",
@@ -1455,7 +1508,8 @@
         "points_won": 1792,
         "points_lost": 1760,
         "point_diff": 32,
-        "soo": 79.33633976053525
+        "soo": 32077.541079575374,
+        "sos": 1603.8770539787688
     },
     {
         "short_name": "USC",
@@ -1482,6 +1536,7 @@
         "points_won": 2012,
         "points_lost": 1813,
         "point_diff": 199,
-        "soo": 81.10702957942951
+        "soo": 36741.674955889,
+        "sos": 1597.464128516913
     }
 ]

@@ -42,7 +42,8 @@ def season_stats (year):
                     teams[x]['points_won'] = int(teams[x]['points_won']) + int(games[i]['p_t1'])
                     teams[x]['points_lost'] = int(teams[x]['points_lost']) + int(games[i]['p_t2'])
                     teams[x]['point_diff'] = teams[x]['points_won'] - teams[x]['points_lost']
-                    teams[x]['soo'] = (float(teams[x]['soo']) + float(games[i]['elo_start_team2']))/teams[x]['games']
+                    teams[x]['soo'] = float(teams[x]['soo']) + float(games[i]['elo_start_team2'])
+                    teams[x]['sos'] = teams[x]['soo']/teams[x]['games']
                 if games[i]['t2'] == teams[x]['short_name']:
                     teams[x]['elo'] = games[i]['elo_end_team2']
                     teams[x]['games'] = int(teams[x]['games']) + 1
@@ -64,11 +65,12 @@ def season_stats (year):
                     teams[x]['points_won'] = int(teams[x]['points_won']) + int(games[i]['p_t2'])
                     teams[x]['points_lost'] = int(teams[x]['points_lost']) + int(games[i]['p_t1'])
                     teams[x]['point_diff'] = int(teams[x]['points_won']) - int(teams[x]['points_lost'])
-                    teams[x]['soo'] = (float(teams[x]['soo']) + float(games[i]['elo_start_team1']))/teams[x]['games']
+                    teams[x]['soo'] = float(teams[x]['soo']) + float(games[i]['elo_start_team1'])
+                    teams[x]['sos'] = teams[x]['soo']/teams[x]['games']
         export_teams_season(teams)
 
 def export_teams_season (teams):
-    field_names = ['short_name','full_name','division','conference','elo','games','wins','losses','win_pct','conf_wins','conf_losses','conf_pct','home_wins','home_losses','home_pct','away_wins','away_losses','away_pct','sets_won','sets_lost','set_diff','points_won','points_lost','point_diff','soo']
+    field_names = ['short_name','full_name','division','conference','elo','games','wins','losses','win_pct','conf_wins','conf_losses','conf_pct','home_wins','home_losses','home_pct','away_wins','away_losses','away_pct','sets_won','sets_lost','set_diff','points_won','points_lost','point_diff','soo','sos']
     with open('outputs/teams_output_2022.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames = field_names)
         writer.writeheader()
