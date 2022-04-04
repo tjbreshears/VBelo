@@ -3,6 +3,7 @@ import math
 import pandas as pd
 import geopy.distance as gp
 import matplotlib.pyplot as plt
+import json
 
 teams = []
 with open("inputs/VBelo - teams.csv", 'r') as data:
@@ -178,6 +179,9 @@ def export_teams (teams):
         writer = csv.DictWriter(csvfile, fieldnames = field_names)
         writer.writeheader()
         writer.writerows(teams)
+    json_object_teams = json.dumps(teams, indent = 4)
+    with open("outputs/teams.json", "w") as outfile:
+        outfile.write(json_object_teams)
 
 def export_tracking (tracking):
     df_track = pd.DataFrame(tracking)
