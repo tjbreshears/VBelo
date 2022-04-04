@@ -21,11 +21,11 @@ BYU,Brigham Young University,D-I,Cougars,MPSF,1500,"40.24775735793723, -111.6540
 Cairn,Cairn University,D-III,Highlanders,D-III,1500,"40.1670948697853, -74.90559171636978",0,,
 Cal Lu,California Lutheran University,D-III,Kingsmen,D-III,1500,"34.22633196106771, -118.87807278033313",0,@CLUSports,
 Campbellsville,Campbellsville University,NAIA,Tigers,NAIA,1500,"37.343703858580945, -85.35335044938824",0,@CvilleTigersVB,
-Carlow,Carlow University,NAIA,Celtics,NAIA,1500,"40.43903130319252, -79.96306475446164",0,,
+Carlow,Carlow University,NAIA,Celtics,NAIA,1500,"40.43903130319252, -79.96306475446164",0,@CarlowCeltics,
 Carolina,Carolina University,NCCAA,Bruins,NCCAA,1500,"36.087523477474456, -80.24955829665056",0,@carolinaumvb,
 Carthage,Carthage College,D-III,Red Men,D-III,1500,"42.6215922229578, -87.82230584629596",0,,
 CCNY,City College of New York,D-III,Beavers,D-III,1500,"40.81976412629696, -73.9495302395286",0,,
-Central,Central State University,D-II,Marauders,SIAC,1500,"39.715131597362756, -83.87718939929674",1,@GO_MARAUDERS,
+Central,Central State University,D-II,Marauders,SIAC,1500,"39.715131597362756, -83.87718939929674",1,@GO_MARAUDERS,#6c0b31
 Charleston,University of Charleston,D-II,Golden Eagles,EIVA,1500,"38.33334229250818, -81.61707890009181",1,@ucwv_mvball,#61162d
 Coker,Coker University,D-II,Cobras,Independent,1500,"34.37528373319098, -80.06614319438705",0,@Coker_Cobras,#233a75
 Colby,Colby–Sawyer College,D-III,Chargers,D-III,1500,"43.41183934465652, -71.9754399209063",0,,
@@ -42,7 +42,7 @@ Dominican,Dominican University (IL),D-III,Stars,D-III,1500,"41.903363621408715, 
 DYouville,D'Youville University,D-II,Saints,Independent,1500,"42.90182578107489, -78.88965269252517",1,@DYouvilleMVB,
 Eastern,Eastern University,D-III,Eagles,D-III,1500,"40.050986680102724, -75.37269408034746",0,@EUEagles,
 Edgewood,Edgewood College,D-III,Eagles,D-III,1500,"43.05830704392353, -89.42167424499276",0,,
-Edward,Edward Waters University,D-II,Tigers,SIAC,1500,"30.34614835020607, -81.68808435799133",1,@EWU_Athletics,
+Edward,Edward Waters University,D-II,Tigers,SIAC,1500,"30.34614835020607, -81.68808435799133",1,@EWU_Athletics,#702784
 Elizabeth,Saint Elizabeth University,D-III,Eagles,D-III,1500,"40.777375075122734, -74.43415675237851",0,,
 Elizabethtown,Elizabethtown College,D-III,Blue Jays,D-III,1500,"40.150819758599084, -76.59062951850991",0,,
 Elmira,Elmira College,D-III,Soaring Eagles,D-III,1500,"42.096566184891785, -76.81556739854054",0,@ElmiraMVB,
