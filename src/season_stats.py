@@ -28,13 +28,13 @@ def season_stats (year):
                         teams[x]['wins'] = int(teams[x]['wins']) + 1
                     else:
                         teams[x]['losses'] = int(teams[x]['losses']) + 1
-                    teams[x]['win_pct'] = round(int(teams[x]['wins'])/int(teams[x]['games']),3)
+                    teams[x]['win_pct'] = '{0:.3f}'.format(int(teams[x]['wins'])/int(teams[x]['games']))
                     if games[i]['home'] == games[i]['t2'] and games[i]['r_t1'] == '1':
                         teams[x]['away_wins'] = int(teams[x]['away_wins']) + 1
                     if games[i]['home'] == games[i]['t2'] and games[i]['r_t1'] == '0':
                         teams[x]['away_losses'] = int(teams[x]['away_losses']) + 1
                     if int(teams[x]['away_wins'])+int(teams[x]['away_losses']) != 0:
-                        teams[x]['away_pct'] = round(int(teams[x]['away_wins'])/(int(teams[x]['away_wins'])+int(teams[x]['away_losses'])),3)
+                        teams[x]['away_pct'] = '{0:.3f}'.format(int(teams[x]['away_wins'])/(int(teams[x]['away_wins'])+int(teams[x]['away_losses'])))
 
                     teams[x]['sets_won'] = int(teams[x]['sets_won']) + int(games[i]['s_t1'])
                     teams[x]['sets_lost'] = int(teams[x]['sets_lost']) + int(games[i]['s_t2'])
@@ -51,13 +51,13 @@ def season_stats (year):
                         teams[x]['wins'] = int(teams[x]['wins']) + 1
                     else:
                         teams[x]['losses'] = int(teams[x]['losses']) + 1
-                    teams[x]['win_pct'] = round(int(teams[x]['wins'])/int(teams[x]['games']),3)
+                    teams[x]['win_pct'] = '{0:.3f}'.format(int(teams[x]['wins'])/int(teams[x]['games']))
                     if games[i]['home'] == games[i]['t2'] and games[i]['r_t2'] == '1':
                         teams[x]['home_wins'] = int(teams[x]['home_wins']) + 1
                     if games[i]['home'] == games[i]['t2'] and games[i]['r_t2'] == '0':
                         teams[x]['home_losses'] = int(teams[x]['home_losses']) + 1
                     if int(teams[x]['home_losses'])+int(teams[x]['home_wins']) != 0:
-                        teams[x]['home_pct'] = round(int(teams[x]['home_wins'])/(int(teams[x]['home_losses'])+int(teams[x]['home_wins'])),3)
+                        teams[x]['home_pct'] = '{0:.3f}'.format(int(teams[x]['home_wins'])/(int(teams[x]['home_losses'])+int(teams[x]['home_wins'])))
 
                     teams[x]['sets_won'] = int(teams[x]['sets_won']) + int(games[i]['s_t2'])
                     teams[x]['sets_lost'] = int(teams[x]['sets_lost']) + int(games[i]['s_t1'])
