@@ -30,6 +30,14 @@ with open("inputs/VBelo - teams - 2022.csv", 'r') as data:
         teams[i]['point_diff'] = int(teams[i]['point_diff'])
         teams[i]['soo'] = int(teams[i]['soo'])
         teams[i]['sos'] = int(teams[i]['sos'])
+        teams[i]['cinco_wins'] = int(teams[i]['cinco_wins'])
+        teams[i]['cinco_losses'] = int(teams[i]['cinco_losses'])
+        teams[i]['cinco_pct'] = int(teams[i]['cinco_pct'])
+        teams[i]['points_game'] = int(teams[i]['points_game'])
+        teams[i]['points_set'] = int(teams[i]['points_set'])
+
+# points_game	points_set
+
 
 games = []
 with open("outputs/games_output.csv", 'r') as data:
@@ -65,6 +73,15 @@ def season_stats (year):
                     teams[x]['point_diff'] = teams[x]['points_won'] - teams[x]['points_lost']
                     teams[x]['soo'] = float(teams[x]['soo']) + float(games[i]['elo_start_team2'])
                     teams[x]['sos'] = round(teams[x]['soo']/teams[x]['games'],2)
+                    if games[i]['s_t1'] + games[i]['s_t2'] == 5 and games[i]['r_t1'] == '1':
+                        teams[x]['cinco_wins'] = int(teams[x]['cinco_wins']) + 1
+                    if games[i]['s_t1'] + games[i]['s_t2'] == 5 and games[i]['r_t1'] == '0':
+                        teams[x]['cinco_losses'] = int(teams[x]['cinco_losses']) + 1
+                    if int(teams[x]['cinco_wins'])+int(teams[x]['cinco_losses']) != 0:
+                        teams[x]['cinco_pct'] = '{0:.3f}'.format(int(teams[x]['cinco_wins'])/(int(teams[x]['cinco_wins'])+int(teams[x]['cinco_losses'])))
+                    teams[x]['points_game'] = round(teams[x]['point_diff']/teams[x]['games'],2)
+                    teams[x]['points_set'] = round(teams[x]['point_diff']/(teams[x]['sets_won']+teams[x]['sets_lost']),2)
+
                 if games[i]['t2'] == teams[x]['short_name']:
                     teams[x]['elo'] = round(float(games[i]['elo_end_team2']),2)
                     teams[x]['games'] = int(teams[x]['games']) + 1
@@ -88,10 +105,19 @@ def season_stats (year):
                     teams[x]['point_diff'] = int(teams[x]['points_won']) - int(teams[x]['points_lost'])
                     teams[x]['soo'] = float(teams[x]['soo']) + float(games[i]['elo_start_team1'])
                     teams[x]['sos'] = round(teams[x]['soo']/teams[x]['games'],2)
+                    if games[i]['s_t1'] + games[i]['s_t2'] == 5 and games[i]['r_t2'] == '1':
+                        teams[x]['cinco_wins'] = int(teams[x]['cinco_wins']) + 1
+                    if games[i]['s_t1'] + games[i]['s_t2'] == 5 and games[i]['r_t2'] == '0':
+                        teams[x]['cinco_losses'] = int(teams[x]['cinco_losses']) + 1
+                    if int(teams[x]['cinco_wins'])+int(teams[x]['cinco_losses']) != 0:
+                        teams[x]['cinco_pct'] = '{0:.3f}'.format(int(teams[x]['cinco_wins'])/(int(teams[x]['cinco_wins'])+int(teams[x]['cinco_losses'])))
+                    teams[x]['points_game'] = round(teams[x]['point_diff']/teams[x]['games'],2)
+                    teams[x]['points_set'] = round(teams[x]['point_diff']/(teams[x]['sets_won']+teams[x]['sets_lost']),2)
+
         export_teams_season(teams)
 
 def export_teams_season (teams):
-    field_names = ['short_name','full_name','division','conference','elo','games','wins','losses','win_pct','conf_wins','conf_losses','conf_pct','home_wins','home_losses','home_pct','away_wins','away_losses','away_pct','sets_won','sets_lost','set_diff','points_won','points_lost','point_diff','soo','sos']
+    field_names = ['short_name','full_name','division','conference','elo','games','wins','losses','win_pct','conf_wins','conf_losses','conf_pct','home_wins','home_losses','home_pct','away_wins','away_losses','away_pct','sets_won','sets_lost','set_diff','points_won','points_lost','point_diff','soo','sos','cinco_wins','cinco_losses','cinco_pct','points_game','points_set']
     with open('outputs/teams_output_2022.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames = field_names)
         writer.writeheader()

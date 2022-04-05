@@ -24,8 +24,13 @@
         "points_won": 1757,
         "points_lost": 1952,
         "point_diff": -195,
+        "points_game": -8.48,
+        "points_set": -2.29,
         "soo": 33522.48775656115,
-        "sos": 1457.5
+        "sos": 1457.5,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "American",
@@ -52,8 +57,13 @@
         "points_won": 961,
         "points_lost": 1359,
         "point_diff": -398,
+        "points_game": -22.11,
+        "points_set": -7.11,
         "soo": 26213.29100395763,
-        "sos": 1456.29
+        "sos": 1456.29,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Ball",
@@ -80,8 +90,13 @@
         "points_won": 1880,
         "points_lost": 1587,
         "point_diff": 293,
+        "points_game": 13.95,
+        "points_set": 3.81,
         "soo": 34087.87734397051,
-        "sos": 1623.23
+        "sos": 1623.23,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Barton",
@@ -108,8 +123,13 @@
         "points_won": 1193,
         "points_lost": 1500,
         "point_diff": -307,
+        "points_game": -18.06,
+        "points_set": -4.95,
         "soo": 26938.346538641472,
-        "sos": 1584.61
+        "sos": 1584.61,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Belmont",
@@ -136,8 +156,13 @@
         "points_won": 2105,
         "points_lost": 2039,
         "point_diff": 66,
+        "points_game": 2.44,
+        "points_set": 0.69,
         "soo": 41250.89711834381,
-        "sos": 1527.81
+        "sos": 1527.81,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Benedict",
@@ -164,8 +189,13 @@
         "points_won": 1265,
         "points_lost": 1356,
         "point_diff": -91,
+        "points_game": -5.06,
+        "points_set": -1.49,
         "soo": 26105.264277933613,
-        "sos": 1450.29
+        "sos": 1450.29,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "BYU",
@@ -192,8 +222,13 @@
         "points_won": 1773,
         "points_lost": 1847,
         "point_diff": -74,
+        "points_game": -3.7,
+        "points_set": -0.93,
         "soo": 32642.916628563547,
-        "sos": 1632.15
+        "sos": 1632.15,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Central",
@@ -220,8 +255,13 @@
         "points_won": 1421,
         "points_lost": 1402,
         "point_diff": 19,
+        "points_game": 1.0,
+        "points_set": 0.29,
         "soo": 27666.637848030674,
-        "sos": 1456.14
+        "sos": 1456.14,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Charleston",
@@ -248,8 +288,13 @@
         "points_won": 1463,
         "points_lost": 1498,
         "point_diff": -35,
+        "points_game": -1.94,
+        "points_set": -0.51,
         "soo": 28296.62520770621,
-        "sos": 1572.03
+        "sos": 1572.03,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Concordia",
@@ -276,8 +321,13 @@
         "points_won": 1745,
         "points_lost": 1767,
         "point_diff": -22,
+        "points_game": -1.0,
+        "points_set": -0.28,
         "soo": 34266.78281215033,
-        "sos": 1557.58
+        "sos": 1557.58,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "CSUN",
@@ -304,8 +354,13 @@
         "points_won": 1168,
         "points_lost": 1227,
         "point_diff": -59,
+        "points_game": -3.47,
+        "points_set": -1.09,
         "soo": 27367.550987707305,
-        "sos": 1609.86
+        "sos": 1609.86,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Daemen",
@@ -332,8 +387,13 @@
         "points_won": 1590,
         "points_lost": 1374,
         "point_diff": 216,
+        "points_game": 12.0,
+        "points_set": 3.13,
         "soo": 26346.947530660673,
-        "sos": 1463.72
+        "sos": 1463.72,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "DYouville",
@@ -360,8 +420,13 @@
         "points_won": 1187,
         "points_lost": 1193,
         "point_diff": -6,
+        "points_game": -0.38,
+        "points_set": -0.11,
         "soo": 22930.682016207575,
-        "sos": 1433.17
+        "sos": 1433.17,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Edward",
@@ -388,8 +453,13 @@
         "points_won": 2041,
         "points_lost": 2113,
         "point_diff": -72,
+        "points_game": -2.77,
+        "points_set": -0.75,
         "soo": 38227.5505800049,
-        "sos": 1470.29
+        "sos": 1470.29,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Emmanuel",
@@ -416,8 +486,13 @@
         "points_won": 2039,
         "points_lost": 2098,
         "point_diff": -59,
+        "points_game": -2.46,
+        "points_set": -0.63,
         "soo": 37087.89156835378,
-        "sos": 1545.33
+        "sos": 1545.33,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Erskine",
@@ -444,8 +519,13 @@
         "points_won": 1993,
         "points_lost": 2134,
         "point_diff": -141,
+        "points_game": -5.22,
+        "points_set": -1.5,
         "soo": 41423.67021085382,
-        "sos": 1534.21
+        "sos": 1534.21,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Fairleigh",
@@ -472,8 +552,13 @@
         "points_won": 1291,
         "points_lost": 1426,
         "point_diff": -135,
+        "points_game": -7.5,
+        "points_set": -2.21,
         "soo": 27047.061484588954,
-        "sos": 1502.61
+        "sos": 1502.61,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Fort Valley",
@@ -500,8 +585,13 @@
         "points_won": 1047,
         "points_lost": 1161,
         "point_diff": -114,
+        "points_game": -7.12,
+        "points_set": -2.15,
         "soo": 23301.092275457922,
-        "sos": 1456.32
+        "sos": 1456.32,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "GCU",
@@ -528,8 +618,13 @@
         "points_won": 2124,
         "points_lost": 1989,
         "point_diff": 135,
+        "points_game": 5.4,
+        "points_set": 1.48,
         "soo": 40106.788057654376,
-        "sos": 1604.27
+        "sos": 1604.27,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "GMU",
@@ -556,8 +651,13 @@
         "points_won": 1966,
         "points_lost": 2019,
         "point_diff": -53,
+        "points_game": -2.3,
+        "points_set": -0.58,
         "soo": 36277.501469529205,
-        "sos": 1577.28
+        "sos": 1577.28,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Greenville",
@@ -584,8 +684,13 @@
         "points_won": 1829,
         "points_lost": 1624,
         "point_diff": 205,
+        "points_game": 9.76,
+        "points_set": 2.59,
         "soo": 32268.43869371594,
-        "sos": 1536.59
+        "sos": 1536.59,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Harvard",
@@ -612,8 +717,13 @@
         "points_won": 1596,
         "points_lost": 1575,
         "point_diff": 21,
+        "points_game": 1.05,
+        "points_set": 0.3,
         "soo": 31795.97373518022,
-        "sos": 1589.8
+        "sos": 1589.8,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Hawaii",
@@ -640,8 +750,13 @@
         "points_won": 1935,
         "points_lost": 1501,
         "point_diff": 434,
+        "points_game": 18.87,
+        "points_set": 5.36,
         "soo": 36533.1606314366,
-        "sos": 1588.4
+        "sos": 1588.4,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "King",
@@ -668,8 +783,13 @@
         "points_won": 2096,
         "points_lost": 2056,
         "point_diff": 40,
+        "points_game": 1.6,
+        "points_set": 0.43,
         "soo": 38959.736769897725,
-        "sos": 1558.39
+        "sos": 1558.39,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "KSU",
@@ -696,8 +816,13 @@
         "points_won": 808,
         "points_lost": 1072,
         "point_diff": -264,
+        "points_game": -18.86,
+        "points_set": -5.87,
         "soo": 19679.27639612888,
-        "sos": 1405.66
+        "sos": 1405.66,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "LBSU",
@@ -724,8 +849,13 @@
         "points_won": 1670,
         "points_lost": 1437,
         "point_diff": 233,
+        "points_game": 12.26,
+        "points_set": 3.33,
         "soo": 31165.61679980445,
-        "sos": 1640.3
+        "sos": 1640.3,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Lees",
@@ -752,8 +882,13 @@
         "points_won": 1393,
         "points_lost": 1483,
         "point_diff": -90,
+        "points_game": -4.74,
+        "points_set": -1.41,
         "soo": 28851.703690660754,
-        "sos": 1518.51
+        "sos": 1518.51,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Lewis",
@@ -780,8 +915,13 @@
         "points_won": 1927,
         "points_lost": 1865,
         "point_diff": 62,
+        "points_game": 2.58,
+        "points_set": 0.74,
         "soo": 38942.66455455982,
-        "sos": 1622.61
+        "sos": 1622.61,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Limestone",
@@ -808,8 +948,13 @@
         "points_won": 1955,
         "points_lost": 1778,
         "point_diff": 177,
+        "points_game": 7.7,
+        "points_set": 2.03,
         "soo": 34857.78198727311,
-        "sos": 1515.56
+        "sos": 1515.56,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Lindenwood",
@@ -836,8 +981,13 @@
         "points_won": 1485,
         "points_lost": 1594,
         "point_diff": -109,
+        "points_game": -5.74,
+        "points_set": -1.54,
         "soo": 30190.893179339913,
-        "sos": 1588.99
+        "sos": 1588.99,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "LIU",
@@ -864,8 +1014,13 @@
         "points_won": 1800,
         "points_lost": 1932,
         "point_diff": -132,
+        "points_game": -5.28,
+        "points_set": -1.55,
         "soo": 38428.99943271225,
-        "sos": 1537.16
+        "sos": 1537.16,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "LMU",
@@ -892,8 +1047,13 @@
         "points_won": 1819,
         "points_lost": 1604,
         "point_diff": 215,
+        "points_game": 9.35,
+        "points_set": 2.72,
         "soo": 36410.04050147342,
-        "sos": 1583.05
+        "sos": 1583.05,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Loyola",
@@ -920,8 +1080,13 @@
         "points_won": 1908,
         "points_lost": 1763,
         "point_diff": 145,
+        "points_game": 6.3,
+        "points_set": 1.75,
         "soo": 37239.688317363885,
-        "sos": 1619.12
+        "sos": 1619.12,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Maryville",
@@ -948,8 +1113,13 @@
         "points_won": 2398,
         "points_lost": 2279,
         "point_diff": 119,
+        "points_game": 3.97,
+        "points_set": 1.09,
         "soo": 42516.36009383191,
-        "sos": 1417.21
+        "sos": 1417.21,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "McKendree",
@@ -976,8 +1146,13 @@
         "points_won": 1912,
         "points_lost": 1850,
         "point_diff": 62,
+        "points_game": 2.82,
+        "points_set": 0.73,
         "soo": 35662.792518797374,
-        "sos": 1621.04
+        "sos": 1621.04,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Morehouse",
@@ -1004,8 +1179,13 @@
         "points_won": 511,
         "points_lost": 1051,
         "point_diff": -540,
+        "points_game": -38.57,
+        "points_set": -12.86,
         "soo": 20095.50033582232,
-        "sos": 1435.39
+        "sos": 1435.39,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "NJIT",
@@ -1032,8 +1212,13 @@
         "points_won": 1794,
         "points_lost": 1705,
         "point_diff": 89,
+        "points_game": 4.24,
+        "points_set": 1.16,
         "soo": 33001.11785771978,
-        "sos": 1571.48
+        "sos": 1571.48,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Ohio",
@@ -1060,8 +1245,13 @@
         "points_won": 2070,
         "points_lost": 1990,
         "point_diff": 80,
+        "points_game": 3.33,
+        "points_set": 0.88,
         "soo": 39022.158810255154,
-        "sos": 1625.92
+        "sos": 1625.92,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Olive",
@@ -1088,8 +1278,13 @@
         "points_won": 1584,
         "points_lost": 1390,
         "point_diff": 194,
+        "points_game": 11.41,
+        "points_set": 2.85,
         "soo": 26906.217748006467,
-        "sos": 1582.72
+        "sos": 1582.72,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Penn",
@@ -1116,8 +1311,13 @@
         "points_won": 1858,
         "points_lost": 1529,
         "point_diff": 329,
+        "points_game": 14.3,
+        "points_set": 4.27,
         "soo": 36745.15700623198,
-        "sos": 1597.62
+        "sos": 1597.62,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Pepperdine",
@@ -1144,8 +1344,13 @@
         "points_won": 1799,
         "points_lost": 1596,
         "point_diff": 203,
+        "points_game": 9.67,
+        "points_set": 2.67,
         "soo": 33211.816436041096,
-        "sos": 1581.52
+        "sos": 1581.52,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "PFW",
@@ -1172,8 +1377,13 @@
         "points_won": 2123,
         "points_lost": 2016,
         "point_diff": 107,
+        "points_game": 4.28,
+        "points_set": 1.15,
         "soo": 39336.539220891216,
-        "sos": 1573.46
+        "sos": 1573.46,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Princeton",
@@ -1200,8 +1410,13 @@
         "points_won": 1759,
         "points_lost": 1789,
         "point_diff": -30,
+        "points_game": -1.43,
+        "points_set": -0.38,
         "soo": 33635.884308910936,
-        "sos": 1601.71
+        "sos": 1601.71,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Queens",
@@ -1228,8 +1443,13 @@
         "points_won": 1898,
         "points_lost": 1935,
         "point_diff": -37,
+        "points_game": -1.61,
+        "points_set": -0.42,
         "soo": 35905.697307297516,
-        "sos": 1561.12
+        "sos": 1561.12,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Quincy",
@@ -1256,8 +1476,13 @@
         "points_won": 1486,
         "points_lost": 1707,
         "point_diff": -221,
+        "points_game": -11.05,
+        "points_set": -3.03,
         "soo": 31249.479678838878,
-        "sos": 1562.47
+        "sos": 1562.47,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Sacred",
@@ -1284,8 +1509,13 @@
         "points_won": 1872,
         "points_lost": 1891,
         "point_diff": -19,
+        "points_game": -0.86,
+        "points_set": -0.22,
         "soo": 34128.827583808255,
-        "sos": 1551.31
+        "sos": 1551.31,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "SFCB",
@@ -1312,8 +1542,13 @@
         "points_won": 1702,
         "points_lost": 1784,
         "point_diff": -82,
+        "points_game": -4.1,
+        "points_set": -1.01,
         "soo": 30310.468374994132,
-        "sos": 1515.52
+        "sos": 1515.52,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "SFU",
@@ -1340,8 +1575,13 @@
         "points_won": 1929,
         "points_lost": 1963,
         "point_diff": -34,
+        "points_game": -1.42,
+        "points_set": -0.4,
         "soo": 37914.36469735604,
-        "sos": 1579.77
+        "sos": 1579.77,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Stanford",
@@ -1368,8 +1608,13 @@
         "points_won": 1767,
         "points_lost": 1726,
         "point_diff": 41,
+        "points_game": 1.95,
+        "points_set": 0.53,
         "soo": 32840.98888757261,
-        "sos": 1563.86
+        "sos": 1563.86,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "Tusculum",
@@ -1396,8 +1641,13 @@
         "points_won": 1729,
         "points_lost": 1952,
         "point_diff": -223,
+        "points_game": -9.7,
+        "points_set": -2.69,
         "soo": 35580.65165015686,
-        "sos": 1546.98
+        "sos": 1546.98,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "UCI",
@@ -1424,8 +1674,13 @@
         "points_won": 1830,
         "points_lost": 1894,
         "point_diff": -64,
+        "points_game": -3.05,
+        "points_set": -0.77,
         "soo": 34164.86737881726,
-        "sos": 1626.9
+        "sos": 1626.9,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "UCLA",
@@ -1452,8 +1707,13 @@
         "points_won": 1734,
         "points_lost": 1464,
         "point_diff": 270,
+        "points_game": 13.5,
+        "points_set": 3.6,
         "soo": 31376.32650442592,
-        "sos": 1568.82
+        "sos": 1568.82,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "UCSB",
@@ -1480,8 +1740,13 @@
         "points_won": 1833,
         "points_lost": 1686,
         "point_diff": 147,
+        "points_game": 7.0,
+        "points_set": 1.86,
         "soo": 33359.41045822589,
-        "sos": 1588.54
+        "sos": 1588.54,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "UCSD",
@@ -1508,8 +1773,13 @@
         "points_won": 1792,
         "points_lost": 1760,
         "point_diff": 32,
+        "points_game": 1.6,
+        "points_set": 0.41,
         "soo": 32077.541079575374,
-        "sos": 1603.88
+        "sos": 1603.88,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     },
     {
         "short_name": "USC",
@@ -1536,7 +1806,12 @@
         "points_won": 2012,
         "points_lost": 1813,
         "point_diff": 199,
+        "points_game": 8.65,
+        "points_set": 2.31,
         "soo": 36741.674955889,
-        "sos": 1597.46
+        "sos": 1597.46,
+        "cinco_wins": 0,
+        "cinco_losses": 0,
+        "cinco_pct": 0
     }
 ]
