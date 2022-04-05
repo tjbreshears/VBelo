@@ -8,7 +8,28 @@ with open("inputs/VBelo - teams - 2022.csv", 'r') as data:
     for line in csv.DictReader(data):
         teams.append(line)
     for i in range(len(teams)):
+        teams[i]['elo'] = int(teams[i]['elo'])
+        teams[i]['games'] = int(teams[i]['games'])
+        teams[i]['wins'] = int(teams[i]['wins'])
+        teams[i]['losses'] = int(teams[i]['losses'])
+        teams[i]['win_pct'] = int(teams[i]['win_pct'])
+        teams[i]['conf_wins'] = int(teams[i]['conf_wins'])
+        teams[i]['conf_losses'] = int(teams[i]['conf_losses'])
+        teams[i]['conf_pct'] = int(teams[i]['conf_pct'])
+        teams[i]['home_wins'] = int(teams[i]['home_wins'])
+        teams[i]['home_losses'] = int(teams[i]['home_losses'])
+        teams[i]['home_pct'] = int(teams[i]['home_pct'])
+        teams[i]['away_wins'] = int(teams[i]['away_wins'])
+        teams[i]['away_losses'] = int(teams[i]['away_losses'])
+        teams[i]['away_pct'] = int(teams[i]['away_pct'])
+        teams[i]['sets_won'] = int(teams[i]['sets_won'])
+        teams[i]['sets_lost'] = int(teams[i]['sets_lost'])
+        teams[i]['set_diff'] = int(teams[i]['set_diff'])
+        teams[i]['points_won'] = int(teams[i]['points_won'])
+        teams[i]['points_lost'] = int(teams[i]['points_lost'])
         teams[i]['point_diff'] = int(teams[i]['point_diff'])
+        teams[i]['soo'] = int(teams[i]['soo'])
+        teams[i]['sos'] = int(teams[i]['sos'])
 
 games = []
 with open("outputs/games_output.csv", 'r') as data:
