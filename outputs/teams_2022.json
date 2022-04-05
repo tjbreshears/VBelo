@@ -28,9 +28,9 @@
         "points_set": -2.29,
         "soo": 33522.48775656115,
         "sos": 1457.5,
-        "cinco_wins": 0,
+        "cinco_wins": 2,
         "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_pct": "1.000"
     },
     {
         "short_name": "American",
@@ -94,9 +94,9 @@
         "points_set": 3.81,
         "soo": 34087.87734397051,
         "sos": 1623.23,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 3,
+        "cinco_losses": 1,
+        "cinco_pct": "0.750"
     },
     {
         "short_name": "Barton",
@@ -128,8 +128,8 @@
         "soo": 26938.346538641472,
         "sos": 1584.61,
         "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_losses": 3,
+        "cinco_pct": "0.000"
     },
     {
         "short_name": "Belmont",
@@ -160,9 +160,9 @@
         "points_set": 0.69,
         "soo": 41250.89711834381,
         "sos": 1527.81,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 1,
+        "cinco_losses": 5,
+        "cinco_pct": "0.167"
     },
     {
         "short_name": "Benedict",
@@ -194,8 +194,8 @@
         "soo": 26105.264277933613,
         "sos": 1450.29,
         "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_losses": 1,
+        "cinco_pct": "0.000"
     },
     {
         "short_name": "BYU",
@@ -226,9 +226,9 @@
         "points_set": -0.93,
         "soo": 32642.916628563547,
         "sos": 1632.15,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 4,
+        "cinco_losses": 3,
+        "cinco_pct": "0.571"
     },
     {
         "short_name": "Central",
@@ -259,9 +259,9 @@
         "points_set": 0.29,
         "soo": 27666.637848030674,
         "sos": 1456.14,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 1,
+        "cinco_losses": 2,
+        "cinco_pct": "0.333"
     },
     {
         "short_name": "Charleston",
@@ -293,8 +293,8 @@
         "soo": 28296.62520770621,
         "sos": 1572.03,
         "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_losses": 5,
+        "cinco_pct": "0.000"
     },
     {
         "short_name": "Concordia",
@@ -325,9 +325,9 @@
         "points_set": -0.28,
         "soo": 34266.78281215033,
         "sos": 1557.58,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 1,
+        "cinco_losses": 1,
+        "cinco_pct": "0.500"
     },
     {
         "short_name": "CSUN",
@@ -391,9 +391,9 @@
         "points_set": 3.13,
         "soo": 26346.947530660673,
         "sos": 1463.72,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 2,
+        "cinco_losses": 3,
+        "cinco_pct": "0.400"
     },
     {
         "short_name": "DYouville",
@@ -425,8 +425,8 @@
         "soo": 22930.682016207575,
         "sos": 1433.17,
         "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_losses": 1,
+        "cinco_pct": "0.000"
     },
     {
         "short_name": "Edward",
@@ -457,9 +457,9 @@
         "points_set": -0.75,
         "soo": 38227.5505800049,
         "sos": 1470.29,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 1,
+        "cinco_losses": 3,
+        "cinco_pct": "0.250"
     },
     {
         "short_name": "Emmanuel",
@@ -490,9 +490,9 @@
         "points_set": -0.63,
         "soo": 37087.89156835378,
         "sos": 1545.33,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 4,
+        "cinco_losses": 2,
+        "cinco_pct": "0.667"
     },
     {
         "short_name": "Erskine",
@@ -523,9 +523,9 @@
         "points_set": -1.5,
         "soo": 41423.67021085382,
         "sos": 1534.21,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 1,
+        "cinco_losses": 3,
+        "cinco_pct": "0.250"
     },
     {
         "short_name": "Fairleigh",
@@ -590,8 +590,8 @@
         "soo": 23301.092275457922,
         "sos": 1456.32,
         "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_losses": 1,
+        "cinco_pct": "0.000"
     },
     {
         "short_name": "GCU",
@@ -622,9 +622,9 @@
         "points_set": 1.48,
         "soo": 40106.788057654376,
         "sos": 1604.27,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 1,
+        "cinco_losses": 3,
+        "cinco_pct": "0.250"
     },
     {
         "short_name": "GMU",
@@ -655,9 +655,9 @@
         "points_set": -0.58,
         "soo": 36277.501469529205,
         "sos": 1577.28,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 5,
+        "cinco_losses": 3,
+        "cinco_pct": "0.625"
     },
     {
         "short_name": "Greenville",
@@ -688,9 +688,9 @@
         "points_set": 2.59,
         "soo": 32268.43869371594,
         "sos": 1536.59,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 3,
+        "cinco_losses": 2,
+        "cinco_pct": "0.600"
     },
     {
         "short_name": "Harvard",
@@ -755,8 +755,8 @@
         "soo": 36533.1606314366,
         "sos": 1588.4,
         "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_losses": 2,
+        "cinco_pct": "0.000"
     },
     {
         "short_name": "King",
@@ -787,9 +787,9 @@
         "points_set": 0.43,
         "soo": 38959.736769897725,
         "sos": 1558.39,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 4,
+        "cinco_losses": 4,
+        "cinco_pct": "0.500"
     },
     {
         "short_name": "KSU",
@@ -821,8 +821,8 @@
         "soo": 19679.27639612888,
         "sos": 1405.66,
         "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_losses": 1,
+        "cinco_pct": "0.000"
     },
     {
         "short_name": "LBSU",
@@ -854,8 +854,8 @@
         "soo": 31165.61679980445,
         "sos": 1640.3,
         "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_losses": 3,
+        "cinco_pct": "0.000"
     },
     {
         "short_name": "Lees",
@@ -886,9 +886,9 @@
         "points_set": -1.41,
         "soo": 28851.703690660754,
         "sos": 1518.51,
-        "cinco_wins": 0,
+        "cinco_wins": 2,
         "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_pct": "1.000"
     },
     {
         "short_name": "Lewis",
@@ -919,9 +919,9 @@
         "points_set": 0.74,
         "soo": 38942.66455455982,
         "sos": 1622.61,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 1,
+        "cinco_losses": 2,
+        "cinco_pct": "0.333"
     },
     {
         "short_name": "Limestone",
@@ -952,9 +952,9 @@
         "points_set": 2.03,
         "soo": 34857.78198727311,
         "sos": 1515.56,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 4,
+        "cinco_losses": 2,
+        "cinco_pct": "0.667"
     },
     {
         "short_name": "Lindenwood",
@@ -985,9 +985,9 @@
         "points_set": -1.54,
         "soo": 30190.893179339913,
         "sos": 1588.99,
-        "cinco_wins": 0,
+        "cinco_wins": 5,
         "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_pct": "1.000"
     },
     {
         "short_name": "LIU",
@@ -1018,9 +1018,9 @@
         "points_set": -1.55,
         "soo": 38428.99943271225,
         "sos": 1537.16,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 1,
+        "cinco_losses": 1,
+        "cinco_pct": "0.500"
     },
     {
         "short_name": "LMU",
@@ -1051,9 +1051,9 @@
         "points_set": 2.72,
         "soo": 36410.04050147342,
         "sos": 1583.05,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 1,
+        "cinco_losses": 2,
+        "cinco_pct": "0.333"
     },
     {
         "short_name": "Loyola",
@@ -1084,9 +1084,9 @@
         "points_set": 1.75,
         "soo": 37239.688317363885,
         "sos": 1619.12,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 2,
+        "cinco_losses": 2,
+        "cinco_pct": "0.500"
     },
     {
         "short_name": "Maryville",
@@ -1117,9 +1117,9 @@
         "points_set": 1.09,
         "soo": 42516.36009383191,
         "sos": 1417.21,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 2,
+        "cinco_losses": 2,
+        "cinco_pct": "0.500"
     },
     {
         "short_name": "McKendree",
@@ -1150,9 +1150,9 @@
         "points_set": 0.73,
         "soo": 35662.792518797374,
         "sos": 1621.04,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 4,
+        "cinco_losses": 2,
+        "cinco_pct": "0.667"
     },
     {
         "short_name": "Morehouse",
@@ -1216,9 +1216,9 @@
         "points_set": 1.16,
         "soo": 33001.11785771978,
         "sos": 1571.48,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 2,
+        "cinco_losses": 1,
+        "cinco_pct": "0.667"
     },
     {
         "short_name": "Ohio",
@@ -1249,9 +1249,9 @@
         "points_set": 0.88,
         "soo": 39022.158810255154,
         "sos": 1625.92,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 1,
+        "cinco_losses": 4,
+        "cinco_pct": "0.200"
     },
     {
         "short_name": "Olive",
@@ -1282,9 +1282,9 @@
         "points_set": 2.85,
         "soo": 26906.217748006467,
         "sos": 1582.72,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 3,
+        "cinco_losses": 3,
+        "cinco_pct": "0.500"
     },
     {
         "short_name": "Penn",
@@ -1315,9 +1315,9 @@
         "points_set": 4.27,
         "soo": 36745.15700623198,
         "sos": 1597.62,
-        "cinco_wins": 0,
+        "cinco_wins": 2,
         "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_pct": "1.000"
     },
     {
         "short_name": "Pepperdine",
@@ -1348,9 +1348,9 @@
         "points_set": 2.67,
         "soo": 33211.816436041096,
         "sos": 1581.52,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 1,
+        "cinco_losses": 3,
+        "cinco_pct": "0.250"
     },
     {
         "short_name": "PFW",
@@ -1381,9 +1381,9 @@
         "points_set": 1.15,
         "soo": 39336.539220891216,
         "sos": 1573.46,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 2,
+        "cinco_losses": 3,
+        "cinco_pct": "0.400"
     },
     {
         "short_name": "Princeton",
@@ -1414,9 +1414,9 @@
         "points_set": -0.38,
         "soo": 33635.884308910936,
         "sos": 1601.71,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 1,
+        "cinco_losses": 2,
+        "cinco_pct": "0.333"
     },
     {
         "short_name": "Queens",
@@ -1447,9 +1447,9 @@
         "points_set": -0.42,
         "soo": 35905.697307297516,
         "sos": 1561.12,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 3,
+        "cinco_losses": 3,
+        "cinco_pct": "0.500"
     },
     {
         "short_name": "Quincy",
@@ -1480,9 +1480,9 @@
         "points_set": -3.03,
         "soo": 31249.479678838878,
         "sos": 1562.47,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 2,
+        "cinco_losses": 3,
+        "cinco_pct": "0.400"
     },
     {
         "short_name": "Sacred",
@@ -1513,9 +1513,9 @@
         "points_set": -0.22,
         "soo": 34128.827583808255,
         "sos": 1551.31,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 3,
+        "cinco_losses": 5,
+        "cinco_pct": "0.375"
     },
     {
         "short_name": "SFCB",
@@ -1546,9 +1546,9 @@
         "points_set": -1.01,
         "soo": 30310.468374994132,
         "sos": 1515.52,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 6,
+        "cinco_losses": 2,
+        "cinco_pct": "0.750"
     },
     {
         "short_name": "SFU",
@@ -1579,9 +1579,9 @@
         "points_set": -0.4,
         "soo": 37914.36469735604,
         "sos": 1579.77,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 2,
+        "cinco_losses": 1,
+        "cinco_pct": "0.667"
     },
     {
         "short_name": "Stanford",
@@ -1612,9 +1612,9 @@
         "points_set": 0.53,
         "soo": 32840.98888757261,
         "sos": 1563.86,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 2,
+        "cinco_losses": 1,
+        "cinco_pct": "0.667"
     },
     {
         "short_name": "Tusculum",
@@ -1645,9 +1645,9 @@
         "points_set": -2.69,
         "soo": 35580.65165015686,
         "sos": 1546.98,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 1,
+        "cinco_losses": 1,
+        "cinco_pct": "0.500"
     },
     {
         "short_name": "UCI",
@@ -1678,9 +1678,9 @@
         "points_set": -0.77,
         "soo": 34164.86737881726,
         "sos": 1626.9,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 2,
+        "cinco_losses": 5,
+        "cinco_pct": "0.286"
     },
     {
         "short_name": "UCLA",
@@ -1711,9 +1711,9 @@
         "points_set": 3.6,
         "soo": 31376.32650442592,
         "sos": 1568.82,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 4,
+        "cinco_losses": 1,
+        "cinco_pct": "0.800"
     },
     {
         "short_name": "UCSB",
@@ -1744,9 +1744,9 @@
         "points_set": 1.86,
         "soo": 33359.41045822589,
         "sos": 1588.54,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 3,
+        "cinco_losses": 1,
+        "cinco_pct": "0.750"
     },
     {
         "short_name": "UCSD",
@@ -1777,9 +1777,9 @@
         "points_set": 0.41,
         "soo": 32077.541079575374,
         "sos": 1603.88,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 5,
+        "cinco_losses": 1,
+        "cinco_pct": "0.833"
     },
     {
         "short_name": "USC",
@@ -1810,8 +1810,8 @@
         "points_set": 2.31,
         "soo": 36741.674955889,
         "sos": 1597.46,
-        "cinco_wins": 0,
-        "cinco_losses": 0,
-        "cinco_pct": 0
+        "cinco_wins": 2,
+        "cinco_losses": 2,
+        "cinco_pct": "0.500"
     }
 ]

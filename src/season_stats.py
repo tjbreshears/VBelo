@@ -73,9 +73,9 @@ def season_stats (year):
                     teams[x]['point_diff'] = teams[x]['points_won'] - teams[x]['points_lost']
                     teams[x]['soo'] = float(teams[x]['soo']) + float(games[i]['elo_start_team2'])
                     teams[x]['sos'] = round(teams[x]['soo']/teams[x]['games'],2)
-                    if games[i]['s_t1'] + games[i]['s_t2'] == 5 and games[i]['r_t1'] == '1':
+                    if int(games[i]['s_t1']) + int(games[i]['s_t2']) == 5 and games[i]['r_t1'] == '1':
                         teams[x]['cinco_wins'] = int(teams[x]['cinco_wins']) + 1
-                    if games[i]['s_t1'] + games[i]['s_t2'] == 5 and games[i]['r_t1'] == '0':
+                    if int(games[i]['s_t1']) + int(games[i]['s_t2']) == 5 and games[i]['r_t1'] == '0':
                         teams[x]['cinco_losses'] = int(teams[x]['cinco_losses']) + 1
                     if int(teams[x]['cinco_wins'])+int(teams[x]['cinco_losses']) != 0:
                         teams[x]['cinco_pct'] = '{0:.3f}'.format(int(teams[x]['cinco_wins'])/(int(teams[x]['cinco_wins'])+int(teams[x]['cinco_losses'])))
@@ -105,9 +105,9 @@ def season_stats (year):
                     teams[x]['point_diff'] = int(teams[x]['points_won']) - int(teams[x]['points_lost'])
                     teams[x]['soo'] = float(teams[x]['soo']) + float(games[i]['elo_start_team1'])
                     teams[x]['sos'] = round(teams[x]['soo']/teams[x]['games'],2)
-                    if games[i]['s_t1'] + games[i]['s_t2'] == 5 and games[i]['r_t2'] == '1':
+                    if int(games[i]['s_t1']) + int(games[i]['s_t2']) == 5 and games[i]['r_t2'] == '1':
                         teams[x]['cinco_wins'] = int(teams[x]['cinco_wins']) + 1
-                    if games[i]['s_t1'] + games[i]['s_t2'] == 5 and games[i]['r_t2'] == '0':
+                    if int(games[i]['s_t1']) + int(games[i]['s_t2']) == 5 and games[i]['r_t2'] == '0':
                         teams[x]['cinco_losses'] = int(teams[x]['cinco_losses']) + 1
                     if int(teams[x]['cinco_wins'])+int(teams[x]['cinco_losses']) != 0:
                         teams[x]['cinco_pct'] = '{0:.3f}'.format(int(teams[x]['cinco_wins'])/(int(teams[x]['cinco_wins'])+int(teams[x]['cinco_losses'])))
