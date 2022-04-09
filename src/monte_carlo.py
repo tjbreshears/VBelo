@@ -15,13 +15,37 @@ with open("inputs/VBelo - NC_MC.csv", 'r') as data:
     for line in csv.DictReader(data):
         games.append(line)
 
-Hawaii,Greenville,Ball,USC,Penn,UCLA,LBSU = 0,0,0,0,0,0,0
+#teams by seeds
+seed1 = 'LBSU'
+seed2 = 'UCLA'
+seed3 = 'Penn'
+seed4 = 'USC'
+seed5 = 'Ball'
+seed6 = 'Hawaii'
+seed7 = 'Greenville'
+
+#winning
+seed1_win, seed2_win, seed3_win, seed4_win, seed5_win, seed6_win, seed7_win = 0,0,0,0,0,0,0
+
+#making finals
+seed1_finals, seed2_finals, seed3_finals, seed4_finals, seed5_finals, seed6_finals, seed7_finals = 0,0,0,0,0,0,0
+
+#making the semis
+seed3_semis, seed4_semis, seed5_semis, seed6_semis, seed7_semis = 0,0,0,0,0
+
+#making the first round
+seed6_first, seed7_first = 0,0
+
 
 def probability(rating1, rating2):
     return 1.0 * 1.0 / (1 + 1.0 * math.pow(10, 1.0 * (rating1 - rating2) / 400))
 
 def eloRating(game,K,t):
-    global Hawaii,Greenville,Ball,USC,Penn,UCLA,LBSU
+    global seed1_win, seed2_win, seed3_win, seed4_win, seed5_win, seed6_win, seed7_win
+    global seed1_finals, seed2_finals, seed3_finals, seed4_finals, seed5_finals, seed6_finals, seed7_finals
+    global seed3_semis, seed4_semis, seed5_semis, seed6_semis, seed7_semis
+    global seed6_first, seed7_first
+
     global r1_start,r2_start,r1_adjust,r2_adjust,r1_end,r2_end
     for i in range(len(teams)):
         if game['t1'] == teams[i]['short_name']:
@@ -79,112 +103,131 @@ def eloRating(game,K,t):
 # Monte Carlo part
     random_outcome = random.random()
 
+#opening round (play-in)
     if game['date'] == '1' and p1 > 0.5 and random_outcome < p1:
         games[2]['t2'] = game['t1']
+        seed6_first += 1
     elif game['date'] == '1' and p1 > 0.5 and random_outcome > p1:
         games[2]['t2'] = game['t2']
+        seed7_first += 1
     elif game['date'] == '1' and p1 < 0.5 and random_outcome > p2:
         games[2]['t2'] = game['t1']
+        seed6_first += 1
     elif game['date'] == '1' and p1 < 0.5 and random_outcome < p2:
         games[2]['t2'] = game['t2']
+        seed7_first += 1
 
-
+#first round 4 vs 5
     if game['date'] == '2' and p1 > 0.5 and random_outcome < p1:
         games[4]['t2'] = game['t1']
+        seed4_semis += 1
     elif game['date'] == '2' and p1 > 0.5 and random_outcome > p1:
         games[4]['t2'] = game['t2']
+        seed5_semis += 1
     elif game['date'] == '2' and p1 < 0.5 and random_outcome > p2:
         games[4]['t2'] = game['t1']
+        seed4_semis += 1
     elif game['date'] == '2' and p1 < 0.5 and random_outcome < p2:
         games[4]['t2'] = game['t2']
+        seed5_semis += 1
 
+#first round 3 vs 6/7
     if game['date'] == '3' and p1 > 0.5 and random_outcome < p1:
         games[3]['t2'] = game['t1']
+        seed3_semis += 1
     elif game['date'] == '3' and p1 > 0.5 and random_outcome > p1:
         games[3]['t2'] = game['t2']
+        if game['t2'] == seed6:
+            seed6_semis += 1
+        elif game['t2'] == seed7:
+            seed7_semis += 1
     elif game['date'] == '3' and p1 < 0.5 and random_outcome > p2:
         games[3]['t2'] = game['t1']
+        seed3_semis += 1
     elif game['date'] == '3' and p1 < 0.5 and random_outcome < p2:
         games[3]['t2'] = game['t2']
+        if game['t2'] == seed6:
+            seed6_semis += 1
+        elif game['t2'] == seed7:
+            seed7_semis += 1
 
+#semis 2 vs 3/6/7
     if game['date'] == '4' and p1 > 0.5 and random_outcome < p1:
         games[5]['t1'] = game['t1']
+        seed2_finals += 1
     elif game['date'] == '4' and p1 > 0.5 and random_outcome > p1:
         games[5]['t1'] = game['t2']
+        if game['t2'] == seed3:
+            seed3_finals += 1
+        elif game['t2'] == seed6:
+            seed6_finals += 1
+        elif game['t2'] == seed7:
+            seed7_finals += 1
     elif game['date'] == '4' and p1 < 0.5 and random_outcome > p2:
         games[5]['t1'] = game['t1']
+        seed2_finals += 1
     elif game['date'] == '4' and p1 < 0.5 and random_outcome < p2:
         games[5]['t1'] = game['t2']
+        if game['t2'] == seed3:
+            seed3_finals += 1
+        elif game['t2'] == seed6:
+            seed6_finals += 1
+        elif game['t2'] == seed7:
+            seed7_finals += 1
 
+#semis 1 vs 4/5
     if game['date'] == '5' and p1 > 0.5 and random_outcome < p1:
         games[5]['t2'] = game['t1']
+        seed1_finals += 1
     elif game['date'] == '5' and p1 > 0.5 and random_outcome > p1:
         games[5]['t2'] = game['t2']
+        if game['t2'] == seed4:
+            seed4_finals += 1
+        elif game['t2'] == seed5:
+            seed5_finals += 1
     elif game['date'] == '5' and p1 < 0.5 and random_outcome > p2:
         games[5]['t2'] = game['t1']
+        seed1_finals += 1
     elif game['date'] == '5' and p1 < 0.5 and random_outcome < p2:
         games[5]['t2'] = game['t2']
+        if game['t2'] == seed4:
+            seed4_finals += 1
+        elif game['t2'] == seed5:
+            seed5_finals += 1
 
+#finals 2/3/6/7 vs 1/4/5
     if game['date'] == '6' and p1 > 0.5 and random_outcome < p1:
-        if game['t1'] == 'Hawaii':
-            Hawaii += 1
-        elif game['t1'] == 'Greenville':
-            Greenville += 1
-        elif game['t1'] == 'Ball':
-            Ball += 1
-        elif game['t1'] == 'USC':
-            USC += 1
-        elif game['t1'] == 'Penn':
-            Penn += 1
-        elif game['t1'] == 'UCLA':
-            UCLA += 1
-        elif game['t1'] == 'LBSU':
-            LBSU += 1
+        if game['t1'] == seed2:
+            seed2_win += 1
+        elif game['t1'] == seed3:
+            seed3_win += 1
+        elif game['t1'] == seed6:
+            seed6_win += 1
+        elif game['t1'] == seed7:
+            seed7_win += 1
     elif game['date'] == '6' and p1 > 0.5 and random_outcome > p1:
-        if game['t2'] == 'Hawaii':
-            Hawaii += 1
-        elif game['t2'] == 'Greenville':
-            Greenville += 1
-        elif game['t2'] == 'Ball':
-            Ball += 1
-        elif game['t2'] == 'USC':
-            USC += 1
-        elif game['t2'] == 'Penn':
-            Penn += 1
-        elif game['t2'] == 'UCLA':
-            UCLA += 1
-        elif game['t2'] == 'LBSU':
-            LBSU += 1
+        if game['t2'] == seed1:
+            seed1_win += 1
+        elif game['t2'] == seed4:
+            seed4_win += 1
+        elif game['t2'] == seed5:
+            seed5_win += 1
     elif game['date'] == '6' and p1 < 0.5 and random_outcome > p2:
-        if game['t1'] == 'Hawaii':
-            Hawaii += 1
-        elif game['t1'] == 'Greenville':
-            Greenville += 1
-        elif game['t1'] == 'Ball':
-            Ball += 1
-        elif game['t1'] == 'USC':
-            USC += 1
-        elif game['t1'] == 'Penn':
-            Penn += 1
-        elif game['t1'] == 'UCLA':
-            UCLA += 1
-        elif game['t1'] == 'LBSU':
-            LBSU += 1
+        if game['t1'] == seed2:
+            seed2_win += 1
+        elif game['t1'] == seed3:
+            seed3_win += 1
+        elif game['t1'] == seed6:
+            seed6_win += 1
+        elif game['t1'] == seed7:
+            seed7_win += 1
     elif game['date'] == '6' and p1 < 0.5 and random_outcome < p2:
-        if game['t2'] == 'Hawaii':
-            Hawaii += 1
-        elif game['t2'] == 'Greenville':
-            Greenville += 1
-        elif game['t2'] == 'Ball':
-            Ball += 1
-        elif game['t2'] == 'USC':
-            USC += 1
-        elif game['t2'] == 'Penn':
-            Penn += 1
-        elif game['t2'] == 'UCLA':
-            UCLA += 1
-        elif game['t2'] == 'LBSU':
-            LBSU += 1
+        if game['t2'] == seed1:
+            seed1_win += 1
+        elif game['t2'] == seed4:
+            seed4_win += 1
+        elif game['t2'] == seed5:
+            seed5_win += 1
 
 def post_season (K,t):
     for i in range(len(games)):
@@ -194,19 +237,41 @@ def post_season (K,t):
 def monte_carlo (sims):
     for i in range(sims):
         post_season(30,-1)
-    HawaiiP = "{:.2%}".format(Hawaii/sims)
-    GreenvilleP = "{:.2%}".format(Greenville/sims)
-    BallP = "{:.2%}".format(Ball/sims)
-    USCP = "{:.2%}".format(USC/sims)
-    PennP = "{:.2%}".format(Penn/sims)
-    UCLAP = "{:.2%}".format(UCLA/sims)
-    LBSUP = "{:.2%}".format(LBSU/sims)
-    print(f"Hawai'i: {HawaiiP}")
-    print(f"NGU: {GreenvilleP}")
-    print(f"Ball State: {BallP}")
-    print(f"USC: {USCP}")
-    print(f"Penn State: {PennP}")
-    print(f"UCLA: {UCLAP}")
-    print(f"Long Beach: {LBSUP}")
+
+#formatting for printing (the hard way)
+    seed1_win_p = "{:.2%}".format(seed1_win/sims)
+    seed2_win_p = "{:.2%}".format(seed2_win/sims)
+    seed3_win_p = "{:.2%}".format(seed3_win/sims)
+    seed4_win_p = "{:.2%}".format(seed4_win/sims)
+    seed5_win_p = "{:.2%}".format(seed5_win/sims)
+    seed6_win_p = "{:.2%}".format(seed6_win/sims)
+    seed7_win_p = "{:.2%}".format(seed7_win/sims)
+
+    seed1_finals_p = "{:.2%}".format(seed1_finals/sims)
+    seed2_finals_p = "{:.2%}".format(seed2_finals/sims)
+    seed3_finals_p = "{:.2%}".format(seed3_finals/sims)
+    seed4_finals_p = "{:.2%}".format(seed4_finals/sims)
+    seed5_finals_p = "{:.2%}".format(seed5_finals/sims)
+    seed6_finals_p = "{:.2%}".format(seed6_finals/sims)
+    seed7_finals_p = "{:.2%}".format(seed7_finals/sims)
+
+    seed3_semis_p = "{:.2%}".format(seed3_semis/sims)
+    seed4_semis_p = "{:.2%}".format(seed4_semis/sims)
+    seed5_semis_p = "{:.2%}".format(seed5_semis/sims)
+    seed6_semis_p = "{:.2%}".format(seed6_semis/sims)
+    seed7_semis_p = "{:.2%}".format(seed7_semis/sims)
+
+    seed6_first_p = "{:.2%}".format(seed6_first/sims)
+    seed7_first_p = "{:.2%}".format(seed7_first/sims)
+
+
+    print(f"{seed1} (1): 100%, 100%, {seed1_finals_p}, {seed1_win_p}")
+    print(f"{seed2} (2): 100%, 100%, {seed2_finals_p}, {seed2_win_p}")
+    print(f"{seed3} (3): 100%, {seed3_semis_p}, {seed3_finals_p}, {seed3_win_p}")
+    print(f"{seed4} (4): 100%, {seed4_semis_p}, {seed4_finals_p}, {seed4_win_p}")
+    print(f"{seed5} (5): 100%, {seed5_semis_p}, {seed5_finals_p}, {seed5_win_p}")
+    print(f"{seed6} (6): {seed6_first_p}, {seed6_semis_p}, {seed6_finals_p}, {seed6_win_p}")
+    print(f"{seed7} (7): {seed7_first_p}, {seed7_semis_p}, {seed7_finals_p}, {seed7_win_p}")
+
 
 monte_carlo(10000)
