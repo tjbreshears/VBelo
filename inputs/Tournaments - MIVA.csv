@@ -1,0 +1,8 @@
+date,season,home,p,t1,t2,elo_start_team1,elo_start_team2,elo_adjusted_team1,elo_adjusted_team2,probability_team1,probability_team2,elo_end_team1,elo_end_team2
+1,2022,Ball,1v8,Ball,Quincy,,,,,,,,
+2,2022,Lewis,4v5,Lewis,Ohio,,,,,,,,
+3,2022,McKendree,3v6,McKendree,PFW,,,,,,,,
+4,2022,Loyola,2v7,Loyola,Lindenwood,,,,,,,,
+5,2022,,1/8v4/5,,,,,,,,,,
+6,2022,,3/6v2/7,,,,,,,,,,
+7,2022,,1/4/5/8v2/3/6/7,,,,,,,,,,
