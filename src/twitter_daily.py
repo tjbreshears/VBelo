@@ -19,7 +19,7 @@ for i in range(len(teams)):
     teams[i]['elo'] = int(teams[i]['elo'])
 
 def tweet(date):
-    text = 'Daily #VBelo Predictions: ' + date
+    text = 'Daily #VBelo #NCAAmvb Predictions: ' + date
     for i in range(len(games)):
         if date in games[i]['date']:
             team1 = games[i]['t1']
@@ -36,7 +36,7 @@ def tweet(date):
     pc.copy(text)
 
 def eod(date):
-    intro = 'Daily #VBelo Recap: ' + date
+    intro = 'Daily #VBelo #NCAAmvb Recap: ' + date
     count = 0
     sets = 0
     points = 0
