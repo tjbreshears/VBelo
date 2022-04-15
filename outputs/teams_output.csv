@@ -10,9 +10,9 @@ Aurora,Aurora University,D-III,Spartans,D-III,1419,"41.754929518874825, -88.3504
 Baldwin,Baldwin Wallace University,D-III,Yellow Jackets,D-III,1419,"41.372090690678, -81.84717580056873",0,,
 Ball,Ball State University,D-I,Cardinals,MIVA,1835.3703983448715,"40.207145339682654, -85.4063535970778",1,@BallStateMVB,#ba0c2f
 Bard,Bard College,D-III,Raptors,D-III,1419,"42.02378584506257, -73.90786832699553",0,,
-Barton,Barton College,D-II,Bulldogs,Carolinas,1402.422414701789,"35.736908888607566, -77.91135951366927",1,@BartonVB,
+Barton,Barton College,D-II,Bulldogs,Carolinas,1400.0041366219377,"35.736908888607566, -77.91135951366927",1,@BartonVB,
 Baruch,Baruch College,D-III,Bearcats,D-III,1419,"40.74027091463403, -73.98325759030051",0,,
-Belmont,Belmont Abbey College,D-II,Crusaders,Carolinas,1565.8127704973458,"35.260949209445535, -81.04035964259134",1,@AbbeyMVB,#d31145
+Belmont,Belmont Abbey College,D-II,Crusaders,Carolinas,1575.6782405291524,"35.260949209445535, -81.04035964259134",1,@AbbeyMVB,#d31145
 Benedict,Benedict College,D-II,Tigers,SIAC,1396.502009432818,"34.01302911507938, -81.0194713390587",1,@benedict_tigers,
 Benedictine,Benedictine University,D-III,Eagles,D-III,1419,"41.780501946929036, -88.09615879522768",0,@BenUMensVB,
 Bluefield,Bluefield College,NAIA,Rams,NAIA,1373,"37.245950864489764, -81.24445240620705",0,@bstatesports,
@@ -53,7 +53,7 @@ Emmanuel MA,Emmanuel College (MA),D-III,Saints,D-III,1419,"42.34035470893204, -7
 EMU,Eastern Mennonite University,D-III,Royals,D-III,1419,"38.4724731498568, -78.87859418683938",0,@emu_volleyball,
 Endicott,Endicott College,D-III,Gulls,D-III,1419,"42.555019322717676, -70.83965869564096",0,@EndicottMVB,
 ENU,Eastern Nazarene College,D-III,Lions,D-III,1419,"42.27217678612162, -71.01071405591968",0,@encmvb,#e41309
-Erskine,Erskine College,D-II,Flying Fleet,Carolinas,1544.8039930513696,"34.33264844123455, -82.39295012824844",1,@FlyingFleetMVB,
+Erskine,Erskine College,D-II,Flying Fleet,Carolinas,1552.2222711312209,"34.33264844123455, -82.39295012824844",1,@FlyingFleetMVB,
 Fairleigh,Fairleigh Dickinson University,D-I,Knights,Independent,1427.357305194211,"40.896665989152474, -74.03244336140656",1,@FDUKnightsMVB,
 First Point,First Point Collegiate Challenge,n/a,n/a,n/a,1500.0,"30.263653912461567, -97.73966337824726",0,,
 Fisher,St. John Fisher College,D-III,Cardinals,D-III,1419,"43.11613765507209, -77.50989152025222",0,@SJFCVB,
@@ -89,7 +89,7 @@ Lakeland,Lakeland University,D-III,Muskies,D-III,1419,"43.843452277396864, -87.8
 Lancaster,Lancaster Bible College,D-III,Chargers,D-III,1419,"40.07544941311759, -76.28914618292605",0,@LBCathletics,
 Lasell,Lasell University,D-III,Lasers,D-III,1419,"42.34259730667481, -71.24342225858211",0,,
 LBSU,Long Beach State,D-I,49ers,Big West,1772.0158594411337,"33.78755969795288, -118.11468048796037",1,@lbsumvb,#eba91b
-Lees,Lees–McRae College,D-II,Bobcats,Carolinas,1445.920825964078,"36.15646890875242, -81.87072487315083",1,@LMCBobcatVolley,
+Lees,Lees–McRae College,D-II,Bobcats,Carolinas,1441.0553559322714,"36.15646890875242, -81.87072487315083",1,@LMCBobcatVolley,
 Lehman,Lehman College,D-III,Lightning Bugs,D-III,1419,"40.87466726077226, -73.89295862715507",0,,
 Lesley,Lesley University,D-III,Lynx,D-III,1419,"42.43001050429625, -71.12511049597039",0,,
 Lewis,Lewis University,D-II,Flyers,MIVA,1735.4630262245857,"41.60507512399408, -88.08211780186922",1,@LewisMVBall,#c00000
