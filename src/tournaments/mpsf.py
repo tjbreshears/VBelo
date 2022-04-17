@@ -15,14 +15,15 @@ with open("inputs/Tournaments - MPSF.csv", 'r') as data:
     for line in csv.DictReader(data):
         games.append(line)
 
-#8 team modified playoff bracket
+
 #teams by seeds
 seed1 = 'UCLA'
-seed2 = 'x'
-seed3 = 'x'
-seed4 = 'x'
-seed5 = 'x'
-seed6 = 'x'
+seed2 = 'USC'
+seed3 = 'Pepperdine'
+seed4 = 'GCU'
+seed5 = 'Stanford'
+seed6 = 'BYU'
+seed7 = 'Concordia'
 
 #winning
 seed1_win, seed2_win, seed3_win, seed4_win, seed5_win, seed6_win, seed7_win = 0,0,0,0,0,0,0
@@ -38,9 +39,9 @@ def probability(rating1, rating2):
     return 1.0 * 1.0 / (1 + 1.0 * math.pow(10, 1.0 * (rating1 - rating2) / 400))
 
 def eloRating(game,K,t):
-    global seed1_win, seed2_win, seed3_win, seed4_win, seed5_win, seed6_win
-    global seed1_finals, seed2_finals, seed3_finals, seed4_finals, seed5_finals, seed6_finals
-    global seed3_semis, seed4_semis, seed5_semis, seed6_semis
+    global seed1_win, seed2_win, seed3_win, seed4_win, seed5_win, seed6_win, seed7_win
+    global seed1_finals, seed2_finals, seed3_finals, seed4_finals, seed5_finals, seed6_finals, seed7_finals
+    global seed2_semis, seed3_semis, seed4_semis, seed5_semis, seed6_semis, seed7_semis
 
     global r1_start,r2_start,r1_adjust,r2_adjust,r1_end,r2_end
     for i in range(len(teams)):
@@ -117,59 +118,67 @@ def eloRating(game,K,t):
     if game['date'] == '2' and p1 > 0.5 and random_outcome < p1:
         if games[4]['t1'] == seed2:
             games[4]['t2'] = game['t1']
-        elif:
+        elif games[3]['t2'] == seed7:
             games[4]['t1'] = game['t1']
         seed3_semis += 1
     elif game['date'] == '2' and p1 > 0.5 and random_outcome > p1:
-        if games[3]['t2'] == seed7:
-            games[4]['t2'] = game['t2']
-        elif:
+        if games[4]['t1'] == seed2:
             games[3]['t2'] = game['t2']
+        elif games[3]['t2'] == seed7:
+            games[4]['t2'] = game['t2']
         seed6_semis += 1
     elif game['date'] == '2' and p1 < 0.5 and random_outcome > p2:
         if games[4]['t1'] == seed2:
             games[4]['t2'] = game['t1']
-        elif:
+        elif games[3]['t2'] == seed7:
             games[4]['t1'] = game['t1']
         seed3_semis += 1
     elif game['date'] == '2' and p1 < 0.5 and random_outcome < p2:
-        if games[3]['t2'] == seed7:
-            games[4]['t2'] = game['t2']
-        elif:
+        if games[4]['t1'] == seed2:
             games[3]['t2'] = game['t2']
+        elif games[3]['t2'] == seed7:
+            games[4]['t2'] = game['t2']
         seed6_semis += 1
 
 #game 3: 4 vs 5 (quarterfinals)
     if game['date'] == '3' and p1 > 0.5 and random_outcome < p1:
-        if games[3]['t2'] == '':
+        if games[4]['t1'] == seed2 and games[4]['t2'] == seed3:
             games[3]['t2'] = game['t1']
-        elif games[4]['t1'] == '':
-            games[4]['t1'] = game['t1']
-        elif games[4]['t2'] == '':
+        elif games[4]['t1'] == seed3 and games[3]['t2'] == seed7:
+            games[4]['t2'] = game['t1']
+        elif games[4]['t1'] == seed2 and games[3]['t2'] == seed6:
+            games[4]['t2'] = game['t1']
+        elif games[4]['t2'] == seed6 and games[3]['t2'] == seed7:
             games[4]['t2'] = game['t1']
         seed4_semis += 1
     elif game['date'] == '3' and p1 > 0.5 and random_outcome > p1:
-        if games[3]['t2'] == '':
+        if games[4]['t1'] == seed2 and games[4]['t2'] == seed3:
             games[3]['t2'] = game['t2']
-        elif games[4]['t1'] == '':
-            games[4]['t1'] = game['t2']
-        elif games[4]['t2'] == '':
+        elif games[4]['t1'] == seed3 and games[3]['t2'] == seed7:
+            games[4]['t2'] = game['t2']
+        elif games[4]['t1'] == seed2 and games[3]['t2'] == seed6:
+            games[4]['t2'] = game['t2']
+        elif games[4]['t2'] == seed6 and games[3]['t2'] == seed7:
             games[4]['t2'] = game['t2']
         seed5_semis += 1
     elif game['date'] == '3' and p1 < 0.5 and random_outcome > p2:
-        if games[3]['t2'] == '':
+        if games[4]['t1'] == seed2 and games[4]['t2'] == seed3:
             games[3]['t2'] = game['t1']
-        elif games[4]['t1'] == '':
-            games[4]['t1'] = game['t1']
-        elif games[4]['t2'] == '':
+        elif games[4]['t1'] == seed3 and games[3]['t2'] == seed7:
+            games[4]['t2'] = game['t1']
+        elif games[4]['t1'] == seed2 and games[3]['t2'] == seed6:
+            games[4]['t2'] = game['t1']
+        elif games[4]['t2'] == seed6 and games[3]['t2'] == seed7:
             games[4]['t2'] = game['t1']
         seed4_semis += 1
     elif game['date'] == '3' and p1 < 0.5 and random_outcome < p2:
-        if games[3]['t2'] == '':
+        if games[4]['t1'] == seed2 and games[4]['t2'] == seed3:
             games[3]['t2'] = game['t2']
-        elif games[4]['t1'] == '':
-            games[4]['t1'] = game['t2']
-        elif games[4]['t2'] == '':
+        elif games[4]['t1'] == seed3 and games[3]['t2'] == seed7:
+            games[4]['t2'] = game['t2']
+        elif games[4]['t1'] == seed2 and games[3]['t2'] == seed6:
+            games[4]['t2'] = game['t2']
+        elif games[4]['t2'] == seed6 and games[3]['t2'] == seed7:
             games[4]['t2'] = game['t2']
         seed5_semis += 1
 
@@ -188,6 +197,9 @@ def eloRating(game,K,t):
         elif game['t2'] == seed7:
             seed7_finals += 1
     elif game['date'] == '4' and p1 < 0.5 and random_outcome > p2:
+        games[5]['t1'] = game['t1']
+        seed1_finals += 1
+    elif game['date'] == '4' and p1 < 0.5 and random_outcome < p2:
         games[5]['t1'] = game['t2']
         if game['t2'] == seed4:
             seed4_finals += 1
@@ -197,23 +209,17 @@ def eloRating(game,K,t):
             seed6_finals += 1
         elif game['t2'] == seed7:
             seed7_finals += 1
-    elif game['date'] == '4' and p1 < 0.5 and random_outcome < p2:
-        games[5]['t1'] = game['t2']
-        if game['t2'] == seed3:
-            seed3_finals += 1
-        elif game['t2'] == seed6:
-            seed6_finals += 1
 
 #game 5: 2/3/4/5 vs 3/4/5/6 (semifinals)
     if game['date'] == '5' and p1 > 0.5 and random_outcome < p1:
         games[5]['t2'] = game['t1']
-        if game['t2'] == seed2:
+        if game['t1'] == seed2:
             seed2_finals += 1
-        elif game['t2'] == seed3:
+        elif game['t1'] == seed3:
             seed3_finals += 1
-        elif game['t2'] == seed4:
+        elif game['t1'] == seed4:
             seed4_finals += 1
-        elif game['t2'] == seed5:
+        elif game['t1'] == seed5:
             seed5_finals += 1
     elif game['date'] == '5' and p1 > 0.5 and random_outcome > p1:
         games[5]['t2'] = game['t2']
@@ -227,13 +233,13 @@ def eloRating(game,K,t):
             seed6_finals += 1
     elif game['date'] == '5' and p1 < 0.5 and random_outcome > p2:
         games[5]['t2'] = game['t1']
-        if game['t2'] == seed2:
+        if game['t1'] == seed2:
             seed2_finals += 1
-        elif game['t2'] == seed3:
+        elif game['t1'] == seed3:
             seed3_finals += 1
-        elif game['t2'] == seed4:
+        elif game['t1'] == seed4:
             seed4_finals += 1
-        elif game['t2'] == seed5:
+        elif game['t1'] == seed5:
             seed5_finals += 1
     elif game['date'] == '5' and p1 < 0.5 and random_outcome < p2:
         games[5]['t2'] = game['t2']
@@ -299,7 +305,7 @@ def post_season (K,t):
 
 def monte_carlo (sims):
     for i in range(sims):
-        semis_pool = []
+        games[3]['t2'], games[4]['t1'], games[4]['t2'] = '','',''
         post_season(30,-1)
 
 #formatting for printing (the hard way)
@@ -333,7 +339,7 @@ def monte_carlo (sims):
     print(f"{seed4} (4): {seed4_semis_p}, {seed4_finals_p}, {seed4_win_p}")
     print(f"{seed5} (5): {seed5_semis_p}, {seed5_finals_p}, {seed5_win_p}")
     print(f"{seed6} (6): {seed6_semis_p}, {seed6_finals_p}, {seed6_win_p}")
-    print(f"{seed7} (7): {seed7_semis_p}, {seed6_finals_p}, {seed6_win_p}")
+    print(f"{seed7} (7): {seed7_semis_p}, {seed7_finals_p}, {seed7_win_p}")
 
 
 monte_carlo(50000)

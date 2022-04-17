@@ -18,11 +18,11 @@ with open("inputs/Tournaments - BWC.csv", 'r') as data:
 #8 team modified playoff bracket
 #teams by seeds
 seed1 = 'LBSU'
-seed2 = 'x'
-seed3 = 'x'
-seed4 = 'x'
-seed5 = 'x'
-seed6 = 'x'
+seed2 = 'Hawaii'
+seed3 = 'UCSB'
+seed4 = 'UCSD'
+seed5 = 'UCI'
+seed6 = 'CSUN'
 
 #winning
 seed1_win, seed2_win, seed3_win, seed4_win, seed5_win, seed6_win = 0,0,0,0,0,0
