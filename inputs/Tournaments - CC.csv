@@ -1,8 +1,8 @@
 date,season,home,p,t1,t2,elo_start_team1,elo_start_team2,elo_adjusted_team1,elo_adjusted_team2,probability_team1,probability_team2,elo_end_team1,elo_end_team2
 1,2022,Erskine,5v8,Erskine,Barton,,,,,,,,
 2,2022,Belmont,6v7,Belmont,Lees,,,,,,,,
-3,2022,Olive,3v6/7,Olive,,,,,,,,,
-4,2022,Emmanuel,4v5/8,Emmanuel,,,,,,,,,
+3,2022,Olive,3v6/7,Olive,Belmont,,,,,,,,
+4,2022,Emmanuel,4v5/8,Emmanuel,Erskine,,,,,,,,
 5,2022,Olive,1v4/5/8,Greenville,,,,,,,,,
 6,2022,Olive,2v3/6/7,King,,,,,,,,,
 7,2022,Olive,1/4/5/8v2/3/6/7,,,,,,,,,,
