@@ -106,32 +106,32 @@ def eloRating(game,K,t):
     random_outcome = random.random()
 
 #game 1: 5 vs 8 (first round)
-    if game['date'] == '1' and p1 > 0.5 and random_outcome < p1:
-        games[3]['t2'] = game['t1']
-        seed5_quarters += 1
-    elif game['date'] == '1' and p1 > 0.5 and random_outcome > p1:
-        games[3]['t2'] = game['t2']
-        seed8_quarters += 1
-    elif game['date'] == '1' and p1 < 0.5 and random_outcome > p2:
-        games[3]['t2'] = game['t1']
-        seed5_quarters += 1
-    elif game['date'] == '1' and p1 < 0.5 and random_outcome < p2:
-        games[3]['t2'] = game['t2']
-        seed8_quarters += 1
+#    if game['date'] == '1' and p1 > 0.5 and random_outcome < p1:
+#        games[3]['t2'] = game['t1']
+#        seed5_quarters += 1
+#    elif game['date'] == '1' and p1 > 0.5 and random_outcome > p1:
+#        games[3]['t2'] = game['t2']
+#        seed8_quarters += 1
+#    elif game['date'] == '1' and p1 < 0.5 and random_outcome > p2:
+#        games[3]['t2'] = game['t1']
+#        seed5_quarters += 1
+#    elif game['date'] == '1' and p1 < 0.5 and random_outcome < p2:
+#        games[3]['t2'] = game['t2']
+#        seed8_quarters += 1
 
 #game 2: 6 vs 7 (first round)
-    if game['date'] == '2' and p1 > 0.5 and random_outcome < p1:
-        games[2]['t2'] = game['t1']
-        seed6_quarters += 1
-    elif game['date'] == '2' and p1 > 0.5 and random_outcome > p1:
-        games[2]['t2'] = game['t2']
-        seed7_quarters += 1
-    elif game['date'] == '2' and p1 < 0.5 and random_outcome > p2:
-        games[2]['t2'] = game['t1']
-        seed6_quarters += 1
-    elif game['date'] == '2' and p1 < 0.5 and random_outcome < p2:
-        games[2]['t2'] = game['t2']
-        seed7_quarters += 1
+#    if game['date'] == '2' and p1 > 0.5 and random_outcome < p1:
+#        games[2]['t2'] = game['t1']
+#        seed6_quarters += 1
+#    elif game['date'] == '2' and p1 > 0.5 and random_outcome > p1:
+#        games[2]['t2'] = game['t2']
+#        seed7_quarters += 1
+#    elif game['date'] == '2' and p1 < 0.5 and random_outcome > p2:
+#        games[2]['t2'] = game['t1']
+#        seed6_quarters += 1
+#    elif game['date'] == '2' and p1 < 0.5 and random_outcome < p2:
+#        games[2]['t2'] = game['t2']
+#        seed7_quarters += 1
 
 #game 3: 3 vs 6/7 (quarters)
     if game['date'] == '3' and p1 > 0.5 and random_outcome < p1:
