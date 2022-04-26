@@ -100,7 +100,7 @@ def mse_current ():
     actual = []
 
     for i in range(len(games)):
-        if games[i]['r_t1'] != '':
+        if games[i]['season'] == '2022' and games[i]['r_t1'] != '':
             expected.append(float(games[i]['probability_team1']))
             expected.append(float(games[i]['probability_team2']))
             actual.append(float(games[i]['r_t1']))

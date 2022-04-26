@@ -11,17 +11,17 @@ for i in range(len(teams)):
     teams[i]['elo'] = float(teams[i]['elo'])
 
 games = []
-with open("inputs/VBelo - NC_MC.csv", 'r') as data:
+with open("inputs/Tournaments - National.csv", 'r') as data:
     for line in csv.DictReader(data):
         games.append(line)
 
 #teams by seeds
 seed1 = 'LBSU'
-seed2 = 'UCLA'
-seed3 = 'Penn'
-seed4 = 'USC'
-seed5 = 'Ball'
-seed6 = 'Hawaii'
+seed2 = 'Ball'
+seed3 = 'Hawaii'
+seed4 = 'UCLA'
+seed5 = 'Pepperdine'
+seed6 = 'Princeton'
 seed7 = 'Greenville'
 
 #winning
@@ -274,4 +274,4 @@ def monte_carlo (sims):
     print(f"{seed7} (7): {seed7_first_p}, {seed7_semis_p}, {seed7_finals_p}, {seed7_win_p}")
 
 
-monte_carlo(10000)
+monte_carlo(50000)

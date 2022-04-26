@@ -166,30 +166,30 @@ def eloRating(game,K,t):
 #        game['home'] = seed5
 
 #game 5: 1/8 vs 4/5 (semis)
-    if game['date'] == '5' and p1 > 0.5 and random_outcome < p1:
-        games[6]['t1'] = game['t1']
-        if game['t1'] == seed1:
-            seed1_finals += 1
-        elif game['t1'] == seed8:
-            seed8_finals += 1
-    elif game['date'] == '5' and p1 > 0.5 and random_outcome > p1:
-        games[6]['t1'] = game['t2']
-        if game['t2'] == seed4:
-            seed4_finals += 1
-        elif game['t2'] == seed5:
-            seed5_finals += 1
-    elif game['date'] == '5' and p1 < 0.5 and random_outcome > p2:
-        games[6]['t1'] = game['t1']
-        if game['t1'] == seed1:
-            seed1_finals += 1
-        elif game['t1'] == seed8:
-            seed8_finals += 1
-    elif game['date'] == '5' and p1 < 0.5 and random_outcome < p2:
-        games[6]['t1'] = game['t2']
-        if game['t2'] == seed4:
-            seed4_finals += 1
-        elif game['t2'] == seed5:
-            seed5_finals += 1
+#    if game['date'] == '5' and p1 > 0.5 and random_outcome < p1:
+#        games[6]['t1'] = game['t1']
+#        if game['t1'] == seed1:
+#            seed1_finals += 1
+#        elif game['t1'] == seed8:
+#            seed8_finals += 1
+#    elif game['date'] == '5' and p1 > 0.5 and random_outcome > p1:
+#        games[6]['t1'] = game['t2']
+#        if game['t2'] == seed4:
+#            seed4_finals += 1
+#        elif game['t2'] == seed5:
+#            seed5_finals += 1
+#    elif game['date'] == '5' and p1 < 0.5 and random_outcome > p2:
+#        games[6]['t1'] = game['t1']
+#        if game['t1'] == seed1:
+#            seed1_finals += 1
+#        elif game['t1'] == seed8:
+#            seed8_finals += 1
+#    elif game['date'] == '5' and p1 < 0.5 and random_outcome < p2:
+#        games[6]['t1'] = game['t2']
+#        if game['t2'] == seed4:
+#            seed4_finals += 1
+#        elif game['t2'] == seed5:
+#            seed5_finals += 1
 
 #home team for game 6
 #    if game['date'] == '6' and game['t2'] == seed2:
@@ -200,46 +200,46 @@ def eloRating(game,K,t):
 #        game['home'] = seed6
 
 #game 6: 3/6 vs 2/7 (semis)
-    if game['date'] == '6' and p1 > 0.5 and random_outcome < p1:
-        games[6]['t2'] = game['t1']
-        if game['t1'] == seed3:
-            seed3_finals += 1
-        elif game['t1'] == seed6:
-            seed6_finals += 1
-    elif game['date'] == '6' and p1 > 0.5 and random_outcome > p1:
-        games[6]['t2'] = game['t2']
-        if game['t2'] == seed2:
-            seed2_finals += 1
-        elif game['t2'] == seed7:
-            seed7_finals += 1
-    elif game['date'] == '6' and p1 < 0.5 and random_outcome > p2:
-        games[6]['t2'] = game['t1']
-        if game['t1'] == seed3:
-            seed3_finals += 1
-        elif game['t1'] == seed6:
-            seed6_finals += 1
-    elif game['date'] == '6' and p1 < 0.5 and random_outcome < p2:
-        games[6]['t2'] = game['t2']
-        if game['t2'] == seed2:
-            seed2_finals += 1
-        elif game['t2'] == seed7:
-            seed7_finals += 1
+#    if game['date'] == '6' and p1 > 0.5 and random_outcome < p1:
+#        games[6]['t2'] = game['t1']
+#        if game['t1'] == seed3:
+#            seed3_finals += 1
+#        elif game['t1'] == seed6:
+#            seed6_finals += 1
+#    elif game['date'] == '6' and p1 > 0.5 and random_outcome > p1:
+#        games[6]['t2'] = game['t2']
+#        if game['t2'] == seed2:
+#            seed2_finals += 1
+#        elif game['t2'] == seed7:
+#            seed7_finals += 1
+#    elif game['date'] == '6' and p1 < 0.5 and random_outcome > p2:
+#        games[6]['t2'] = game['t1']
+#        if game['t1'] == seed3:
+#            seed3_finals += 1
+#        elif game['t1'] == seed6:
+#            seed6_finals += 1
+#    elif game['date'] == '6' and p1 < 0.5 and random_outcome < p2:
+#        games[6]['t2'] = game['t2']
+#        if game['t2'] == seed2:
+#            seed2_finals += 1
+#        elif game['t2'] == seed7:
+#            seed7_finals += 1
 
 #home team for finals
-    if game['date'] == '7' and game['t1'] == seed1:
-        game['home'] = seed1
-    elif game['date'] == '7' and game['t2'] == seed2:
-        game['home'] = seed2
-    elif game['date'] == '7' and game['t2'] == seed3:
-        game['home'] = seed3
-    elif game['date'] == '7' and game['t1'] == seed4:
-        game['home'] = seed4
-    elif game['date'] == '7' and game['t1'] == seed5:
-        game['home'] = seed5
-    elif game['date'] == '7' and game['t2'] == seed6:
-        game['home'] = seed6
-    elif game['date'] == '7' and game['t2'] == seed7:
-        game['home'] = seed7
+#    if game['date'] == '7' and game['t1'] == seed1:
+#        game['home'] = seed1
+#    elif game['date'] == '7' and game['t2'] == seed2:
+#        game['home'] = seed2
+#    elif game['date'] == '7' and game['t2'] == seed3:
+#        game['home'] = seed3
+#    elif game['date'] == '7' and game['t1'] == seed4:
+#        game['home'] = seed4
+#    elif game['date'] == '7' and game['t1'] == seed5:
+#        game['home'] = seed5
+#    elif game['date'] == '7' and game['t2'] == seed6:
+#        game['home'] = seed6
+#    elif game['date'] == '7' and game['t2'] == seed7:
+#        game['home'] = seed7
 
 #game 7: 1/4/5/8 vs 2/3/6/7 (finals)
     if game['date'] == '7' and p1 > 0.5 and random_outcome < p1:
