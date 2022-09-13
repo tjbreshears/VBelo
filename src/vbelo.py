@@ -63,6 +63,12 @@ def eloRating(game,K,t,current_season):
                 teams[i]['short_name'] == 'Maryville' or \
                 teams[i]['short_name'] == 'Morehouse':
                     teams[i]['elo'] = 1419
+        elif current_season == '2023':
+            for i in range(len(teams)):
+                if teams[i]['short_name'] == 'MST' or \
+                teams[i]['short_name'] == 'Merrimack':
+                    teams[i]['elo'] = 1419
+
 
 #lifetime tracking of each team's elo
     new_date = game['date'].split(' ',1)[0]
