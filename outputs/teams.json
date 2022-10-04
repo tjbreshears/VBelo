@@ -8,8 +8,11 @@
         "elo": 1419,
         "location": "41.897785701653525, -84.06378176498569",
         "eligible": "0",
-        "twitter": "",
-        "color": ""
+        "twitter": "@acmvolley",
+        "color": "#ffc425",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Alderson",
@@ -17,11 +20,14 @@
         "division": "D-II",
         "mascot": "Battlers",
         "conference": "Independent",
-        "elo": 1356.285108836028,
+        "elo": 1369.1413194156796,
         "location": "39.15707821033467, -80.05158937406792",
         "eligible": "1",
         "twitter": "@ABUmvb",
-        "color": ""
+        "color": "#1b386d",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Alvernia",
@@ -33,7 +39,10 @@
         "location": "40.308195482372284, -75.93609804774519",
         "eligible": "0",
         "twitter": "@AlverniaMVB",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Ambrose",
@@ -45,7 +54,10 @@
         "location": "41.541422428054254, -90.58036660471811",
         "eligible": "0",
         "twitter": "@SAUBEES",
-        "color": "#00549D"
+        "color": "#00549D",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "American",
@@ -53,11 +65,14 @@
         "division": "D-II",
         "mascot": "Yellow Jackets",
         "conference": "Independent",
-        "elo": 1326.4046235018436,
+        "elo": 1332.8128309921394,
         "location": "42.11819653301246, -72.55411909135562",
         "eligible": "1",
         "twitter": "@AiCmvb",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Arcadia",
@@ -69,7 +84,10 @@
         "location": "40.09189512018325, -75.16543497405404",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Augustana",
@@ -81,7 +99,10 @@
         "location": "41.50707807397814, -90.5507023989337",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Aurora",
@@ -93,7 +114,10 @@
         "location": "41.754929518874825, -88.35040048173529",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Baldwin",
@@ -105,7 +129,10 @@
         "location": "41.372090690678, -81.84717580056873",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Ball",
@@ -113,11 +140,14 @@
         "division": "D-I",
         "mascot": "Cardinals",
         "conference": "MIVA",
-        "elo": 1841.892148549124,
+        "elo": 1842.0977237795273,
         "location": "40.207145339682654, -85.4063535970778",
         "eligible": "1",
         "twitter": "@BallStateMVB",
-        "color": "#ba0c2f"
+        "color": "#ba0c2f",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Bard",
@@ -129,7 +159,10 @@
         "location": "42.02378584506257, -73.90786832699553",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Barton",
@@ -137,11 +170,14 @@
         "division": "D-II",
         "mascot": "Bulldogs",
         "conference": "Carolinas",
-        "elo": 1400.0041366219377,
+        "elo": 1400.0651781276208,
         "location": "35.736908888607566, -77.91135951366927",
         "eligible": "1",
         "twitter": "@BartonVB",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Baruch",
@@ -153,7 +189,10 @@
         "location": "40.74027091463403, -73.98325759030051",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Belmont",
@@ -161,11 +200,14 @@
         "division": "D-II",
         "mascot": "Crusaders",
         "conference": "Carolinas",
-        "elo": 1570.242822138107,
+        "elo": 1570.3269843717264,
         "location": "35.260949209445535, -81.04035964259134",
         "eligible": "1",
         "twitter": "@AbbeyMVB",
-        "color": "#d31145"
+        "color": "#d31145",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Benedict",
@@ -173,11 +215,14 @@
         "division": "D-II",
         "mascot": "Tigers",
         "conference": "SIAC",
-        "elo": 1427.3051347125313,
+        "elo": 1427.374699921055,
         "location": "34.01302911507938, -81.0194713390587",
         "eligible": "1",
         "twitter": "@benedict_tigers",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Benedictine",
@@ -189,7 +234,10 @@
         "location": "41.780501946929036, -88.09615879522768",
         "eligible": "0",
         "twitter": "@BenUMensVB",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Bluefield",
@@ -201,7 +249,10 @@
         "location": "37.245950864489764, -81.24445240620705",
         "eligible": "0",
         "twitter": "@bstatesports",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Brooklyn",
@@ -213,7 +264,10 @@
         "location": "40.63104871616864, -73.9544884311142",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "BYU",
@@ -221,11 +275,14 @@
         "division": "D-I",
         "mascot": "Cougars",
         "conference": "MPSF",
-        "elo": 1622.4139384241173,
+        "elo": 1623.1328917896612,
         "location": "40.24775735793723, -111.65400410316153",
         "eligible": "1",
         "twitter": "@BYUvolleyball",
-        "color": "#003fa2"
+        "color": "#003fa2",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Cairn",
@@ -237,7 +294,10 @@
         "location": "40.1670948697853, -74.90559171636978",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Cal Lu",
@@ -249,7 +309,10 @@
         "location": "34.22633196106771, -118.87807278033313",
         "eligible": "0",
         "twitter": "@CLUSports",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Campbellsville",
@@ -261,7 +324,10 @@
         "location": "37.343703858580945, -85.35335044938824",
         "eligible": "0",
         "twitter": "@CvilleTigersVB",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Carlow",
@@ -273,7 +339,10 @@
         "location": "40.43903130319252, -79.96306475446164",
         "eligible": "0",
         "twitter": "@CarlowCeltics",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Carolina",
@@ -285,7 +354,10 @@
         "location": "36.087523477474456, -80.24955829665056",
         "eligible": "0",
         "twitter": "@carolinaumvb",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Carthage",
@@ -297,7 +369,10 @@
         "location": "42.6215922229578, -87.82230584629596",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "CCNY",
@@ -309,7 +384,10 @@
         "location": "40.81976412629696, -73.9495302395286",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Central",
@@ -317,11 +395,14 @@
         "division": "D-II",
         "mascot": "Marauders",
         "conference": "SIAC",
-        "elo": 1531.804778068581,
+        "elo": 1532.1344962721992,
         "location": "39.715131597362756, -83.87718939929674",
         "eligible": "1",
         "twitter": "@GO_MARAUDERS",
-        "color": "#6c0b31"
+        "color": "#6c0b31",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Charleston",
@@ -329,11 +410,14 @@
         "division": "D-II",
         "mascot": "Golden Eagles",
         "conference": "EIVA",
-        "elo": 1513.7098910513257,
+        "elo": 1514.1218169065494,
         "location": "38.33334229250818, -81.61707890009181",
         "eligible": "1",
         "twitter": "@ucwv_mvball",
-        "color": "#61162d"
+        "color": "#61162d",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Coker",
@@ -345,7 +429,10 @@
         "location": "34.37528373319098, -80.06614319438705",
         "eligible": "0",
         "twitter": "@Coker_Cobras",
-        "color": "#233a75"
+        "color": "#233a75",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Colby",
@@ -357,7 +444,10 @@
         "location": "43.41183934465652, -71.9754399209063",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Concordia",
@@ -365,11 +455,14 @@
         "division": "D-II",
         "mascot": "Eagles",
         "conference": "MPSF",
-        "elo": 1503.148462569485,
+        "elo": 1503.8127126163615,
         "location": "33.654125685708344, -117.81056815720085",
         "eligible": "1",
         "twitter": "@cuimvolleyball",
-        "color": "#0f4d2a"
+        "color": "#0f4d2a",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Cornerstone",
@@ -381,7 +474,10 @@
         "location": "42.98216485583985, -85.59340682236592",
         "eligible": "0",
         "twitter": "@CornerstoneMVB",
-        "color": "#00235d"
+        "color": "#00235d",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "CSUN",
@@ -389,11 +485,14 @@
         "division": "D-I",
         "mascot": "Matadors",
         "conference": "Big West",
-        "elo": 1468.6087236902438,
+        "elo": 1469.451459684775,
         "location": "34.24217382508362, -118.52592070292671",
         "eligible": "1",
         "twitter": "@CSUNMensVB",
-        "color": "#c8102e"
+        "color": "#c8102e",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "CUC",
@@ -405,7 +504,10 @@
         "location": "41.899237012815654, -87.80952090882946",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Culver",
@@ -417,7 +519,10 @@
         "location": "40.128468061043186, -91.53302925364306",
         "eligible": "0",
         "twitter": "@CSCMensVolley",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Cumberland",
@@ -429,7 +534,10 @@
         "location": "36.20324853719004, -86.29933821955521",
         "eligible": "0",
         "twitter": "@GoCUPhoenix",
-        "color": "#84152C"
+        "color": "#84152C",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "CUW",
@@ -441,19 +549,25 @@
         "location": "43.25429597914008, -87.91661537299478",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Daemen",
         "full_name": "Daemen College",
         "division": "D-II",
         "mascot": "Wildcats",
-        "conference": "Independent",
-        "elo": 1693.5283508370117,
+        "conference": "NEC",
+        "elo": 1699.4617174739362,
         "location": "42.964334636072195, -78.78783629673202",
         "eligible": "1",
         "twitter": "@DaemenMVB",
-        "color": "#013893"
+        "color": "#013893",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Dean",
@@ -465,7 +579,10 @@
         "location": "42.08636133425835, -71.39748949045915",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Dominican",
@@ -477,19 +594,25 @@
         "location": "41.903363621408715, -87.82152751845709",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "DYouville",
         "full_name": "D'Youville University",
         "division": "D-II",
         "mascot": "Saints",
-        "conference": "Independent",
-        "elo": 1446.8272389459846,
+        "conference": "NEC",
+        "elo": 1458.2731046074796,
         "location": "42.90182578107489, -78.88965269252517",
         "eligible": "1",
         "twitter": "@DYouvilleMVB",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Eastern",
@@ -501,7 +624,10 @@
         "location": "40.050986680102724, -75.37269408034746",
         "eligible": "0",
         "twitter": "@EUEagles",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Edgewood",
@@ -513,7 +639,10 @@
         "location": "43.05830704392353, -89.42167424499276",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Edward",
@@ -521,11 +650,14 @@
         "division": "D-II",
         "mascot": "Tigers",
         "conference": "SIAC",
-        "elo": 1484.1718331139118,
+        "elo": 1484.3308747032072,
         "location": "30.34614835020607, -81.68808435799133",
         "eligible": "1",
         "twitter": "@EWU_Athletics",
-        "color": "#702784"
+        "color": "#702784",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Elizabeth",
@@ -537,7 +669,10 @@
         "location": "40.777375075122734, -74.43415675237851",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Elizabethtown",
@@ -549,7 +684,10 @@
         "location": "40.150819758599084, -76.59062951850991",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Elmira",
@@ -561,7 +699,10 @@
         "location": "42.096566184891785, -76.81556739854054",
         "eligible": "0",
         "twitter": "@ElmiraMVB",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Elms",
@@ -573,7 +714,10 @@
         "location": "42.14173387482781, -72.60017141907629",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Emerson",
@@ -585,7 +729,10 @@
         "location": "42.35224553601047, -71.06582213018211",
         "eligible": "0",
         "twitter": "@EmersonVBALL",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Emmanuel",
@@ -593,11 +740,14 @@
         "division": "D-II",
         "mascot": "Lions",
         "conference": "Carolinas",
-        "elo": 1617.5954636561441,
+        "elo": 1617.7064426568343,
         "location": "34.28232255958307, -83.15283746675586",
         "eligible": "1",
         "twitter": "@EC_M_volleyball",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Emmanuel MA",
@@ -609,7 +759,10 @@
         "location": "42.34035470893204, -71.10340832812273",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "EMU",
@@ -621,7 +774,10 @@
         "location": "38.4724731498568, -78.87859418683938",
         "eligible": "0",
         "twitter": "@emu_volleyball",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Endicott",
@@ -633,7 +789,10 @@
         "location": "42.555019322717676, -70.83965869564096",
         "eligible": "0",
         "twitter": "@EndicottMVB",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "ENU",
@@ -645,7 +804,10 @@
         "location": "42.27217678612162, -71.01071405591968",
         "eligible": "0",
         "twitter": "@encmvb",
-        "color": "#e41309"
+        "color": "#e41309",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Erskine",
@@ -653,23 +815,29 @@
         "division": "D-II",
         "mascot": "Flying Fleet",
         "conference": "Carolinas",
-        "elo": 1543.3456384111219,
+        "elo": 1543.4664872360738,
         "location": "34.33264844123455, -82.39295012824844",
         "eligible": "1",
         "twitter": "@FlyingFleetMVB",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
-        "short_name": "Fairleigh",
+        "short_name": "FDU",
         "full_name": "Fairleigh Dickinson University",
         "division": "D-I",
         "mascot": "Knights",
-        "conference": "Independent",
-        "elo": 1426.7304174607916,
+        "conference": "NEC",
+        "elo": 1500.0,
         "location": "40.896665989152474, -74.03244336140656",
         "eligible": "1",
         "twitter": "@FDUKnightsMVB",
-        "color": ""
+        "color": "#272f44",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "First Point",
@@ -681,7 +849,10 @@
         "location": "30.263653912461567, -97.73966337824726",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Fisher",
@@ -693,7 +864,10 @@
         "location": "43.11613765507209, -77.50989152025222",
         "eligible": "0",
         "twitter": "@SJFCVB",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Fontbonne",
@@ -705,7 +879,10 @@
         "location": "38.64174360171452, -90.31502244592951",
         "eligible": "0",
         "twitter": "@FBUGriffinsMVB",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Fort Valley",
@@ -713,11 +890,14 @@
         "division": "D-II",
         "mascot": "Wildcats",
         "conference": "SIAC",
-        "elo": 1416.733838566851,
+        "elo": 1416.7991169689187,
         "location": "32.533038270782875, -83.89765259686493",
         "eligible": "1",
         "twitter": "@FVSUATHLETICS",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "GCU",
@@ -725,11 +905,14 @@
         "division": "D-I",
         "mascot": "Antelopes",
         "conference": "MPSF",
-        "elo": 1656.1697731548172,
+        "elo": 1657.0588226607144,
         "location": "33.51026623785861, -112.12902999636252",
         "eligible": "1",
         "twitter": "@GCU_MVolleyball",
-        "color": "#512699"
+        "color": "#512699",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Geneva",
@@ -741,7 +924,10 @@
         "location": "40.77105523710914, -80.32069510818673",
         "eligible": "0",
         "twitter": "@GenevaAthletics",
-        "color": "#b4975b"
+        "color": "#b4975b",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Georgetown",
@@ -753,7 +939,10 @@
         "location": "38.2075905437859, -84.55289270669186",
         "eligible": "0",
         "twitter": "@GCAthletics",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "GMU",
@@ -761,11 +950,14 @@
         "division": "D-I",
         "mascot": "Patriots",
         "conference": "EIVA",
-        "elo": 1624.5498674736323,
+        "elo": 1632.5785756737534,
         "location": "38.83065978140495, -77.3124337809112",
         "eligible": "1",
         "twitter": "@GoMasonMVB",
-        "color": "#006938"
+        "color": "#006938",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Graceland",
@@ -777,7 +969,10 @@
         "location": "40.61455111800166, -93.9265999300875",
         "eligible": "0",
         "twitter": "@GUjackets",
-        "color": "#00275c"
+        "color": "#00275c",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Grand View",
@@ -789,7 +984,10 @@
         "location": "41.61980219082709, -93.59806643803012",
         "eligible": "0",
         "twitter": "@VikingAthletics",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Greenville",
@@ -797,11 +995,14 @@
         "division": "D-II",
         "mascot": "Crusaders",
         "conference": "Carolinas",
-        "elo": 1777.806820503357,
+        "elo": 1778.0173551388164,
         "location": "35.069533766249734, -82.37309708210283",
         "eligible": "1",
         "twitter": "@NGU_MVB",
-        "color": "#c00000"
+        "color": "#c00000",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Harvard",
@@ -809,11 +1010,14 @@
         "division": "D-I",
         "mascot": "Crimson",
         "conference": "EIVA",
-        "elo": 1621.2360451194277,
+        "elo": 1622.5832537335436,
         "location": "42.37135182238967, -71.11941108239166",
         "eligible": "1",
         "twitter": "@HarvardMVB",
-        "color": "#a31f36"
+        "color": "#a31f36",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Hawaii",
@@ -821,11 +1025,14 @@
         "division": "D-I",
         "mascot": "Rainbow Warriors",
         "conference": "Big West",
-        "elo": 1925.8904879527481,
+        "elo": 1929.2213082692388,
         "location": "21.294609859692425, -157.8183992624992",
         "eligible": "1",
         "twitter": "@HawaiiMensVB",
-        "color": "#005837"
+        "color": "#005837",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Hilbert",
@@ -837,7 +1044,10 @@
         "location": "42.75407223484585, -78.81970205433396",
         "eligible": "0",
         "twitter": "@HilbertAthletic",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Hiram",
@@ -849,7 +1059,10 @@
         "location": "41.311370096971544, -81.14153368962442",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Hunter",
@@ -861,7 +1074,10 @@
         "location": "40.76777636366904, -73.96455470358497",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "IIT",
@@ -873,7 +1089,10 @@
         "location": "41.839019206655045, -87.62557170033118",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Immaculata",
@@ -885,7 +1104,10 @@
         "location": "40.027973552241136, -75.57068390446615",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Indiana Tech",
@@ -897,7 +1119,10 @@
         "location": "41.078223061447055, -85.11802161138166",
         "eligible": "0",
         "twitter": "@INTechMVB",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "IWU",
@@ -909,7 +1134,10 @@
         "location": "40.49388795647673, -88.98929385170241",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Jamestown",
@@ -921,7 +1149,10 @@
         "location": "46.9150125897768, -98.69405345622302",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "John Jay",
@@ -933,7 +1164,10 @@
         "location": "40.77035218686202, -73.98835148520904",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Judson",
@@ -945,7 +1179,10 @@
         "location": "42.06105413456005, -88.28638078225565",
         "eligible": "0",
         "twitter": "@JudsonMensVB",
-        "color": "#172751"
+        "color": "#172751",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Juniata",
@@ -957,7 +1194,10 @@
         "location": "40.50082601597881, -78.01535329509088",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "JWU",
@@ -969,7 +1209,10 @@
         "location": "41.78926009829432, -71.39140899103272",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Katherine",
@@ -981,7 +1224,10 @@
         "location": "33.14459389006438, -117.188980895342",
         "eligible": "0",
         "twitter": "@UskMvb",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Kean",
@@ -993,7 +1239,10 @@
         "location": "40.68045714398456, -74.23754322953764",
         "eligible": "0",
         "twitter": "@KeanMVB",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "King",
@@ -1001,11 +1250,14 @@
         "division": "D-II",
         "mascot": "Tornados",
         "conference": "Carolinas",
-        "elo": 1691.385504044091,
+        "elo": 1691.4889987982801,
         "location": "36.585282826029015, -82.15931172711392",
         "eligible": "1",
         "twitter": "@TornadoMVB",
-        "color": "#cf102d"
+        "color": "#cf102d",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Kings",
@@ -1017,7 +1269,10 @@
         "location": "41.249174900875346, -75.87696569302454",
         "eligible": "0",
         "twitter": "@KingsMonarchs",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "KSU",
@@ -1025,11 +1280,14 @@
         "division": "D-II",
         "mascot": "Thorobreds",
         "conference": "SIAC",
-        "elo": 1295.6986709528423,
+        "elo": 1295.8373014508024,
         "location": "38.20016245445245, -84.86007930194451",
         "eligible": "1",
         "twitter": "@KYSUAthletics",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Lakeland",
@@ -1041,7 +1299,10 @@
         "location": "43.843452277396864, -87.88577772880265",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Lancaster",
@@ -1053,7 +1314,10 @@
         "location": "40.07544941311759, -76.28914618292605",
         "eligible": "0",
         "twitter": "@LBCathletics",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Lasell",
@@ -1065,7 +1329,10 @@
         "location": "42.34259730667481, -71.24342225858211",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "LBSU",
@@ -1073,11 +1340,14 @@
         "division": "D-I",
         "mascot": "49ers",
         "conference": "Big West",
-        "elo": 1804.3275610526912,
+        "elo": 1805.2580397915126,
         "location": "33.78755969795288, -118.11468048796037",
         "eligible": "1",
         "twitter": "@lbsumvb",
-        "color": "#eba91b"
+        "color": "#eba91b",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Lees",
@@ -1085,11 +1355,14 @@
         "division": "D-II",
         "mascot": "Bobcats",
         "conference": "Carolinas",
-        "elo": 1441.0553559322714,
+        "elo": 1441.2115080407632,
         "location": "36.15646890875242, -81.87072487315083",
         "eligible": "1",
         "twitter": "@LMCBobcatVolley",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Lehman",
@@ -1101,7 +1374,10 @@
         "location": "40.87466726077226, -73.89295862715507",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Lesley",
@@ -1113,7 +1389,10 @@
         "location": "42.43001050429625, -71.12511049597039",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Lewis",
@@ -1121,11 +1400,14 @@
         "division": "D-II",
         "mascot": "Flyers",
         "conference": "MIVA",
-        "elo": 1744.280862688508,
+        "elo": 1744.5532983979183,
         "location": "41.60507512399408, -88.08211780186922",
         "eligible": "1",
         "twitter": "@LewisMVBall",
-        "color": "#c00000"
+        "color": "#c00000",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Life",
@@ -1137,7 +1419,10 @@
         "location": "33.931020655187076, -84.51727778423846",
         "eligible": "0",
         "twitter": "@lifeu_mvb",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Limestone",
@@ -1145,11 +1430,14 @@
         "division": "D-II",
         "mascot": "Saints",
         "conference": "Independent",
-        "elo": 1628.489189671549,
+        "elo": 1627.378280056874,
         "location": "35.0550147456207, -81.65177833084384",
         "eligible": "1",
         "twitter": "@LimestoneMVB",
-        "color": "#0038a5"
+        "color": "#0038a5",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Lincoln",
@@ -1161,31 +1449,40 @@
         "location": "40.15727080993323, -89.36035218954572",
         "eligible": "0",
         "twitter": "@LincolnLynxMVB",
-        "color": "#712E91"
+        "color": "#712E91",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Lindenwood",
         "full_name": "Lindenwood University",
-        "division": "D-II",
+        "division": "D-I",
         "mascot": "Lions",
         "conference": "MIVA",
-        "elo": 1553.288564472908,
+        "elo": 1553.33968075067,
         "location": "38.78885569308603, -90.50402535960333",
         "eligible": "1",
         "twitter": "@lindenwoodMVB",
-        "color": "#dcd087"
+        "color": "#dcd087",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "LIU",
         "full_name": "Long Island University",
         "division": "D-I",
         "mascot": "Sharks",
-        "conference": "Independent",
-        "elo": 1560.9153929008335,
+        "conference": "NEC",
+        "elo": 1572.6860131158048,
         "location": "40.69062486571616, -73.979257542518",
         "eligible": "1",
         "twitter": "@LIUAthletics",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "LMU",
@@ -1193,11 +1490,14 @@
         "division": "D-II",
         "mascot": "Railsplitters",
         "conference": "Independent",
-        "elo": 1779.0750399655153,
+        "elo": 1779.8181668578243,
         "location": "36.58069456454686, -83.6625514731423",
         "eligible": "1",
         "twitter": "@SplittersMensVB",
-        "color": "#002461"
+        "color": "#002461",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Loras",
@@ -1209,7 +1509,10 @@
         "location": "42.504879804777005, -90.67847969314923",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Lourdes",
@@ -1221,7 +1524,10 @@
         "location": "41.7080917959541, -83.70556847058288",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Loyola",
@@ -1229,11 +1535,14 @@
         "division": "D-I",
         "mascot": "Ramblers",
         "conference": "MIVA",
-        "elo": 1744.6515418331755,
+        "elo": 1744.699236405879,
         "location": "42.000567998243376, -87.65897785953142",
         "eligible": "1",
         "twitter": "@RamblersMVB",
-        "color": "#582931"
+        "color": "#582931",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Maranatha",
@@ -1245,7 +1554,10 @@
         "location": "43.19434080238715, -88.7378745828583",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Marian",
@@ -1257,7 +1569,10 @@
         "location": "43.77635064609146, -88.41999676090558",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Marymount",
@@ -1269,7 +1584,10 @@
         "location": "38.90566645273184, -77.12717533225883",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Maryville",
@@ -1277,11 +1595,14 @@
         "division": "D-II",
         "mascot": "Saints",
         "conference": "Independent",
-        "elo": 1579.9139864817298,
+        "elo": 1579.9158832896512,
         "location": "38.64372686506051, -90.50393139677512",
         "eligible": "1",
         "twitter": "@MaryvilleMVB",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Masters",
@@ -1293,7 +1614,10 @@
         "location": "34.38300835589866, -118.51955473325665",
         "eligible": "0",
         "twitter": "@TMUAthletics",
-        "color": "#0c2340"
+        "color": "#0c2340",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "MBU",
@@ -1305,7 +1629,10 @@
         "location": "38.64163159240683, -90.46136632365594",
         "eligible": "0",
         "twitter": "@MBUVolleyball",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "McKendree",
@@ -1313,11 +1640,14 @@
         "division": "D-II",
         "mascot": "Bearcats",
         "conference": "MIVA",
-        "elo": 1681.7336812153887,
+        "elo": 1681.8045190333285,
         "location": "38.61089984668392, -89.81457515960716",
         "eligible": "1",
         "twitter": "@McKMVB",
-        "color": "#592b85"
+        "color": "#592b85",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Medaille",
@@ -1329,7 +1659,10 @@
         "location": "42.929141132927406, -78.85653115282652",
         "eligible": "0",
         "twitter": "@MavsVBall",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Medgar",
@@ -1341,7 +1674,10 @@
         "location": "40.66678199893193, -73.95201121827772",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Menlo",
@@ -1353,7 +1689,10 @@
         "location": "37.45703867329666, -122.191176410207",
         "eligible": "0",
         "twitter": "@MenloAthletics",
-        "color": "#003a70"
+        "color": "#003a70",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Merced",
@@ -1365,7 +1704,25 @@
         "location": "37.366012991410265, -120.42680463444562",
         "eligible": "0",
         "twitter": "@UCMercedMVB",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Merrimack",
+        "full_name": "Merrimack College",
+        "division": "D-I",
+        "mascot": "Warriors",
+        "conference": "NEC",
+        "elo": 1500.0,
+        "location": "42.66757089228014, -71.12054892522444",
+        "eligible": "1",
+        "twitter": "@MerrimackMVB",
+        "color": "#003057",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Messiah",
@@ -1377,7 +1734,10 @@
         "location": "40.158697842416125, -76.988491780441",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Milligan",
@@ -1389,7 +1749,10 @@
         "location": "36.30126262460604, -82.29042412992379",
         "eligible": "0",
         "twitter": "@MilliganBuffs",
-        "color": "#AF5108"
+        "color": "#AF5108",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Millikin",
@@ -1401,7 +1764,10 @@
         "location": "39.843612359218106, -88.9732658076431",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Misericordia",
@@ -1413,7 +1779,10 @@
         "location": "41.346573259307426, -75.97430701035299",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "MIT",
@@ -1425,7 +1794,10 @@
         "location": "42.35920143502328, -71.09598651534462",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Morehouse",
@@ -1433,11 +1805,14 @@
         "division": "D-II",
         "mascot": "Maroon Tigers",
         "conference": "SIAC",
-        "elo": 1240.53852918368,
+        "elo": 1240.5840552042923,
         "location": "33.74897155900181, -84.40861390674647",
         "eligible": "1",
         "twitter": "@MaroonTigers",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Mount Union",
@@ -1449,7 +1824,10 @@
         "location": "40.90245029151455, -81.11104969355848",
         "eligible": "0",
         "twitter": "@purpleraiders",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "MSJ",
@@ -1461,7 +1839,10 @@
         "location": "39.095018513143216, -84.6404775537773",
         "eligible": "0",
         "twitter": "@MSJmensVball",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "MSOE",
@@ -1473,7 +1854,25 @@
         "location": "43.04662807366095, -87.90950353546796",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "MST",
+        "full_name": "Missouri S&T",
+        "division": "D-II",
+        "mascot": "Miners",
+        "conference": "Independent",
+        "elo": 1500.0,
+        "location": "37.95093924618906, -91.77816359173113",
+        "eligible": "1",
+        "twitter": "@Miners_MVB",
+        "color": "#154734",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "MSV",
@@ -1485,7 +1884,10 @@
         "location": "40.91356526437771, -73.90614706114066",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "MVC",
@@ -1497,7 +1899,10 @@
         "location": "39.10850085848182, -93.18987364525856",
         "eligible": "0",
         "twitter": "@MVCAthletics",
-        "color": "#962599"
+        "color": "#962599",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "MVNU",
@@ -1509,7 +1914,10 @@
         "location": "40.37266012753464, -82.46830521946504",
         "eligible": "0",
         "twitter": "@mvnumvball",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Nazareth",
@@ -1521,7 +1929,10 @@
         "location": "43.101628145741294, -77.51857696231474",
         "eligible": "0",
         "twitter": "@NazAthletics",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Neumann",
@@ -1533,7 +1944,10 @@
         "location": "39.87521060111818, -75.4428721669722",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Nichols",
@@ -1545,7 +1959,10 @@
         "location": "42.04241879910383, -71.92939413800686",
         "eligible": "0",
         "twitter": "@ncbison",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "NJCU",
@@ -1557,7 +1974,10 @@
         "location": "40.7127279879083, -74.08873883959045",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "NJIT",
@@ -1565,11 +1985,14 @@
         "division": "D-I",
         "mascot": "Highlanders",
         "conference": "EIVA",
-        "elo": 1692.1469052020966,
+        "elo": 1693.2838468596808,
         "location": "40.74226308492056, -74.1804250697891",
         "eligible": "1",
         "twitter": "@njitMVB",
-        "color": "#d9232e"
+        "color": "#d9232e",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Norbert",
@@ -1581,7 +2004,10 @@
         "location": "44.442076059728834, -88.06813597045847",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "North Central",
@@ -1593,7 +2019,10 @@
         "location": "41.769802215602205, -88.14426296972064",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "North Park",
@@ -1605,7 +2034,10 @@
         "location": "41.97507802707824, -87.70908385315052",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "NVU",
@@ -1617,7 +2049,10 @@
         "location": "44.64170222739891, -72.67127077254793",
         "eligible": "0",
         "twitter": "@NVUBadgers",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "NYU",
@@ -1629,7 +2064,10 @@
         "location": "40.69426223581706, -73.98649046111277",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Ohio",
@@ -1637,11 +2075,14 @@
         "division": "D-I",
         "mascot": "Buckeyes",
         "conference": "MIVA",
-        "elo": 1652.6829419997869,
+        "elo": 1652.7999914069308,
         "location": "40.013659150194385, -83.02835385096364",
         "eligible": "1",
         "twitter": "@OhioStateMVB",
-        "color": "#ce0f3d"
+        "color": "#ce0f3d",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Olive",
@@ -1649,11 +2090,14 @@
         "division": "D-II",
         "mascot": "Trojans",
         "conference": "Carolinas",
-        "elo": 1738.57013657331,
+        "elo": 1738.6237316979411,
         "location": "35.206267828209945, -78.07135766938003",
         "eligible": "1",
         "twitter": "@UMOMVB",
-        "color": "#026241"
+        "color": "#026241",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Olivet",
@@ -1665,7 +2109,10 @@
         "location": "42.43590104499605, -84.926079186222",
         "eligible": "0",
         "twitter": "@OlivetAthletics",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "OUAZ",
@@ -1677,7 +2124,10 @@
         "location": "33.62841394840269, -112.37179237613786",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "OUKA",
@@ -1689,7 +2139,10 @@
         "location": "38.60167971936256, -95.26329401980554",
         "eligible": "0",
         "twitter": "@ottawamens_vb",
-        "color": "#ffbe29"
+        "color": "#ffbe29",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Paine",
@@ -1701,7 +2154,10 @@
         "location": "33.47082393014291, -81.99702436738723",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Park",
@@ -1713,7 +2169,10 @@
         "location": "33.29997589547613, -111.62490849737839",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Penn",
@@ -1721,11 +2180,14 @@
         "division": "D-I",
         "mascot": "Nittany Lions",
         "conference": "EIVA",
-        "elo": 1854.7471845022733,
+        "elo": 1855.1603644762818,
         "location": "40.79587992368765, -77.86941460188768",
         "eligible": "1",
         "twitter": "@PennStateMVBALL",
-        "color": "#002D62"
+        "color": "#002D62",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Penn Altoona",
@@ -1737,7 +2199,10 @@
         "location": "40.54129159543888, -78.4106558057087",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Penn Behrend",
@@ -1749,7 +2214,10 @@
         "location": "42.12012061305278, -79.97809207472905",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Pepperdine",
@@ -1757,11 +2225,14 @@
         "division": "D-I",
         "mascot": "Waves",
         "conference": "MPSF",
-        "elo": 1748.2602666704208,
+        "elo": 1749.1374221407955,
         "location": "34.03852398415157, -118.70978524990564",
         "eligible": "1",
         "twitter": "@PeppVolleyball",
-        "color": "#0a2240"
+        "color": "#0a2240",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "PFW",
@@ -1769,11 +2240,14 @@
         "division": "D-I",
         "mascot": "Mastodons",
         "conference": "MIVA",
-        "elo": 1693.8560248250842,
+        "elo": 1694.0311891334884,
         "location": "41.11944698196785, -85.10730666554868",
         "eligible": "1",
         "twitter": "@MastodonMVB",
-        "color": "#c28e0e"
+        "color": "#c28e0e",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Pine Manor",
@@ -1785,7 +2259,10 @@
         "location": "42.32090975390333, -71.15797182073103",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Pratt",
@@ -1797,7 +2274,10 @@
         "location": "40.690913899534586, -73.96207617419944",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Princeton",
@@ -1805,23 +2285,29 @@
         "division": "D-I",
         "mascot": "Tigers",
         "conference": "EIVA",
-        "elo": 1690.81629654706,
+        "elo": 1691.086569010917,
         "location": "40.345617856393154, -74.65879610189774",
         "eligible": "1",
         "twitter": "@PrincetonVolley",
-        "color": "#ff6000"
+        "color": "#ff6000",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Queens",
         "full_name": "Queens University of Charlotte",
-        "division": "D-II",
+        "division": "D-I",
         "mascot": "Royals",
         "conference": "Independent",
-        "elo": 1680.9721995030952,
+        "elo": 1682.4773830072638,
         "location": "35.18849968417609, -80.83507306216742",
         "eligible": "1",
         "twitter": "@QueensAthletics",
-        "color": "#00205b"
+        "color": "#00205b",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Quincy",
@@ -1829,11 +2315,14 @@
         "division": "D-II",
         "mascot": "Hawks",
         "conference": "MIVA",
-        "elo": 1411.3891687466055,
+        "elo": 1411.4262351375357,
         "location": "39.9384182056001, -91.38529127307119",
         "eligible": "1",
         "twitter": "@QUMVB",
-        "color": "#591f00"
+        "color": "#591f00",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Ramapo",
@@ -1845,7 +2334,10 @@
         "location": "41.08237213924209, -74.17750497174502",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Randolph Macon",
@@ -1857,7 +2349,10 @@
         "location": "37.762889757977874, -77.47861657454743",
         "eligible": "0",
         "twitter": "@RMCathletics",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Regis",
@@ -1869,7 +2364,10 @@
         "location": "42.350914973456305, -71.3074520630383",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Reinhardt",
@@ -1881,7 +2379,25 @@
         "location": "34.318858281323614, -84.54888269700757",
         "eligible": "0",
         "twitter": "@RUMensVball",
-        "color": "#002E5C"
+        "color": "#002E5C",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Rio Grande",
+        "full_name": "University of Rio Grande",
+        "division": "NAIA",
+        "mascot": "RedStorm",
+        "conference": "NAIA",
+        "elo": 1373,
+        "location": "38.879355354541794, -82.37738600100425",
+        "eligible": "0",
+        "twitter": "@rioredstorm",
+        "color": "#b5121b",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Rivier",
@@ -1893,667 +2409,10 @@
         "location": "42.73813288937704, -71.45234267759334",
         "eligible": "0",
         "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "Rockford",
-        "full_name": "Rockford University",
-        "division": "D-III",
-        "mascot": "Regents",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "42.269156247760925, -89.02165338002247",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "Rosemont",
-        "full_name": "Rosemont College",
-        "division": "D-III",
-        "mascot": "Ravens",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "40.033736490844156, -75.33160520871527",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "Rutgers",
-        "full_name": "Rutgers University\u00e2\u20ac\u201cNewark",
-        "division": "D-III",
-        "mascot": "Scarlet Raiders",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "40.73916807034423, -74.17387951111192",
-        "eligible": "0",
-        "twitter": "@ScarletRaiders",
-        "color": ""
-    },
-    {
-        "short_name": "Sacred",
-        "full_name": "Sacred Heart University",
-        "division": "D-I",
-        "mascot": "Pioneers",
-        "conference": "EIVA",
-        "elo": 1469.0149098019538,
-        "location": "41.21960639882194, -73.24464177304239",
-        "eligible": "1",
-        "twitter": "@SHUBigRed",
-        "color": ""
-    },
-    {
-        "short_name": "Sage",
-        "full_name": "The Sage Colleges",
-        "division": "D-III",
-        "mascot": "Gators",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "42.65142294260737, -73.78257340262616",
-        "eligible": "0",
-        "twitter": "@sagemvb",
-        "color": ""
-    },
-    {
-        "short_name": "Saint Vincent",
-        "full_name": "Saint Vincent College",
-        "division": "D-III",
-        "mascot": "Bearcats",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "40.29242584013322, -79.40378787664432",
-        "eligible": "0",
-        "twitter": "@SVC_Bearcats",
-        "color": "#1e5632"
-    },
-    {
-        "short_name": "Sarah",
-        "full_name": "Sarah Lawrence College",
-        "division": "D-III",
-        "mascot": "Gryphons",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "40.9321611226302, -73.84734653537407",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "SFCB",
-        "full_name": "St. Francis College (Brooklyn)",
-        "division": "D-I",
-        "mascot": "Terriers",
-        "conference": "EIVA",
-        "elo": 1504.5424895973495,
-        "location": "40.69327473082102, -73.99260250884957",
-        "eligible": "1",
-        "twitter": "@SFBKMVB",
-        "color": "#0038a8"
-    },
-    {
-        "short_name": "SFU",
-        "full_name": "Saint Francis University (PA)",
-        "division": "D-I",
-        "mascot": "Red Flash",
-        "conference": "EIVA",
-        "elo": 1599.6908323284001,
-        "location": "40.50452259480198, -78.64110417305858",
-        "eligible": "1",
-        "twitter": "@RedFlashMVB",
-        "color": "#bd1f25"
-    },
-    {
-        "short_name": "SJC Brooklyn",
-        "full_name": "St. Joseph's College-Brooklyn",
-        "division": "D-III",
-        "mascot": "Bears",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "40.690994511103455, -73.9696828545863",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "SJC Long Island",
-        "full_name": "St. Joseph's College-Long Island",
-        "division": "D-III",
-        "mascot": "Golden Eagles",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "40.7764487093655, -73.0263200930275",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "Springfield",
-        "full_name": "Springfield College (MA)",
-        "division": "D-III",
-        "mascot": "Pride",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "42.10483126433112, -72.55557081090733",
-        "eligible": "0",
-        "twitter": "@SpfldCol_MVB",
-        "color": ""
-    },
-    {
-        "short_name": "St Andrews",
-        "full_name": "St. Andrews University",
-        "division": "NAIA",
-        "mascot": "Knights",
-        "conference": "NAIA",
-        "elo": 1373,
-        "location": "34.745921130860445, -79.47888492926597",
-        "eligible": "0",
-        "twitter": "@SAUKnights",
-        "color": ""
-    },
-    {
-        "short_name": "Stanford",
-        "full_name": "Stanford University",
-        "division": "D-I",
-        "mascot": "Cardinal",
-        "conference": "MPSF",
-        "elo": 1601.3836483062526,
-        "location": "37.42962789960126, -122.16063330196073",
-        "eligible": "1",
-        "twitter": "@StanfordMVB",
-        "color": "#8c1515"
-    },
-    {
-        "short_name": "Stevens",
-        "full_name": "Stevens Institute of Technology",
-        "division": "D-III",
-        "mascot": "Ducks",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "40.74330688729092, -74.02580511631534",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "Stevenson",
-        "full_name": "Stevenson University",
-        "division": "D-III",
-        "mascot": "Mustangs",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "39.427623235478656, -76.77926613430805",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "SUNY New Paltz",
-        "full_name": "State University of New York at New Paltz",
-        "division": "D-III",
-        "mascot": "Hawks",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "41.739840548230994, -74.08651471281539",
-        "eligible": "0",
-        "twitter": "@nphawks",
-        "color": ""
-    },
-    {
-        "short_name": "SUNY Poly",
-        "full_name": "State University of New York Polytechnic Institute",
-        "division": "D-III",
-        "mascot": "Wildcats",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "43.137836223361504, -75.22973236333709",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "SUNY Potsdam",
-        "full_name": "State University of New York at Potsdam",
-        "division": "D-III",
-        "mascot": "Bears",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "44.660676196882086, -74.96712355234018",
-        "eligible": "0",
-        "twitter": "@PotsdamBears",
-        "color": ""
-    },
-    {
-        "short_name": "SUNY Purchase",
-        "full_name": "State University of New York at Purchase",
-        "division": "D-III",
-        "mascot": "Panthers",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "41.05010343783726, -73.69852253602835",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "SVU",
-        "full_name": "Southern Virginia University",
-        "division": "D-III",
-        "mascot": "Knights",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "37.74147880883873, -79.34995625019081",
-        "eligible": "0",
-        "twitter": "@svuathletics",
-        "color": ""
-    },
-    {
-        "short_name": "Thiel",
-        "full_name": "Thiel College",
-        "division": "D-III",
-        "mascot": "Tomcats",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "41.411953215542255, -80.38403895686261",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "Thomas More",
-        "full_name": "Thomas More University",
-        "division": "NAIA",
-        "mascot": "Saints",
-        "conference": "NAIA",
-        "elo": 1373,
-        "location": "39.0210397287091, -84.56872684972652",
-        "eligible": "0",
-        "twitter": "@tmusaints",
-        "color": "#00549f"
-    },
-    {
-        "short_name": "Trine",
-        "full_name": "Trine University",
-        "division": "D-III",
-        "mascot": "Thunder",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "41.63098230268178, -85.01231909201103",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "Truett",
-        "full_name": "Truett-McConnell Univeristy",
-        "division": "NAIA",
-        "mascot": "Bears",
-        "conference": "NAIA",
-        "elo": 1373,
-        "location": "34.59660840107576, -83.75065653236048",
-        "eligible": "0",
-        "twitter": "@TMUBears",
-        "color": "#002a46"
-    },
-    {
-        "short_name": "Tusculum",
-        "full_name": "Tusculum University",
-        "division": "D-II",
-        "mascot": "Pioneers",
-        "conference": "Independent",
-        "elo": 1461.0696405317105,
-        "location": "36.172235784169594, -82.76122001547911",
-        "eligible": "1",
-        "twitter": "@TusculumMVB",
-        "color": "#ec6633"
-    },
-    {
-        "short_name": "UCI",
-        "full_name": "UC Irvine",
-        "division": "D-I",
-        "mascot": "Anteaters",
-        "conference": "Big West",
-        "elo": 1586.31542863617,
-        "location": "33.649529179071855, -117.84676229463538",
-        "eligible": "1",
-        "twitter": "@UCImvb",
-        "color": "#002144"
-    },
-    {
-        "short_name": "UCLA",
-        "full_name": "UCLA",
-        "division": "D-I",
-        "mascot": "Bruins",
-        "conference": "MPSF",
-        "elo": 1818.1182452555904,
-        "location": "34.070368942308, -118.44692940202692",
-        "eligible": "1",
-        "twitter": "@UCLAMVB",
-        "color": "#2d68c4"
-    },
-    {
-        "short_name": "UCSB",
-        "full_name": "UC Santa Barbara",
-        "division": "D-I",
-        "mascot": "Gauchos",
-        "conference": "Big West",
-        "elo": 1773.3226294745502,
-        "location": "34.413774241887246, -119.85124827968606",
-        "eligible": "1",
-        "twitter": "@GauchoVball",
-        "color": "#223168"
-    },
-    {
-        "short_name": "UCSC",
-        "full_name": "UC Santa Cruz",
-        "division": "D-III",
-        "mascot": "Banana Slugs",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "36.96823924339548, -122.02312311628842",
-        "eligible": "0",
-        "twitter": "@ucsc_mvb",
-        "color": ""
-    },
-    {
-        "short_name": "UCSD",
-        "full_name": "UC San Diego",
-        "division": "D-I",
-        "mascot": "Tritons",
-        "conference": "Big West",
-        "elo": 1643.4135257568303,
-        "location": "32.88532910021645, -117.23989557321309",
-        "eligible": "1",
-        "twitter": "@UCSDmvb",
-        "color": "#182b49"
-    },
-    {
-        "short_name": "UHSP",
-        "full_name": "University of Health Sciences & Pharmacy",
-        "division": "NAIA",
-        "mascot": "Eutectics",
-        "conference": "NAIA",
-        "elo": 1373,
-        "location": "38.63693302044206, -90.26244371434896",
-        "eligible": "0",
-        "twitter": "@UHSPEutectics",
-        "color": "#46166b"
-    },
-    {
-        "short_name": "UPRB",
-        "full_name": "University of Puerto Rico at Bayamon",
-        "division": "D-II",
-        "mascot": "Cowboys",
-        "conference": "Independent",
-        "elo": 1500.0,
-        "location": "18.37183760427692, -66.14289026456974",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "UPRM",
-        "full_name": "University of Puerto Rico at Mayaguez",
-        "division": "D-II",
-        "mascot": "Tarzans",
-        "conference": "Independent",
-        "elo": 1500.0,
-        "location": "18.210830405627053, -67.14090943786569",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "UPRRP",
-        "full_name": "University of Puerto Rico, Rio Piedras",
-        "division": "D-II",
-        "mascot": "Gallitos",
-        "conference": "Independent",
-        "elo": 1491.0,
-        "location": "18.40278872714375, -66.05006215991594",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "Urbana",
-        "full_name": "Urbana University",
-        "division": "D-II",
-        "mascot": "Blue Knights",
-        "conference": "Independent",
-        "elo": 1423.5,
-        "location": "40.09973848144935, -83.76003001311695",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "USC",
-        "full_name": "University of Southern California",
-        "division": "D-I",
-        "mascot": "Trojans",
-        "conference": "MPSF",
-        "elo": 1712.7217836171685,
-        "location": "34.02083077304503, -118.27970057319217",
-        "eligible": "1",
-        "twitter": "@USCmensvolley",
-        "color": "#9d2235"
-    },
-    {
-        "short_name": "Valley Forge",
-        "full_name": "University of Valley Forge",
-        "division": "D-III",
-        "mascot": "Patriots",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "40.1181690516284, -75.550581063398",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "Vanguard",
-        "full_name": "Vanguard University",
-        "division": "NAIA",
-        "mascot": "Lions",
-        "conference": "NAIA",
-        "elo": 1373,
-        "location": "33.66149843172471, -117.90297950960634",
-        "eligible": "0",
-        "twitter": "@VULions",
-        "color": "#003767"
-    },
-    {
-        "short_name": "Vassar",
-        "full_name": "Vassar College",
-        "division": "D-III",
-        "mascot": "Brewers",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "41.689951645290634, -73.89088724998996",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "Wabash",
-        "full_name": "Wabash College",
-        "division": "D-III",
-        "mascot": "Little Giants",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "40.03704910749767, -86.90791218910711",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "Warner",
-        "full_name": "Warner University",
-        "division": "NAIA",
-        "mascot": "Royals",
-        "conference": "NAIA",
-        "elo": 1373,
-        "location": "27.851729076947557, -81.5991506273334",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "Webber",
-        "full_name": "Webber International University",
-        "division": "NAIA",
-        "mascot": "Warriors",
-        "conference": "NAIA",
-        "elo": 1373,
-        "location": "27.83794368879541, -81.53348173209628",
-        "eligible": "0",
-        "twitter": "@WebberAthletics",
-        "color": ""
-    },
-    {
-        "short_name": "Wells",
-        "full_name": "Wells College",
-        "division": "D-III",
-        "mascot": "Express",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "42.74657777700596, -76.69624086746354",
-        "eligible": "0",
-        "twitter": "@WellsExpress",
-        "color": "#b31b34"
-    },
-    {
-        "short_name": "Westcliff",
-        "full_name": "Westcliff University",
-        "division": "NAIA",
-        "mascot": "Warriors",
-        "conference": "NAIA",
-        "elo": 1373,
-        "location": "33.79535549977899, -117.76684789770304",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "Widener",
-        "full_name": "Widener University",
-        "division": "D-III",
-        "mascot": "Pride",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "39.86591052264735, -75.35187384013149",
-        "eligible": "0",
-        "twitter": "@WidenerMVB",
-        "color": ""
-    },
-    {
-        "short_name": "Wilkes",
-        "full_name": "Wilkes University",
-        "division": "D-III",
-        "mascot": "Colonels",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "41.2423605095444, -75.890487664037",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "Wilson",
-        "full_name": "Wilson College (PA)",
-        "division": "D-III",
-        "mascot": "Phoenix",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "39.953606035662204, -77.6499938604079",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "WIT",
-        "full_name": "Wentworth Institute of Technology",
-        "division": "D-III",
-        "mascot": "Leopards",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "42.33551821175901, -71.094890253902",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "Wittenberg",
-        "full_name": "Wittenberg University",
-        "division": "D-III",
-        "mascot": "Tigers",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "39.937405829559225, -83.81388113557702",
-        "eligible": "0",
-        "twitter": "@WittAthletics",
-        "color": "#990000"
-    },
-    {
-        "short_name": "WLC",
-        "full_name": "Wisconsin Lutheran College",
-        "division": "D-III",
-        "mascot": "Warriors",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "43.03772451134177, -88.02170450400425",
-        "eligible": "0",
-        "twitter": "",
-        "color": ""
-    },
-    {
-        "short_name": "WPU",
-        "full_name": "William Penn University (Iowa)",
-        "division": "NAIA",
-        "mascot": "Statesmen",
-        "conference": "NAIA",
-        "elo": 1373,
-        "location": "41.309247172572135, -92.64891268395098",
-        "eligible": "0",
-        "twitter": "@StatesmenMVB",
-        "color": ""
-    },
-    {
-        "short_name": "Xavier",
-        "full_name": "Saint Xavier University",
-        "division": "NAIA",
-        "mascot": "Cougars",
-        "conference": "NAIA",
-        "elo": 1373,
-        "location": "41.70695344950264, -87.71614398729923",
-        "eligible": "0",
-        "twitter": "@SXUmensvball",
-        "color": ""
-    },
-    {
-        "short_name": "Yeshiva",
-        "full_name": "Yeshiva University",
-        "division": "D-III",
-        "mascot": "Maccabees",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "40.85009572301855, -73.92863738341114",
-        "eligible": "0",
-        "twitter": "@YUathletics",
-        "color": "#005696"
-    },
-    {
-        "short_name": "York",
-        "full_name": "York College",
-        "division": "D-III",
-        "mascot": "Cardinals",
-        "conference": "D-III",
-        "elo": 1419,
-        "location": "40.70067378876929, -73.79500755814429",
-        "eligible": "0",
-        "twitter": "@YCPathletics",
-        "color": "#00853e"
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     },
     {
         "short_name": "Rock Hill",
@@ -2565,6 +2424,834 @@
         "location": "34.93210624429934, -81.02943811057543",
         "eligible": "0",
         "twitter": "",
-        "color": ""
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Rockford",
+        "full_name": "Rockford University",
+        "division": "D-III",
+        "mascot": "Regents",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "42.269156247760925, -89.02165338002247",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Rosemont",
+        "full_name": "Rosemont College",
+        "division": "D-III",
+        "mascot": "Ravens",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "40.033736490844156, -75.33160520871527",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Rutgers",
+        "full_name": "Rutgers University\u00e2\u20ac\u201cNewark",
+        "division": "D-III",
+        "mascot": "Scarlet Raiders",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "40.73916807034423, -74.17387951111192",
+        "eligible": "0",
+        "twitter": "@ScarletRaiders",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Sacred",
+        "full_name": "Sacred Heart University",
+        "division": "D-I",
+        "mascot": "Pioneers",
+        "conference": "NEC",
+        "elo": 1472.4500881097965,
+        "location": "41.21960639882194, -73.24464177304239",
+        "eligible": "1",
+        "twitter": "@SHUBigRed",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Sage",
+        "full_name": "The Sage Colleges",
+        "division": "D-III",
+        "mascot": "Gators",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "42.65142294260737, -73.78257340262616",
+        "eligible": "0",
+        "twitter": "@sagemvb",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Saint Vincent",
+        "full_name": "Saint Vincent College",
+        "division": "D-III",
+        "mascot": "Bearcats",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "40.29242584013322, -79.40378787664432",
+        "eligible": "0",
+        "twitter": "@SVC_Bearcats",
+        "color": "#1e5632",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Sarah",
+        "full_name": "Sarah Lawrence College",
+        "division": "D-III",
+        "mascot": "Gryphons",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "40.9321611226302, -73.84734653537407",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "SFCB",
+        "full_name": "St. Francis College (Brooklyn)",
+        "division": "D-I",
+        "mascot": "Terriers",
+        "conference": "NEC",
+        "elo": 1511.1419195580286,
+        "location": "40.69327473082102, -73.99260250884957",
+        "eligible": "1",
+        "twitter": "@SFBKMVB",
+        "color": "#0038a8",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "SFU",
+        "full_name": "Saint Francis University (PA)",
+        "division": "D-I",
+        "mascot": "Red Flash",
+        "conference": "NEC",
+        "elo": 1600.9445216112595,
+        "location": "40.50452259480198, -78.64110417305858",
+        "eligible": "1",
+        "twitter": "@RedFlashMVB",
+        "color": "#bd1f25",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "SJC Brooklyn",
+        "full_name": "St. Joseph's College-Brooklyn",
+        "division": "D-III",
+        "mascot": "Bears",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "40.690994511103455, -73.9696828545863",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "SJC Long Island",
+        "full_name": "St. Joseph's College-Long Island",
+        "division": "D-III",
+        "mascot": "Golden Eagles",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "40.7764487093655, -73.0263200930275",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Springfield",
+        "full_name": "Springfield College (MA)",
+        "division": "D-III",
+        "mascot": "Pride",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "42.10483126433112, -72.55557081090733",
+        "eligible": "0",
+        "twitter": "@SpfldCol_MVB",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "St Andrews",
+        "full_name": "St. Andrews University",
+        "division": "NAIA",
+        "mascot": "Knights",
+        "conference": "NAIA",
+        "elo": 1373,
+        "location": "34.745921130860445, -79.47888492926597",
+        "eligible": "0",
+        "twitter": "@SAUKnights",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Stanford",
+        "full_name": "Stanford University",
+        "division": "D-I",
+        "mascot": "Cardinal",
+        "conference": "MPSF",
+        "elo": 1608.1735176458735,
+        "location": "37.42962789960126, -122.16063330196073",
+        "eligible": "1",
+        "twitter": "@StanfordMVB",
+        "color": "#8c1515",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Stevens",
+        "full_name": "Stevens Institute of Technology",
+        "division": "D-III",
+        "mascot": "Ducks",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "40.74330688729092, -74.02580511631534",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Stevenson",
+        "full_name": "Stevenson University",
+        "division": "D-III",
+        "mascot": "Mustangs",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "39.427623235478656, -76.77926613430805",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "SUNY New Paltz",
+        "full_name": "State University of New York at New Paltz",
+        "division": "D-III",
+        "mascot": "Hawks",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "41.739840548230994, -74.08651471281539",
+        "eligible": "0",
+        "twitter": "@nphawks",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "SUNY Poly",
+        "full_name": "State University of New York Polytechnic Institute",
+        "division": "D-III",
+        "mascot": "Wildcats",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "43.137836223361504, -75.22973236333709",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "SUNY Potsdam",
+        "full_name": "State University of New York at Potsdam",
+        "division": "D-III",
+        "mascot": "Bears",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "44.660676196882086, -74.96712355234018",
+        "eligible": "0",
+        "twitter": "@PotsdamBears",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "SUNY Purchase",
+        "full_name": "State University of New York at Purchase",
+        "division": "D-III",
+        "mascot": "Panthers",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "41.05010343783726, -73.69852253602835",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "SVU",
+        "full_name": "Southern Virginia University",
+        "division": "D-III",
+        "mascot": "Knights",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "37.74147880883873, -79.34995625019081",
+        "eligible": "0",
+        "twitter": "@svuathletics",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Thiel",
+        "full_name": "Thiel College",
+        "division": "D-III",
+        "mascot": "Tomcats",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "41.411953215542255, -80.38403895686261",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Thomas More",
+        "full_name": "Thomas More University",
+        "division": "NAIA",
+        "mascot": "Saints",
+        "conference": "NAIA",
+        "elo": 1373,
+        "location": "39.0210397287091, -84.56872684972652",
+        "eligible": "0",
+        "twitter": "@tmusaints",
+        "color": "#00549f",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Trine",
+        "full_name": "Trine University",
+        "division": "D-III",
+        "mascot": "Thunder",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "41.63098230268178, -85.01231909201103",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Truett",
+        "full_name": "Truett-McConnell Univeristy",
+        "division": "NAIA",
+        "mascot": "Bears",
+        "conference": "NAIA",
+        "elo": 1373,
+        "location": "34.59660840107576, -83.75065653236048",
+        "eligible": "0",
+        "twitter": "@TMUBears",
+        "color": "#002a46",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Tusculum",
+        "full_name": "Tusculum University",
+        "division": "D-II",
+        "mascot": "Pioneers",
+        "conference": "Independent",
+        "elo": 1472.3736943628405,
+        "location": "36.172235784169594, -82.76122001547911",
+        "eligible": "1",
+        "twitter": "@TusculumMVB",
+        "color": "#ec6633",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "UCI",
+        "full_name": "UC Irvine",
+        "division": "D-I",
+        "mascot": "Anteaters",
+        "conference": "Big West",
+        "elo": 1586.7058504377183,
+        "location": "33.649529179071855, -117.84676229463538",
+        "eligible": "1",
+        "twitter": "@UCImvb",
+        "color": "#002144",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "UCLA",
+        "full_name": "UCLA",
+        "division": "D-I",
+        "mascot": "Bruins",
+        "conference": "MPSF",
+        "elo": 1818.904960258744,
+        "location": "34.070368942308, -118.44692940202692",
+        "eligible": "1",
+        "twitter": "@UCLAMVB",
+        "color": "#2d68c4",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "UCSB",
+        "full_name": "UC Santa Barbara",
+        "division": "D-I",
+        "mascot": "Gauchos",
+        "conference": "Big West",
+        "elo": 1773.8805961401415,
+        "location": "34.413774241887246, -119.85124827968606",
+        "eligible": "1",
+        "twitter": "@GauchoVball",
+        "color": "#223168",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "UCSC",
+        "full_name": "UC Santa Cruz",
+        "division": "D-III",
+        "mascot": "Banana Slugs",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "36.96823924339548, -122.02312311628842",
+        "eligible": "0",
+        "twitter": "@ucsc_mvb",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "UCSD",
+        "full_name": "UC San Diego",
+        "division": "D-I",
+        "mascot": "Tritons",
+        "conference": "Big West",
+        "elo": 1643.8705169839666,
+        "location": "32.88532910021645, -117.23989557321309",
+        "eligible": "1",
+        "twitter": "@UCSDmvb",
+        "color": "#182b49",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "UHSP",
+        "full_name": "University of Health Sciences & Pharmacy",
+        "division": "NAIA",
+        "mascot": "Eutectics",
+        "conference": "NAIA",
+        "elo": 1373,
+        "location": "38.63693302044206, -90.26244371434896",
+        "eligible": "0",
+        "twitter": "@UHSPEutectics",
+        "color": "#46166b",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "UPRB",
+        "full_name": "University of Puerto Rico at Bayamon",
+        "division": "D-II",
+        "mascot": "Cowboys",
+        "conference": "Independent",
+        "elo": 1500.0,
+        "location": "18.37183760427692, -66.14289026456974",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "UPRM",
+        "full_name": "University of Puerto Rico at Mayaguez",
+        "division": "D-II",
+        "mascot": "Tarzans",
+        "conference": "Independent",
+        "elo": 1500.0,
+        "location": "18.210830405627053, -67.14090943786569",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "UPRRP",
+        "full_name": "University of Puerto Rico, Rio Piedras",
+        "division": "D-II",
+        "mascot": "Gallitos",
+        "conference": "Independent",
+        "elo": 1491.0,
+        "location": "18.40278872714375, -66.05006215991594",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Urbana",
+        "full_name": "Urbana University",
+        "division": "D-II",
+        "mascot": "Blue Knights",
+        "conference": "Independent",
+        "elo": 1423.5,
+        "location": "40.09973848144935, -83.76003001311695",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "USC",
+        "full_name": "University of Southern California",
+        "division": "D-I",
+        "mascot": "Trojans",
+        "conference": "MPSF",
+        "elo": 1713.451884177185,
+        "location": "34.02083077304503, -118.27970057319217",
+        "eligible": "1",
+        "twitter": "@USCmensvolley",
+        "color": "#9d2235",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Valley Forge",
+        "full_name": "University of Valley Forge",
+        "division": "D-III",
+        "mascot": "Patriots",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "40.1181690516284, -75.550581063398",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Vanguard",
+        "full_name": "Vanguard University",
+        "division": "NAIA",
+        "mascot": "Lions",
+        "conference": "NAIA",
+        "elo": 1373,
+        "location": "33.66149843172471, -117.90297950960634",
+        "eligible": "0",
+        "twitter": "@VULions",
+        "color": "#003767",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Vassar",
+        "full_name": "Vassar College",
+        "division": "D-III",
+        "mascot": "Brewers",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "41.689951645290634, -73.89088724998996",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Wabash",
+        "full_name": "Wabash College",
+        "division": "D-III",
+        "mascot": "Little Giants",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "40.03704910749767, -86.90791218910711",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Warner",
+        "full_name": "Warner University",
+        "division": "NAIA",
+        "mascot": "Royals",
+        "conference": "NAIA",
+        "elo": 1373,
+        "location": "27.851729076947557, -81.5991506273334",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Webber",
+        "full_name": "Webber International University",
+        "division": "NAIA",
+        "mascot": "Warriors",
+        "conference": "NAIA",
+        "elo": 1373,
+        "location": "27.83794368879541, -81.53348173209628",
+        "eligible": "0",
+        "twitter": "@WebberAthletics",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Wells",
+        "full_name": "Wells College",
+        "division": "D-III",
+        "mascot": "Express",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "42.74657777700596, -76.69624086746354",
+        "eligible": "0",
+        "twitter": "@WellsExpress",
+        "color": "#b31b34",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Westcliff",
+        "full_name": "Westcliff University",
+        "division": "NAIA",
+        "mascot": "Warriors",
+        "conference": "NAIA",
+        "elo": 1373,
+        "location": "33.79535549977899, -117.76684789770304",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Widener",
+        "full_name": "Widener University",
+        "division": "D-III",
+        "mascot": "Pride",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "39.86591052264735, -75.35187384013149",
+        "eligible": "0",
+        "twitter": "@WidenerMVB",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Wilkes",
+        "full_name": "Wilkes University",
+        "division": "D-III",
+        "mascot": "Colonels",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "41.2423605095444, -75.890487664037",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Wilson",
+        "full_name": "Wilson College (PA)",
+        "division": "D-III",
+        "mascot": "Phoenix",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "39.953606035662204, -77.6499938604079",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "WIT",
+        "full_name": "Wentworth Institute of Technology",
+        "division": "D-III",
+        "mascot": "Leopards",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "42.33551821175901, -71.094890253902",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Wittenberg",
+        "full_name": "Wittenberg University",
+        "division": "D-III",
+        "mascot": "Tigers",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "39.937405829559225, -83.81388113557702",
+        "eligible": "0",
+        "twitter": "@WittAthletics",
+        "color": "#990000",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "WLC",
+        "full_name": "Wisconsin Lutheran College",
+        "division": "D-III",
+        "mascot": "Warriors",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "43.03772451134177, -88.02170450400425",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "WPU",
+        "full_name": "William Penn University (Iowa)",
+        "division": "NAIA",
+        "mascot": "Statesmen",
+        "conference": "NAIA",
+        "elo": 1373,
+        "location": "41.309247172572135, -92.64891268395098",
+        "eligible": "0",
+        "twitter": "@StatesmenMVB",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Xavier",
+        "full_name": "Saint Xavier University",
+        "division": "NAIA",
+        "mascot": "Cougars",
+        "conference": "NAIA",
+        "elo": 1373,
+        "location": "41.70695344950264, -87.71614398729923",
+        "eligible": "0",
+        "twitter": "@SXUmensvball",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "Yeshiva",
+        "full_name": "Yeshiva University",
+        "division": "D-III",
+        "mascot": "Maccabees",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "40.85009572301855, -73.92863738341114",
+        "eligible": "0",
+        "twitter": "@YUathletics",
+        "color": "#005696",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "York",
+        "full_name": "York College",
+        "division": "D-III",
+        "mascot": "Cardinals",
+        "conference": "D-III",
+        "elo": 1419,
+        "location": "40.70067378876929, -73.79500755814429",
+        "eligible": "0",
+        "twitter": "@YCPathletics",
+        "color": "#00853e",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
     }
 ]
