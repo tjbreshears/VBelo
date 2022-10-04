@@ -44,11 +44,18 @@ def eloRating(game,K,t,current_season):
     else:
         last_date = game['date'].split(' ',1)[0]
 
-# Reverts elo to mean by 1/4 for new season
+# Between season reversion
+# First team's elo is reduced by a max of 20% by accounting for attrition
+# Second all teams revert to the mean by 1/4
     if game['season'] != current_season:
         current_season = game['season']
+        ret_year = "ret_" + current_season
         for i in range(len(teams)):
+            max_loss = float(teams[i]['elo']) * 0.2
+            actual_loss = max_loss * (1.0-float(teams[i][ret_year]))
+            teams[i]['elo'] = teams[i]['elo'] - actual_loss
             teams[i]['elo'] = int(teams[i]['elo'])-((int(teams[i]['elo'])-1500)/4)
+
 # Sets elo for new teams for their first season
         if current_season == '2022':
             for i in range(len(teams)):
@@ -180,7 +187,7 @@ def export_games (games):
         writer.writerows(games)
 
 def export_teams (teams):
-    field_names = ['short_name','full_name','division','mascot','conference','elo','location','eligible','twitter','color']
+    field_names = ['short_name','full_name','division','mascot','conference','elo','location','eligible','twitter','color','ret_2023','ret_2022','ret_2021']
     with open('outputs/teams_output.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames = field_names)
         writer.writeheader()
