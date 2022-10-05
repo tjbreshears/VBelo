@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import json
 
 teams = []
-with open("inputs/VBelo - teams - 2022.csv", 'r') as data:
+with open("inputs/static/VBelo - teamstats_2022.csv", 'r') as data:
     for line in csv.DictReader(data):
         teams.append(line)
     for i in range(len(teams)):
@@ -118,7 +118,7 @@ def season_stats (year):
 
 def export_teams_season (teams):
     field_names = ['short_name','full_name','division','conference','elo','games','wins','losses','win_pct','conf_wins','conf_losses','conf_pct','home_wins','home_losses','home_pct','away_wins','away_losses','away_pct','sets_won','sets_lost','set_diff','points_won','points_lost','point_diff','soo','sos','cinco_wins','cinco_losses','cinco_pct','points_game','points_set']
-    with open('outputs/teams_output_2022.csv', 'w', newline='') as csvfile:
+    with open('outputs/teamstats_output_2022.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames = field_names)
         writer.writeheader()
         writer.writerows(teams)
