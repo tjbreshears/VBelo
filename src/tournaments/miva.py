@@ -11,7 +11,7 @@ for i in range(len(teams)):
     teams[i]['elo'] = float(teams[i]['elo'])
 
 games = []
-with open("inputs/Tournaments - MIVA.csv", 'r') as data:
+with open("inputs/Tournaments/Tournaments - MIVA.csv", 'r') as data:
     for line in csv.DictReader(data):
         games.append(line)
 

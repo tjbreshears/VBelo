@@ -11,7 +11,7 @@ for i in range(len(teams)):
     teams[i]['elo'] = float(teams[i]['elo'])
 
 games = []
-with open("inputs/Tournaments - National.csv", 'r') as data:
+with open("inputs/Tournaments/Tournaments - National.csv", 'r') as data:
     for line in csv.DictReader(data):
         games.append(line)
 
@@ -234,7 +234,7 @@ def post_season (K,t):
         eloRating(games[i],K,t)
 
 
-def monte_carlo (sims):
+def national (sims):
     for i in range(sims):
         post_season(30,-1)
 
@@ -274,4 +274,4 @@ def monte_carlo (sims):
     print(f"{seed7} (7): {seed7_first_p}, {seed7_semis_p}, {seed7_finals_p}, {seed7_win_p}")
 
 
-monte_carlo(50000)
+national(50000)
