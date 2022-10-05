@@ -16,11 +16,11 @@ for i in range(len(teams)):
 
 not_tracked = ['D-III','NAIA','NCCAA','n/a']
 
-start_data = {'Conference':['Big West','Carolinas','EIVA','Independent','MIVA','MPSF','SIAC'],
-'Non-Conf Matches':[0,0,0,0,0,0,0],'Non-Conf Wins':[0,0,0,0,0,0,0],'Non-Conf Losses':[0,0,0,0,0,0,0],
-'Non-Conf Home Matches':[0,0,0,0,0,0,0],'Non-Conf Home Wins':[0,0,0,0,0,0,0],'Non-Conf Home Losses':[0,0,0,0,0,0,0],
-'Non-Conf Away Matches':[0,0,0,0,0,0,0],'Non-Conf Away Wins':[0,0,0,0,0,0,0],'Non-Conf Away Losses':[0,0,0,0,0,0,0],
-'Non-Conf Neutral Matches':[0,0,0,0,0,0,0],'Non-Conf Neutral Wins':[0,0,0,0,0,0,0],'Non-Conf Neutral Losses':[0,0,0,0,0,0,0],
+start_data = {'Conference':['Big West','Carolinas','EIVA','Independent','MIVA','MPSF','NEC','SIAC'],
+'Non-Conf Matches':[0,0,0,0,0,0,0,0],'Non-Conf Wins':[0,0,0,0,0,0,0,0],'Non-Conf Losses':[0,0,0,0,0,0,0,0],
+'Non-Conf Home Matches':[0,0,0,0,0,0,0,0],'Non-Conf Home Wins':[0,0,0,0,0,0,0,0],'Non-Conf Home Losses':[0,0,0,0,0,0,0,0],
+'Non-Conf Away Matches':[0,0,0,0,0,0,0,0],'Non-Conf Away Wins':[0,0,0,0,0,0,0,0],'Non-Conf Away Losses':[0,0,0,0,0,0,0,0],
+'Non-Conf Neutral Matches':[0,0,0,0,0,0,0,0],'Non-Conf Neutral Wins':[0,0,0,0,0,0,0,0],'Non-Conf Neutral Losses':[0,0,0,0,0,0,0,0],
 }
 
 df = pd.DataFrame(start_data)
