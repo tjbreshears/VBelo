@@ -1,8 +1,9 @@
-conference,Big West,Carolinas,EIVA,Independent,MIVA,MPSF,SIAC
-Big West,0,1,7,10,9,22,2
-Carolinas,0,0,2,20,0,0,13
-EIVA,4,3,0,23,6,4,4
-Independent,0,23,4,0,5,0,16
-MIVA,2,7,13,14,0,5,5
-MPSF,21,5,9,3,9,0,2
-SIAC,0,2,0,3,0,0,0
+conference,Big West,Carolinas,EIVA,Independent,MIVA,MPSF,NEC,SIAC
+Big West,0,2,7,4,10,23,6,2
+Carolinas,0,0,3,18,0,0,2,13
+EIVA,4,3,0,3,4,4,34,3
+Independent,0,23,1,0,5,0,7,12
+MIVA,2,7,7,12,0,5,8,5
+MPSF,21,5,9,2,9,0,1,2
+NEC,0,0,9,17,2,0,0,5
+SIAC,0,2,0,2,0,0,1,0

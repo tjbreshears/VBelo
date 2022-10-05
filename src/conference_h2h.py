@@ -6,7 +6,7 @@ with open("outputs/games_output.csv", 'r') as data:
         games.append(line)
 
 h2h = []
-with open("inputs/VBelo - conference_h2h.csv", 'r') as data:
+with open("inputs/static/VBelo - conference_h2h.csv", 'r') as data:
     for line in csv.DictReader(data):
         h2h.append(line)
 
@@ -30,7 +30,6 @@ def ooc (year):
                 if games[i]['t2'] == teams[x]['short_name']:
                     t2_c = teams[x]['conference']
             if t1_c not in not_tracked and t2_c not in not_tracked and t1_c != t2_c:
-#                print(t1_c,t2_c)
                 for y in range(len(h2h)):
                     if games[i]['r_t1'] == '1' and h2h[y]['conference'] == t1_c:
                         h2h[y][t2_c] = int(h2h[y][t2_c]) + 1
@@ -38,11 +37,11 @@ def ooc (year):
                         h2h[y][t1_c] = int(h2h[y][t1_c]) + 1
 
 def export_h2h (h2h):
-    field_names = ['conference','Big West','Carolinas','EIVA','Independent','MIVA','MPSF','SIAC']
+    field_names = ['conference','Big West','Carolinas','EIVA','Independent','MIVA','MPSF','NEC','SIAC']
     with open('outputs/h2h.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames = field_names)
         writer.writeheader()
         writer.writerows(h2h)
 
-ooc('2022')
+ooc('2023')
 export_h2h(h2h)
