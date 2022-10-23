@@ -990,21 +990,6 @@
         "ret_2021": "1"
     },
     {
-        "short_name": "Greenville",
-        "full_name": "North Greenville University",
-        "division": "D-II",
-        "mascot": "Crusaders",
-        "conference": "Carolinas",
-        "elo": 1708.5,
-        "location": "35.069533766249734, -82.37309708210283",
-        "eligible": "1",
-        "twitter": "@NGU_MVB",
-        "color": "#c00000",
-        "ret_2023": "1",
-        "ret_2022": "1",
-        "ret_2021": "1"
-    },
-    {
         "short_name": "Harvard",
         "full_name": "Harvard University",
         "division": "D-I",
@@ -1290,6 +1275,21 @@
         "ret_2021": "1"
     },
     {
+        "short_name": "KWU",
+        "full_name": "Kansas Wesleyan University",
+        "division": "NAIA",
+        "mascot": "Coyotes",
+        "conference": "NAIA",
+        "elo": 1373,
+        "location": "38.813877558519415, -97.60763589783369",
+        "eligible": "0",
+        "twitter": "@kwucoyotes",
+        "color": "#632388",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
         "short_name": "Lakeland",
         "full_name": "Lakeland University",
         "division": "D-III",
@@ -1478,8 +1478,8 @@
         "elo": 1548.0,
         "location": "40.69062486571616, -73.979257542518",
         "eligible": "1",
-        "twitter": "@LIUAthletics",
-        "color": "",
+        "twitter": "@LIUMVolleyball",
+        "color": "#ffc72c",
         "ret_2023": "1",
         "ret_2022": "1",
         "ret_2021": "1"
@@ -1945,6 +1945,21 @@
         "eligible": "0",
         "twitter": "",
         "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
+        "short_name": "NGU",
+        "full_name": "North Greenville University",
+        "division": "D-II",
+        "mascot": "Crusaders",
+        "conference": "Carolinas",
+        "elo": 1708.5,
+        "location": "35.069533766249734, -82.37309708210283",
+        "eligible": "1",
+        "twitter": "@NGU_MVB",
+        "color": "#c00000",
         "ret_2023": "1",
         "ret_2022": "1",
         "ret_2021": "1"

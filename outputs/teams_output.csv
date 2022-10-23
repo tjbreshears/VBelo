@@ -65,7 +65,6 @@ Georgetown,Georgetown College (KY),NAIA,Tigers,NAIA,1373,"38.2075905437859, -84.
 GMU,George Mason University,D-I,Patriots,EIVA,1595.25,"38.83065978140495, -77.3124337809112",1,@GoMasonMVB,#006938,1,1,1
 Graceland,Graceland University,NAIA,Yellowjackets,NAIA,1373,"40.61455111800166, -93.9265999300875",0,@GUjackets,#00275c,1,1,1
 Grand View,Grand View University,NAIA,Vikings,NAIA,1373,"41.61980219082709, -93.59806643803012",0,@VikingAthletics,,1,1,1
-Greenville,North Greenville University,D-II,Crusaders,Carolinas,1708.5,"35.069533766249734, -82.37309708210283",1,@NGU_MVB,#c00000,1,1,1
 Harvard,Harvard University,D-I,Crimson,EIVA,1590.75,"42.37135182238967, -71.11941108239166",1,@HarvardMVB,#a31f36,1,1,1
 Hawaii,University of Hawai'i at Manoa,D-I,Rainbow Warriors,Big West,1819.5,"21.294609859692425, -157.8183992624992",1,@HawaiiMensVB,#005837,1,1,1
 Hilbert,Hilbert College,D-III,Hawks,D-III,1419,"42.75407223484585, -78.81970205433396",0,@HilbertAthletic,,1,1,1
@@ -85,6 +84,7 @@ Kean,Kean University,D-III,Cougars,D-III,1419,"40.68045714398456, -74.2375432295
 King,King University,D-II,Tornados,Carolinas,1643.25,"36.585282826029015, -82.15931172711392",1,@TornadoMVB,#cf102d,1,1,1
 Kings,King's College,D-III,Monarchs,D-III,1419,"41.249174900875346, -75.87696569302454",0,@KingsMonarchs,,1,1,1
 KSU,Kentucky State University,D-II,Thorobreds,SIAC,1346.25,"38.20016245445245, -84.86007930194451",1,@KYSUAthletics,,1,1,1
+KWU,Kansas Wesleyan University,NAIA,Coyotes,NAIA,1373,"38.813877558519415, -97.60763589783369",0,@kwucoyotes,#632388,1,1,1
 Lakeland,Lakeland University,D-III,Muskies,D-III,1419,"43.843452277396864, -87.88577772880265",0,,,1,1,1
 Lancaster,Lancaster Bible College,D-III,Chargers,D-III,1419,"40.07544941311759, -76.28914618292605",0,@LBCathletics,,1,1,1
 Lasell,Lasell University,D-III,Lasers,D-III,1419,"42.34259730667481, -71.24342225858211",0,,,1,1,1
@@ -97,7 +97,7 @@ Life,Life University,NAIA,Running Eagles,NAIA,1373,"33.931020655187076, -84.5172
 Limestone,Limestone University,D-II,Saints,Independent,1596.75,"35.0550147456207, -81.65177833084384",1,@LimestoneMVB,#0038a5,1,1,1
 Lincoln,Lincoln College,NAIA,Lynx,NAIA,1373,"40.15727080993323, -89.36035218954572",0,@LincolnLynxMVB,#712E91,1,1,1
 Lindenwood,Lindenwood University,D-I,Lions,MIVA,1539.75,"38.78885569308603, -90.50402535960333",1,@lindenwoodMVB,#dcd087,1,1,1
-LIU,Long Island University,D-I,Sharks,NEC,1548.0,"40.69062486571616, -73.979257542518",1,@LIUAthletics,,1,1,1
+LIU,Long Island University,D-I,Sharks,NEC,1548.0,"40.69062486571616, -73.979257542518",1,@LIUMVolleyball,#ffc72c,1,1,1
 LMU,Lincoln Memorial University,D-II,Railsplitters,Independent,1709.25,"36.58069456454686, -83.6625514731423",1,@SplittersMensVB,#002461,1,1,1
 Loras,Loras College,D-III,Duhawks,D-III,1419,"42.504879804777005, -90.67847969314923",0,,,1,1,1
 Lourdes,Lourdes University,NAIA,Grey Wolves,NAIA,1373,"41.7080917959541, -83.70556847058288",0,,,1,1,1
@@ -129,6 +129,7 @@ MVC,Missouri Valley College,NAIA,Vikings,NAIA,1373,"39.10850085848182, -93.18987
 MVNU,Mount Vernon Nazarene University,NAIA,Cougars,NAIA,1373,"40.37266012753464, -82.46830521946504",0,@mvnumvball,,1,1,1
 Nazareth,Nazareth College (NY),D-III,Golden Flyers,D-III,1419,"43.101628145741294, -77.51857696231474",0,@NazAthletics,,1,1,1
 Neumann,Neumann University,D-III,Knights,D-III,1419,"39.87521060111818, -75.4428721669722",0,,,1,1,1
+NGU,North Greenville University,D-II,Crusaders,Carolinas,1708.5,"35.069533766249734, -82.37309708210283",1,@NGU_MVB,#c00000,1,1,1
 Nichols,Nichols College,D-III,Bison,D-III,1419,"42.04241879910383, -71.92939413800686",0,@ncbison,,1,1,1
 NJCU,New Jersey City University,D-III,Gothic Knights,D-III,1419,"40.7127279879083, -74.08873883959045",0,,,1,1,1
 NJIT,New Jersey Institute of Technology,D-I,Highlanders,EIVA,1644.0,"40.74226308492056, -74.1804250697891",1,@njitMVB,#d9232e,1,1,1
