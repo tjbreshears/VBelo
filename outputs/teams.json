@@ -90,6 +90,21 @@
         "ret_2021": "1"
     },
     {
+        "short_name": "Atlantic City",
+        "full_name": "Harrah's - Atlantic City",
+        "division": "n/a",
+        "mascot": "n/a",
+        "conference": "n/a",
+        "elo": 1500.0,
+        "location": "39.38521816948826, -74.43085192968793",
+        "eligible": "0",
+        "twitter": "",
+        "color": "",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
         "short_name": "Augustana",
         "full_name": "Augustana College (IL)",
         "division": "D-III",
