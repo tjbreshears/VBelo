@@ -1,7 +1,7 @@
 [
     {
         "short_name": "Adrian",
-        "full_name": "Adrian College",
+        "full_name": "Adrian",
         "division": "D-III",
         "mascot": "Bulldogs",
         "conference": "D-III",
@@ -16,7 +16,7 @@
     },
     {
         "short_name": "Alderson",
-        "full_name": "Alderson Broaddus University",
+        "full_name": "Alderson Broaddus",
         "division": "D-II",
         "mascot": "Battlers",
         "conference": "Independent",
@@ -31,7 +31,7 @@
     },
     {
         "short_name": "Alvernia",
-        "full_name": "Alvernia University",
+        "full_name": "Alvernia",
         "division": "D-III",
         "mascot": "Crusaders",
         "conference": "D-III",
@@ -46,7 +46,7 @@
     },
     {
         "short_name": "Ambrose",
-        "full_name": "Saint Ambrose University (Iowa)",
+        "full_name": "Saint Ambrose-Iowa",
         "division": "NAIA",
         "mascot": "Fighting Bees",
         "conference": "NAIA",
@@ -61,7 +61,7 @@
     },
     {
         "short_name": "American",
-        "full_name": "American International College",
+        "full_name": "American International",
         "division": "D-II",
         "mascot": "Yellow Jackets",
         "conference": "Independent",
@@ -76,7 +76,7 @@
     },
     {
         "short_name": "Arcadia",
-        "full_name": "Arcadia University",
+        "full_name": "Arcadia",
         "division": "D-III",
         "mascot": "Knights",
         "conference": "D-III",
@@ -91,7 +91,7 @@
     },
     {
         "short_name": "Atlantic City",
-        "full_name": "Harrah's - Atlantic City",
+        "full_name": "Harrah's Atlantic City",
         "division": "n/a",
         "mascot": "n/a",
         "conference": "n/a",
@@ -106,7 +106,7 @@
     },
     {
         "short_name": "Augustana",
-        "full_name": "Augustana College (IL)",
+        "full_name": "Augustana-IL",
         "division": "D-III",
         "mascot": "Vikings",
         "conference": "D-III",
@@ -121,7 +121,7 @@
     },
     {
         "short_name": "Aurora",
-        "full_name": "Aurora University",
+        "full_name": "Aurora",
         "division": "D-III",
         "mascot": "Spartans",
         "conference": "D-III",
@@ -136,7 +136,7 @@
     },
     {
         "short_name": "Baldwin",
-        "full_name": "Baldwin Wallace University",
+        "full_name": "Baldwin Wallace",
         "division": "D-III",
         "mascot": "Yellow Jackets",
         "conference": "D-III",
@@ -151,7 +151,7 @@
     },
     {
         "short_name": "Ball",
-        "full_name": "Ball State University",
+        "full_name": "Ball State",
         "division": "D-I",
         "mascot": "Cardinals",
         "conference": "MIVA",
@@ -166,7 +166,7 @@
     },
     {
         "short_name": "Bard",
-        "full_name": "Bard College",
+        "full_name": "Bard",
         "division": "D-III",
         "mascot": "Raptors",
         "conference": "D-III",
@@ -181,7 +181,7 @@
     },
     {
         "short_name": "Barton",
-        "full_name": "Barton College",
+        "full_name": "Barton",
         "division": "D-II",
         "mascot": "Bulldogs",
         "conference": "Carolinas",
@@ -196,7 +196,7 @@
     },
     {
         "short_name": "Baruch",
-        "full_name": "Baruch College",
+        "full_name": "Baruch",
         "division": "D-III",
         "mascot": "Bearcats",
         "conference": "D-III",
@@ -211,7 +211,7 @@
     },
     {
         "short_name": "Belmont",
-        "full_name": "Belmont Abbey College",
+        "full_name": "Belmont Abbey",
         "division": "D-II",
         "mascot": "Crusaders",
         "conference": "Carolinas",
@@ -226,7 +226,7 @@
     },
     {
         "short_name": "Benedict",
-        "full_name": "Benedict College",
+        "full_name": "Benedict",
         "division": "D-II",
         "mascot": "Tigers",
         "conference": "SIAC",
@@ -241,7 +241,7 @@
     },
     {
         "short_name": "Benedictine",
-        "full_name": "Benedictine University",
+        "full_name": "Benedictine",
         "division": "D-III",
         "mascot": "Eagles",
         "conference": "D-III",
@@ -256,7 +256,7 @@
     },
     {
         "short_name": "Bluefield",
-        "full_name": "Bluefield College",
+        "full_name": "Bluefield",
         "division": "NAIA",
         "mascot": "Rams",
         "conference": "NAIA",
@@ -271,7 +271,7 @@
     },
     {
         "short_name": "Brooklyn",
-        "full_name": "Brooklyn College",
+        "full_name": "Brooklyn",
         "division": "D-III",
         "mascot": "Bulldogs",
         "conference": "D-III",
@@ -286,7 +286,7 @@
     },
     {
         "short_name": "BYU",
-        "full_name": "Brigham Young University",
+        "full_name": "BYU",
         "division": "D-I",
         "mascot": "Cougars",
         "conference": "MPSF",
@@ -301,7 +301,7 @@
     },
     {
         "short_name": "Cairn",
-        "full_name": "Cairn University",
+        "full_name": "Cairn",
         "division": "D-III",
         "mascot": "Highlanders",
         "conference": "D-III",
@@ -316,7 +316,7 @@
     },
     {
         "short_name": "Cal Lu",
-        "full_name": "California Lutheran University",
+        "full_name": "California Lutheran",
         "division": "D-III",
         "mascot": "Kingsmen",
         "conference": "D-III",
@@ -331,7 +331,7 @@
     },
     {
         "short_name": "Campbellsville",
-        "full_name": "Campbellsville University",
+        "full_name": "Campbellsville",
         "division": "NAIA",
         "mascot": "Tigers",
         "conference": "NAIA",
@@ -346,7 +346,7 @@
     },
     {
         "short_name": "Carlow",
-        "full_name": "Carlow University",
+        "full_name": "Carlow",
         "division": "NAIA",
         "mascot": "Celtics",
         "conference": "NAIA",
@@ -361,7 +361,7 @@
     },
     {
         "short_name": "Carolina",
-        "full_name": "Carolina University",
+        "full_name": "Carolina",
         "division": "NCCAA",
         "mascot": "Bruins",
         "conference": "NCCAA",
@@ -376,7 +376,7 @@
     },
     {
         "short_name": "Carthage",
-        "full_name": "Carthage College",
+        "full_name": "Carthage",
         "division": "D-III",
         "mascot": "Red Men",
         "conference": "D-III",
@@ -406,7 +406,7 @@
     },
     {
         "short_name": "Central",
-        "full_name": "Central State University",
+        "full_name": "Central State",
         "division": "D-II",
         "mascot": "Marauders",
         "conference": "SIAC",
@@ -421,7 +421,7 @@
     },
     {
         "short_name": "Charleston",
-        "full_name": "University of Charleston",
+        "full_name": "Charleston",
         "division": "D-II",
         "mascot": "Golden Eagles",
         "conference": "EIVA",
@@ -436,7 +436,7 @@
     },
     {
         "short_name": "Coker",
-        "full_name": "Coker University",
+        "full_name": "Coker",
         "division": "D-II",
         "mascot": "Cobras",
         "conference": "Independent",
@@ -451,7 +451,7 @@
     },
     {
         "short_name": "Colby",
-        "full_name": "Colby\u00e2\u20ac\u201cSawyer College",
+        "full_name": "Colby\u00e2\u20ac\u201cSawyer",
         "division": "D-III",
         "mascot": "Chargers",
         "conference": "D-III",
@@ -466,7 +466,7 @@
     },
     {
         "short_name": "Concordia",
-        "full_name": "Concordia University Irvine",
+        "full_name": "Concordia-Irvine",
         "division": "D-II",
         "mascot": "Eagles",
         "conference": "MPSF",
@@ -481,7 +481,7 @@
     },
     {
         "short_name": "Cornerstone",
-        "full_name": "Cornerstone Univeristy",
+        "full_name": "Cornerstone",
         "division": "NAIA",
         "mascot": "Golden Eagles",
         "conference": "NAIA",
@@ -511,7 +511,7 @@
     },
     {
         "short_name": "CUC",
-        "full_name": "Concordia University Chicago",
+        "full_name": "Concordia-Chicago",
         "division": "D-III",
         "mascot": "Cougars",
         "conference": "D-III",
@@ -526,7 +526,7 @@
     },
     {
         "short_name": "Culver",
-        "full_name": "Culver\u00e2\u20ac\u201cStockton College",
+        "full_name": "Culver\u00e2\u20ac\u201cStockton",
         "division": "NAIA",
         "mascot": "Wildcats",
         "conference": "NAIA",
@@ -541,7 +541,7 @@
     },
     {
         "short_name": "Cumberland",
-        "full_name": "Cumberland University",
+        "full_name": "Cumberland",
         "division": "NAIA",
         "mascot": "Phoenix",
         "conference": "NAIA",
@@ -556,7 +556,7 @@
     },
     {
         "short_name": "CUW",
-        "full_name": "Concordia University Wisconsin",
+        "full_name": "Concordia-Wisconsin",
         "division": "D-III",
         "mascot": "Falcons",
         "conference": "D-III",
@@ -571,7 +571,7 @@
     },
     {
         "short_name": "Daemen",
-        "full_name": "Daemen College",
+        "full_name": "Daemen",
         "division": "D-II",
         "mascot": "Wildcats",
         "conference": "NEC",
@@ -586,7 +586,7 @@
     },
     {
         "short_name": "Dean",
-        "full_name": "Dean College",
+        "full_name": "Dean",
         "division": "D-III",
         "mascot": "Bulldogs",
         "conference": "D-III",
@@ -601,7 +601,7 @@
     },
     {
         "short_name": "Dominican",
-        "full_name": "Dominican University (IL)",
+        "full_name": "Dominican-IL",
         "division": "D-III",
         "mascot": "Stars",
         "conference": "D-III",
@@ -616,7 +616,7 @@
     },
     {
         "short_name": "DYouville",
-        "full_name": "D'Youville University",
+        "full_name": "D'Youville",
         "division": "D-II",
         "mascot": "Saints",
         "conference": "NEC",
@@ -631,7 +631,7 @@
     },
     {
         "short_name": "Eastern",
-        "full_name": "Eastern University",
+        "full_name": "Eastern",
         "division": "D-III",
         "mascot": "Eagles",
         "conference": "D-III",
@@ -646,7 +646,7 @@
     },
     {
         "short_name": "Edgewood",
-        "full_name": "Edgewood College",
+        "full_name": "Edgewood",
         "division": "D-III",
         "mascot": "Eagles",
         "conference": "D-III",
@@ -661,7 +661,7 @@
     },
     {
         "short_name": "Edward",
-        "full_name": "Edward Waters University",
+        "full_name": "Edward Waters",
         "division": "D-II",
         "mascot": "Tigers",
         "conference": "SIAC",
@@ -676,7 +676,7 @@
     },
     {
         "short_name": "Elizabeth",
-        "full_name": "Saint Elizabeth University",
+        "full_name": "Saint Elizabeth",
         "division": "D-III",
         "mascot": "Eagles",
         "conference": "D-III",
@@ -691,7 +691,7 @@
     },
     {
         "short_name": "Elizabethtown",
-        "full_name": "Elizabethtown College",
+        "full_name": "Elizabethtown",
         "division": "D-III",
         "mascot": "Blue Jays",
         "conference": "D-III",
@@ -706,7 +706,7 @@
     },
     {
         "short_name": "Elmira",
-        "full_name": "Elmira College",
+        "full_name": "Elmira",
         "division": "D-III",
         "mascot": "Soaring Eagles",
         "conference": "D-III",
@@ -721,7 +721,7 @@
     },
     {
         "short_name": "Elms",
-        "full_name": "College of Our Lady of the Elms",
+        "full_name": "Our Lady of the Elms",
         "division": "D-III",
         "mascot": "Blazers",
         "conference": "D-III",
@@ -736,7 +736,7 @@
     },
     {
         "short_name": "Emerson",
-        "full_name": "Emerson College",
+        "full_name": "Emerson",
         "division": "D-III",
         "mascot": "Lions",
         "conference": "D-III",
@@ -751,7 +751,7 @@
     },
     {
         "short_name": "Emmanuel",
-        "full_name": "Emmanuel College",
+        "full_name": "Emmanuel",
         "division": "D-II",
         "mascot": "Lions",
         "conference": "Carolinas",
@@ -766,7 +766,7 @@
     },
     {
         "short_name": "Emmanuel MA",
-        "full_name": "Emmanuel College (MA)",
+        "full_name": "Emmanuel-MA",
         "division": "D-III",
         "mascot": "Saints",
         "conference": "D-III",
@@ -781,7 +781,7 @@
     },
     {
         "short_name": "EMU",
-        "full_name": "Eastern Mennonite University",
+        "full_name": "Eastern Mennonite",
         "division": "D-III",
         "mascot": "Royals",
         "conference": "D-III",
@@ -796,7 +796,7 @@
     },
     {
         "short_name": "Endicott",
-        "full_name": "Endicott College",
+        "full_name": "Endicott",
         "division": "D-III",
         "mascot": "Gulls",
         "conference": "D-III",
@@ -811,7 +811,7 @@
     },
     {
         "short_name": "ENU",
-        "full_name": "Eastern Nazarene College",
+        "full_name": "Eastern Nazarene",
         "division": "D-III",
         "mascot": "Lions",
         "conference": "D-III",
@@ -826,7 +826,7 @@
     },
     {
         "short_name": "Erskine",
-        "full_name": "Erskine College",
+        "full_name": "Erskine",
         "division": "D-II",
         "mascot": "Flying Fleet",
         "conference": "Carolinas",
@@ -841,7 +841,7 @@
     },
     {
         "short_name": "FDU",
-        "full_name": "Fairleigh Dickinson University",
+        "full_name": "Fairleigh Dickinson",
         "division": "D-I",
         "mascot": "Knights",
         "conference": "NEC",
@@ -856,7 +856,7 @@
     },
     {
         "short_name": "First Point",
-        "full_name": "First Point Collegiate Challenge",
+        "full_name": "Austin Convention Center",
         "division": "n/a",
         "mascot": "n/a",
         "conference": "n/a",
@@ -871,7 +871,7 @@
     },
     {
         "short_name": "Fisher",
-        "full_name": "St. John Fisher College",
+        "full_name": "St. John Fisher",
         "division": "D-III",
         "mascot": "Cardinals",
         "conference": "D-III",
@@ -886,7 +886,7 @@
     },
     {
         "short_name": "Fontbonne",
-        "full_name": "Fontbonne University",
+        "full_name": "Fontbonne",
         "division": "D-III",
         "mascot": "Griffins",
         "conference": "D-III",
@@ -901,7 +901,7 @@
     },
     {
         "short_name": "Fort Valley",
-        "full_name": "Fort Valley State University",
+        "full_name": "Fort Valley State",
         "division": "D-II",
         "mascot": "Wildcats",
         "conference": "SIAC",
@@ -916,7 +916,7 @@
     },
     {
         "short_name": "GCU",
-        "full_name": "Grand Canyon University",
+        "full_name": "Grand Canyon",
         "division": "D-I",
         "mascot": "Antelopes",
         "conference": "MPSF",
@@ -931,7 +931,7 @@
     },
     {
         "short_name": "Geneva",
-        "full_name": "Geneva College",
+        "full_name": "Geneva",
         "division": "D-III",
         "mascot": "Golden Tornadoes",
         "conference": "D-III",
@@ -946,7 +946,7 @@
     },
     {
         "short_name": "Georgetown",
-        "full_name": "Georgetown College (KY)",
+        "full_name": "Georgetown-KY",
         "division": "NAIA",
         "mascot": "Tigers",
         "conference": "NAIA",
@@ -961,7 +961,7 @@
     },
     {
         "short_name": "GMU",
-        "full_name": "George Mason University",
+        "full_name": "George Mason",
         "division": "D-I",
         "mascot": "Patriots",
         "conference": "EIVA",
@@ -976,7 +976,7 @@
     },
     {
         "short_name": "Graceland",
-        "full_name": "Graceland University",
+        "full_name": "Graceland",
         "division": "NAIA",
         "mascot": "Yellowjackets",
         "conference": "NAIA",
@@ -991,7 +991,7 @@
     },
     {
         "short_name": "Grand View",
-        "full_name": "Grand View University",
+        "full_name": "Grand View",
         "division": "NAIA",
         "mascot": "Vikings",
         "conference": "NAIA",
@@ -1006,7 +1006,7 @@
     },
     {
         "short_name": "Harvard",
-        "full_name": "Harvard University",
+        "full_name": "Harvard",
         "division": "D-I",
         "mascot": "Crimson",
         "conference": "EIVA",
@@ -1021,7 +1021,7 @@
     },
     {
         "short_name": "Hawaii",
-        "full_name": "University of Hawai'i at Manoa",
+        "full_name": "Hawai'i",
         "division": "D-I",
         "mascot": "Rainbow Warriors",
         "conference": "Big West",
@@ -1036,7 +1036,7 @@
     },
     {
         "short_name": "Hilbert",
-        "full_name": "Hilbert College",
+        "full_name": "Hilbert",
         "division": "D-III",
         "mascot": "Hawks",
         "conference": "D-III",
@@ -1051,7 +1051,7 @@
     },
     {
         "short_name": "Hiram",
-        "full_name": "Hiram College",
+        "full_name": "Hiram",
         "division": "D-III",
         "mascot": "Terriers",
         "conference": "D-III",
@@ -1066,7 +1066,7 @@
     },
     {
         "short_name": "Hunter",
-        "full_name": "Hunter College",
+        "full_name": "Hunter",
         "division": "D-III",
         "mascot": "Hawks",
         "conference": "D-III",
@@ -1081,7 +1081,7 @@
     },
     {
         "short_name": "IIT",
-        "full_name": "Illinois Institute of Technology",
+        "full_name": "Illinois Tech",
         "division": "D-III",
         "mascot": "Scarlet Hawks",
         "conference": "D-III",
@@ -1096,7 +1096,7 @@
     },
     {
         "short_name": "Immaculata",
-        "full_name": "Immaculata University",
+        "full_name": "Immaculata",
         "division": "D-III",
         "mascot": "Mighty Macs",
         "conference": "D-III",
@@ -1111,7 +1111,7 @@
     },
     {
         "short_name": "Indiana Tech",
-        "full_name": "Indiana Institute of Technology",
+        "full_name": "Indiana Tech",
         "division": "NAIA",
         "mascot": "Warriors",
         "conference": "NAIA",
@@ -1126,7 +1126,7 @@
     },
     {
         "short_name": "IWU",
-        "full_name": "Illinois Wesleyan University",
+        "full_name": "Illinois Wesleyan",
         "division": "D-III",
         "mascot": "Titans",
         "conference": "D-III",
@@ -1141,7 +1141,7 @@
     },
     {
         "short_name": "Jamestown",
-        "full_name": "University of Jamestown",
+        "full_name": "Jamestown",
         "division": "NAIA",
         "mascot": "Jimmies",
         "conference": "NAIA",
@@ -1156,7 +1156,7 @@
     },
     {
         "short_name": "John Jay",
-        "full_name": "John Jay College of Criminal Justice",
+        "full_name": "John Jay",
         "division": "D-III",
         "mascot": "Bloodhounds",
         "conference": "D-III",
@@ -1171,7 +1171,7 @@
     },
     {
         "short_name": "Judson",
-        "full_name": "Judson University",
+        "full_name": "Judson",
         "division": "NAIA",
         "mascot": "Eagles",
         "conference": "NAIA",
@@ -1186,7 +1186,7 @@
     },
     {
         "short_name": "Juniata",
-        "full_name": "Juniata College",
+        "full_name": "Juniata",
         "division": "D-III",
         "mascot": "Eagles",
         "conference": "D-III",
@@ -1201,7 +1201,7 @@
     },
     {
         "short_name": "JWU",
-        "full_name": "Johnson and Wales University (RI)",
+        "full_name": "Johnson and Wales",
         "division": "D-III",
         "mascot": "Wildcats",
         "conference": "D-III",
@@ -1216,7 +1216,7 @@
     },
     {
         "short_name": "Katherine",
-        "full_name": "University of Saint Katherine",
+        "full_name": "Saint Katherine",
         "division": "NAIA",
         "mascot": "Firebirds",
         "conference": "NAIA",
@@ -1231,7 +1231,7 @@
     },
     {
         "short_name": "Kean",
-        "full_name": "Kean University",
+        "full_name": "Kean",
         "division": "D-III",
         "mascot": "Cougars",
         "conference": "D-III",
@@ -1246,7 +1246,7 @@
     },
     {
         "short_name": "King",
-        "full_name": "King University",
+        "full_name": "King",
         "division": "D-II",
         "mascot": "Tornados",
         "conference": "Carolinas",
@@ -1261,7 +1261,7 @@
     },
     {
         "short_name": "Kings",
-        "full_name": "King's College",
+        "full_name": "King's",
         "division": "D-III",
         "mascot": "Monarchs",
         "conference": "D-III",
@@ -1276,7 +1276,7 @@
     },
     {
         "short_name": "KSU",
-        "full_name": "Kentucky State University",
+        "full_name": "Kentucky State",
         "division": "D-II",
         "mascot": "Thorobreds",
         "conference": "SIAC",
@@ -1291,7 +1291,7 @@
     },
     {
         "short_name": "KWU",
-        "full_name": "Kansas Wesleyan University",
+        "full_name": "Kansas Wesleyan",
         "division": "NAIA",
         "mascot": "Coyotes",
         "conference": "NAIA",
@@ -1306,7 +1306,7 @@
     },
     {
         "short_name": "Lakeland",
-        "full_name": "Lakeland University",
+        "full_name": "Lakeland",
         "division": "D-III",
         "mascot": "Muskies",
         "conference": "D-III",
@@ -1321,7 +1321,7 @@
     },
     {
         "short_name": "Lancaster",
-        "full_name": "Lancaster Bible College",
+        "full_name": "Lancaster Bible",
         "division": "D-III",
         "mascot": "Chargers",
         "conference": "D-III",
@@ -1336,7 +1336,7 @@
     },
     {
         "short_name": "Lasell",
-        "full_name": "Lasell University",
+        "full_name": "Lasell",
         "division": "D-III",
         "mascot": "Lasers",
         "conference": "D-III",
@@ -1351,7 +1351,7 @@
     },
     {
         "short_name": "LBSU",
-        "full_name": "Long Beach State",
+        "full_name": "Long Beach",
         "division": "D-I",
         "mascot": "49ers",
         "conference": "Big West",
@@ -1366,7 +1366,7 @@
     },
     {
         "short_name": "Lees",
-        "full_name": "Lees\u00e2\u20ac\u201cMcRae College",
+        "full_name": "Lees\u00e2\u20ac\u201cMcRae",
         "division": "D-II",
         "mascot": "Bobcats",
         "conference": "Carolinas",
@@ -1381,7 +1381,7 @@
     },
     {
         "short_name": "Lehman",
-        "full_name": "Lehman College",
+        "full_name": "Lehman",
         "division": "D-III",
         "mascot": "Lightning Bugs",
         "conference": "D-III",
@@ -1396,7 +1396,7 @@
     },
     {
         "short_name": "Lesley",
-        "full_name": "Lesley University",
+        "full_name": "Lesley",
         "division": "D-III",
         "mascot": "Lynx",
         "conference": "D-III",
@@ -1411,7 +1411,7 @@
     },
     {
         "short_name": "Lewis",
-        "full_name": "Lewis University",
+        "full_name": "Lewis",
         "division": "D-II",
         "mascot": "Flyers",
         "conference": "MIVA",
@@ -1426,7 +1426,7 @@
     },
     {
         "short_name": "Life",
-        "full_name": "Life University",
+        "full_name": "Life",
         "division": "NAIA",
         "mascot": "Running Eagles",
         "conference": "NAIA",
@@ -1441,7 +1441,7 @@
     },
     {
         "short_name": "Limestone",
-        "full_name": "Limestone University",
+        "full_name": "Limestone",
         "division": "D-II",
         "mascot": "Saints",
         "conference": "Independent",
@@ -1456,7 +1456,7 @@
     },
     {
         "short_name": "Lincoln",
-        "full_name": "Lincoln College",
+        "full_name": "Lincoln",
         "division": "NAIA",
         "mascot": "Lynx",
         "conference": "NAIA",
@@ -1471,7 +1471,7 @@
     },
     {
         "short_name": "Lindenwood",
-        "full_name": "Lindenwood University",
+        "full_name": "Lindenwood",
         "division": "D-I",
         "mascot": "Lions",
         "conference": "MIVA",
@@ -1486,7 +1486,7 @@
     },
     {
         "short_name": "LIU",
-        "full_name": "Long Island University",
+        "full_name": "Long Island",
         "division": "D-I",
         "mascot": "Sharks",
         "conference": "NEC",
@@ -1501,7 +1501,7 @@
     },
     {
         "short_name": "LMU",
-        "full_name": "Lincoln Memorial University",
+        "full_name": "Lincoln Memorial",
         "division": "D-II",
         "mascot": "Railsplitters",
         "conference": "Independent",
@@ -1516,7 +1516,7 @@
     },
     {
         "short_name": "Loras",
-        "full_name": "Loras College",
+        "full_name": "Loras",
         "division": "D-III",
         "mascot": "Duhawks",
         "conference": "D-III",
@@ -1531,7 +1531,7 @@
     },
     {
         "short_name": "Lourdes",
-        "full_name": "Lourdes University",
+        "full_name": "Lourdes",
         "division": "NAIA",
         "mascot": "Grey Wolves",
         "conference": "NAIA",
@@ -1546,7 +1546,7 @@
     },
     {
         "short_name": "Loyola",
-        "full_name": "Loyola University Chicago",
+        "full_name": "Loyola Chicago",
         "division": "D-I",
         "mascot": "Ramblers",
         "conference": "MIVA",
@@ -1561,7 +1561,7 @@
     },
     {
         "short_name": "Maranatha",
-        "full_name": "Maranatha Baptist University",
+        "full_name": "Maranatha Baptist",
         "division": "D-III",
         "mascot": "Sabercats",
         "conference": "D-III",
@@ -1576,7 +1576,7 @@
     },
     {
         "short_name": "Marian",
-        "full_name": "Marian University (WI)",
+        "full_name": "Marian",
         "division": "D-III",
         "mascot": "Sabres",
         "conference": "D-III",
@@ -1591,7 +1591,7 @@
     },
     {
         "short_name": "Marymount",
-        "full_name": "Marymount University",
+        "full_name": "Marymount",
         "division": "D-III",
         "mascot": "Saints",
         "conference": "D-III",
@@ -1606,7 +1606,7 @@
     },
     {
         "short_name": "Maryville",
-        "full_name": "Maryville University",
+        "full_name": "Maryville",
         "division": "D-II",
         "mascot": "Saints",
         "conference": "Independent",
@@ -1621,7 +1621,7 @@
     },
     {
         "short_name": "Masters",
-        "full_name": "The Master's University",
+        "full_name": "Master's",
         "division": "NAIA",
         "mascot": "Mustangs",
         "conference": "NAIA",
@@ -1636,7 +1636,7 @@
     },
     {
         "short_name": "MBU",
-        "full_name": "Missouri Baptist University",
+        "full_name": "Missouri Baptist",
         "division": "NAIA",
         "mascot": "Spartans",
         "conference": "NAIA",
@@ -1651,7 +1651,7 @@
     },
     {
         "short_name": "McKendree",
-        "full_name": "McKendree University",
+        "full_name": "McKendree",
         "division": "D-II",
         "mascot": "Bearcats",
         "conference": "MIVA",
@@ -1666,7 +1666,7 @@
     },
     {
         "short_name": "Medaille",
-        "full_name": "Medaille College",
+        "full_name": "Medaille",
         "division": "D-III",
         "mascot": "Mavericks",
         "conference": "D-III",
@@ -1681,7 +1681,7 @@
     },
     {
         "short_name": "Medgar",
-        "full_name": "Medgar Evers College",
+        "full_name": "Medgar Evers",
         "division": "D-III",
         "mascot": "Cougars",
         "conference": "D-III",
@@ -1696,7 +1696,7 @@
     },
     {
         "short_name": "Menlo",
-        "full_name": "Menlo College",
+        "full_name": "Menlo",
         "division": "NAIA",
         "mascot": "Oaks",
         "conference": "NAIA",
@@ -1726,7 +1726,7 @@
     },
     {
         "short_name": "Merrimack",
-        "full_name": "Merrimack College",
+        "full_name": "Merrimack",
         "division": "D-I",
         "mascot": "Warriors",
         "conference": "NEC",
@@ -1741,7 +1741,7 @@
     },
     {
         "short_name": "Messiah",
-        "full_name": "Messiah Univeristy",
+        "full_name": "Messiah",
         "division": "D-III",
         "mascot": "Falcons",
         "conference": "D-III",
@@ -1756,7 +1756,7 @@
     },
     {
         "short_name": "Milligan",
-        "full_name": "Milligan University",
+        "full_name": "Milligan",
         "division": "NAIA",
         "mascot": "Buffaloes",
         "conference": "NAIA",
@@ -1771,7 +1771,7 @@
     },
     {
         "short_name": "Millikin",
-        "full_name": "Millikin University",
+        "full_name": "Millikin",
         "division": "D-III",
         "mascot": "Big Blue",
         "conference": "D-III",
@@ -1786,7 +1786,7 @@
     },
     {
         "short_name": "Misericordia",
-        "full_name": "Misericordia University",
+        "full_name": "Misericordia",
         "division": "D-III",
         "mascot": "Cougars",
         "conference": "D-III",
@@ -1801,7 +1801,7 @@
     },
     {
         "short_name": "MIT",
-        "full_name": "Massachusetts Institute of Technology",
+        "full_name": "MIT",
         "division": "D-III",
         "mascot": "Engineers",
         "conference": "D-III",
@@ -1816,7 +1816,7 @@
     },
     {
         "short_name": "Morehouse",
-        "full_name": "Morehouse College",
+        "full_name": "Morehouse",
         "division": "D-II",
         "mascot": "Maroon Tigers",
         "conference": "SIAC",
@@ -1831,7 +1831,7 @@
     },
     {
         "short_name": "Mount Union",
-        "full_name": "University of Mount Union",
+        "full_name": "Mount Union",
         "division": "D-III",
         "mascot": "Purple Raiders",
         "conference": "D-III",
@@ -1846,7 +1846,7 @@
     },
     {
         "short_name": "MSJ",
-        "full_name": "Mount St. Joseph University",
+        "full_name": "Mount St. Joseph",
         "division": "D-III",
         "mascot": "Lions",
         "conference": "D-III",
@@ -1861,7 +1861,7 @@
     },
     {
         "short_name": "MSOE",
-        "full_name": "Milwaukee School of Engineering",
+        "full_name": "Milwaukee Engineering",
         "division": "D-III",
         "mascot": "Raiders",
         "conference": "D-III",
@@ -1891,7 +1891,7 @@
     },
     {
         "short_name": "MSV",
-        "full_name": "College of Mount Saint Vincent",
+        "full_name": "Mount Saint Vincent",
         "division": "D-III",
         "mascot": "Dolphins",
         "conference": "D-III",
@@ -1906,7 +1906,7 @@
     },
     {
         "short_name": "MVC",
-        "full_name": "Missouri Valley College",
+        "full_name": "Missouri Valley",
         "division": "NAIA",
         "mascot": "Vikings",
         "conference": "NAIA",
@@ -1921,7 +1921,7 @@
     },
     {
         "short_name": "MVNU",
-        "full_name": "Mount Vernon Nazarene University",
+        "full_name": "Mount Vernon Nazarene",
         "division": "NAIA",
         "mascot": "Cougars",
         "conference": "NAIA",
@@ -1936,7 +1936,7 @@
     },
     {
         "short_name": "Nazareth",
-        "full_name": "Nazareth College (NY)",
+        "full_name": "Nazareth",
         "division": "D-III",
         "mascot": "Golden Flyers",
         "conference": "D-III",
@@ -1951,7 +1951,7 @@
     },
     {
         "short_name": "Neumann",
-        "full_name": "Neumann University",
+        "full_name": "Neumann",
         "division": "D-III",
         "mascot": "Knights",
         "conference": "D-III",
@@ -1966,7 +1966,7 @@
     },
     {
         "short_name": "NGU",
-        "full_name": "North Greenville University",
+        "full_name": "North Greenville",
         "division": "D-II",
         "mascot": "Crusaders",
         "conference": "Carolinas",
@@ -1981,7 +1981,7 @@
     },
     {
         "short_name": "Nichols",
-        "full_name": "Nichols College",
+        "full_name": "Nichols",
         "division": "D-III",
         "mascot": "Bison",
         "conference": "D-III",
@@ -1996,7 +1996,7 @@
     },
     {
         "short_name": "NJCU",
-        "full_name": "New Jersey City University",
+        "full_name": "New Jersey City",
         "division": "D-III",
         "mascot": "Gothic Knights",
         "conference": "D-III",
@@ -2011,7 +2011,7 @@
     },
     {
         "short_name": "NJIT",
-        "full_name": "New Jersey Institute of Technology",
+        "full_name": "NJIT",
         "division": "D-I",
         "mascot": "Highlanders",
         "conference": "EIVA",
@@ -2026,7 +2026,7 @@
     },
     {
         "short_name": "Norbert",
-        "full_name": "St. Norbert College",
+        "full_name": "St. Norbert",
         "division": "D-III",
         "mascot": "Green Knights",
         "conference": "D-III",
@@ -2041,7 +2041,7 @@
     },
     {
         "short_name": "North Central",
-        "full_name": "North Central College",
+        "full_name": "North Central",
         "division": "D-III",
         "mascot": "Cardinals",
         "conference": "D-III",
@@ -2056,7 +2056,7 @@
     },
     {
         "short_name": "North Park",
-        "full_name": "North Park University",
+        "full_name": "North Park",
         "division": "D-III",
         "mascot": "Vikings",
         "conference": "D-III",
@@ -2071,7 +2071,7 @@
     },
     {
         "short_name": "NVU",
-        "full_name": "Northern Vermont University\u00e2\u20ac\u201cJohnson",
+        "full_name": "Northern Vermont\u00e2\u20ac\u201cJohnson",
         "division": "D-III",
         "mascot": "Badgers",
         "conference": "D-III",
@@ -2086,7 +2086,7 @@
     },
     {
         "short_name": "NYU",
-        "full_name": "New York University",
+        "full_name": "NYU",
         "division": "D-III",
         "mascot": "Violets",
         "conference": "D-III",
@@ -2101,7 +2101,7 @@
     },
     {
         "short_name": "Ohio",
-        "full_name": "The Ohio State University",
+        "full_name": "Ohio State",
         "division": "D-I",
         "mascot": "Buckeyes",
         "conference": "MIVA",
@@ -2116,7 +2116,7 @@
     },
     {
         "short_name": "Olive",
-        "full_name": "University of Mount Olive",
+        "full_name": "Mount Olive",
         "division": "D-II",
         "mascot": "Trojans",
         "conference": "Carolinas",
@@ -2131,7 +2131,7 @@
     },
     {
         "short_name": "Olivet",
-        "full_name": "Olivet College",
+        "full_name": "Olivet",
         "division": "D-III",
         "mascot": "Comets",
         "conference": "D-III",
@@ -2146,7 +2146,7 @@
     },
     {
         "short_name": "OUAZ",
-        "full_name": "Ottawa University Arizona",
+        "full_name": "Ottawa University-Arizona",
         "division": "NAIA",
         "mascot": "Spirit",
         "conference": "NAIA",
@@ -2161,7 +2161,7 @@
     },
     {
         "short_name": "OUKA",
-        "full_name": "Ottawa University Kansas",
+        "full_name": "Ottawa University-Kansas",
         "division": "NAIA",
         "mascot": "Braves",
         "conference": "NAIA",
@@ -2176,7 +2176,7 @@
     },
     {
         "short_name": "Park",
-        "full_name": "Park University",
+        "full_name": "Park",
         "division": "NAIA",
         "mascot": "Pirates",
         "conference": "NAIA",
@@ -2191,7 +2191,7 @@
     },
     {
         "short_name": "Penn",
-        "full_name": "Pennsylvania State University",
+        "full_name": "Penn State",
         "division": "D-I",
         "mascot": "Nittany Lions",
         "conference": "EIVA",
@@ -2221,7 +2221,7 @@
     },
     {
         "short_name": "Penn Behrend",
-        "full_name": "Penn State Erie, The Behrend College",
+        "full_name": "Penn State Erie",
         "division": "D-III",
         "mascot": "Behrend Lions",
         "conference": "D-III",
@@ -2236,7 +2236,7 @@
     },
     {
         "short_name": "Pepperdine",
-        "full_name": "Pepperdine University",
+        "full_name": "Pepperdine ",
         "division": "D-I",
         "mascot": "Waves",
         "conference": "MPSF",
@@ -2251,7 +2251,7 @@
     },
     {
         "short_name": "PFW",
-        "full_name": "Purdue University Fort Wayne",
+        "full_name": "Purdue Fort Wayne",
         "division": "D-I",
         "mascot": "Mastodons",
         "conference": "MIVA",
@@ -2266,7 +2266,7 @@
     },
     {
         "short_name": "Pine Manor",
-        "full_name": "Pine Manor College",
+        "full_name": "Pine Manor",
         "division": "D-III",
         "mascot": "Gators",
         "conference": "D-III",
@@ -2296,7 +2296,7 @@
     },
     {
         "short_name": "Princeton",
-        "full_name": "Princeton University",
+        "full_name": "Princeton",
         "division": "D-I",
         "mascot": "Tigers",
         "conference": "EIVA",
@@ -2311,7 +2311,7 @@
     },
     {
         "short_name": "Queens",
-        "full_name": "Queens University of Charlotte",
+        "full_name": "Queens",
         "division": "D-I",
         "mascot": "Royals",
         "conference": "Independent",
@@ -2326,7 +2326,7 @@
     },
     {
         "short_name": "Quincy",
-        "full_name": "Quincy University",
+        "full_name": "Quincy",
         "division": "D-II",
         "mascot": "Hawks",
         "conference": "MIVA",
@@ -2341,7 +2341,7 @@
     },
     {
         "short_name": "Ramapo",
-        "full_name": "Ramapo College",
+        "full_name": "Ramapo",
         "division": "D-III",
         "mascot": "Roadrunners",
         "conference": "D-III",
@@ -2356,7 +2356,7 @@
     },
     {
         "short_name": "Randolph Macon",
-        "full_name": "Randolph\u00e2\u20ac\u201cMacon College",
+        "full_name": "Randolph\u00e2\u20ac\u201cMacon",
         "division": "D-III",
         "mascot": "Yellow Jackets",
         "conference": "D-III",
@@ -2371,7 +2371,7 @@
     },
     {
         "short_name": "Regis",
-        "full_name": "Regis College (MA)",
+        "full_name": "Regis College",
         "division": "D-III",
         "mascot": "Pride",
         "conference": "D-III",
@@ -2386,7 +2386,7 @@
     },
     {
         "short_name": "Reinhardt",
-        "full_name": "Reinhardt University",
+        "full_name": "Reinhardt",
         "division": "NAIA",
         "mascot": "Eagles",
         "conference": "NAIA",
@@ -2401,7 +2401,7 @@
     },
     {
         "short_name": "Rio Grande",
-        "full_name": "University of Rio Grande",
+        "full_name": "Rio Grande",
         "division": "NAIA",
         "mascot": "RedStorm",
         "conference": "NAIA",
@@ -2416,7 +2416,7 @@
     },
     {
         "short_name": "Rivier",
-        "full_name": "Rivier University",
+        "full_name": "Rivier",
         "division": "D-III",
         "mascot": "Raiders",
         "conference": "D-III",
@@ -2431,7 +2431,7 @@
     },
     {
         "short_name": "Rock Hill",
-        "full_name": "Rock Hill Sport & Event Center",
+        "full_name": "Rock Hill Center",
         "division": "n/a",
         "mascot": "n/a",
         "conference": "n/a",
@@ -2446,7 +2446,7 @@
     },
     {
         "short_name": "Rockford",
-        "full_name": "Rockford University",
+        "full_name": "Rockford",
         "division": "D-III",
         "mascot": "Regents",
         "conference": "D-III",
@@ -2461,7 +2461,7 @@
     },
     {
         "short_name": "Rosemont",
-        "full_name": "Rosemont College",
+        "full_name": "Rosemont",
         "division": "D-III",
         "mascot": "Ravens",
         "conference": "D-III",
@@ -2476,7 +2476,7 @@
     },
     {
         "short_name": "Rutgers",
-        "full_name": "Rutgers University\u00e2\u20ac\u201cNewark",
+        "full_name": "Rutgers\u00e2\u20ac\u201cNewark",
         "division": "D-III",
         "mascot": "Scarlet Raiders",
         "conference": "D-III",
@@ -2491,7 +2491,7 @@
     },
     {
         "short_name": "Sacred",
-        "full_name": "Sacred Heart University",
+        "full_name": "Sacred Heart",
         "division": "D-I",
         "mascot": "Pioneers",
         "conference": "NEC",
@@ -2506,7 +2506,7 @@
     },
     {
         "short_name": "Sage",
-        "full_name": "The Sage Colleges",
+        "full_name": "The Sage",
         "division": "D-III",
         "mascot": "Gators",
         "conference": "D-III",
@@ -2521,7 +2521,7 @@
     },
     {
         "short_name": "Saint Vincent",
-        "full_name": "Saint Vincent College",
+        "full_name": "Saint Vincent",
         "division": "D-III",
         "mascot": "Bearcats",
         "conference": "D-III",
@@ -2536,7 +2536,7 @@
     },
     {
         "short_name": "Sarah",
-        "full_name": "Sarah Lawrence College",
+        "full_name": "Sarah Lawrence",
         "division": "D-III",
         "mascot": "Gryphons",
         "conference": "D-III",
@@ -2551,7 +2551,7 @@
     },
     {
         "short_name": "SFCB",
-        "full_name": "St. Francis College (Brooklyn)",
+        "full_name": "St. Francis-Brooklyn",
         "division": "D-I",
         "mascot": "Terriers",
         "conference": "NEC",
@@ -2566,7 +2566,7 @@
     },
     {
         "short_name": "SFU",
-        "full_name": "Saint Francis University (PA)",
+        "full_name": "Saint Francis",
         "division": "D-I",
         "mascot": "Red Flash",
         "conference": "NEC",
@@ -2581,7 +2581,7 @@
     },
     {
         "short_name": "SJC Brooklyn",
-        "full_name": "St. Joseph's College-Brooklyn",
+        "full_name": "St. Joseph's-Brooklyn",
         "division": "D-III",
         "mascot": "Bears",
         "conference": "D-III",
@@ -2596,7 +2596,7 @@
     },
     {
         "short_name": "SJC Long Island",
-        "full_name": "St. Joseph's College-Long Island",
+        "full_name": "St. Joseph's-Long Island",
         "division": "D-III",
         "mascot": "Golden Eagles",
         "conference": "D-III",
@@ -2611,7 +2611,7 @@
     },
     {
         "short_name": "Springfield",
-        "full_name": "Springfield College (MA)",
+        "full_name": "Springfield",
         "division": "D-III",
         "mascot": "Pride",
         "conference": "D-III",
@@ -2626,7 +2626,7 @@
     },
     {
         "short_name": "St Andrews",
-        "full_name": "St. Andrews University",
+        "full_name": "St. Andrews",
         "division": "NAIA",
         "mascot": "Knights",
         "conference": "NAIA",
@@ -2641,7 +2641,7 @@
     },
     {
         "short_name": "Stanford",
-        "full_name": "Stanford University",
+        "full_name": "Stanford",
         "division": "D-I",
         "mascot": "Cardinal",
         "conference": "MPSF",
@@ -2671,7 +2671,7 @@
     },
     {
         "short_name": "Stevenson",
-        "full_name": "Stevenson University",
+        "full_name": "Stevenson",
         "division": "D-III",
         "mascot": "Mustangs",
         "conference": "D-III",
@@ -2686,7 +2686,7 @@
     },
     {
         "short_name": "SUNY New Paltz",
-        "full_name": "State University of New York at New Paltz",
+        "full_name": "SUNY-New Paltz",
         "division": "D-III",
         "mascot": "Hawks",
         "conference": "D-III",
@@ -2701,7 +2701,7 @@
     },
     {
         "short_name": "SUNY Poly",
-        "full_name": "State University of New York Polytechnic Institute",
+        "full_name": "SUNY-Polytechnic",
         "division": "D-III",
         "mascot": "Wildcats",
         "conference": "D-III",
@@ -2716,7 +2716,7 @@
     },
     {
         "short_name": "SUNY Potsdam",
-        "full_name": "State University of New York at Potsdam",
+        "full_name": "SUNY-Potsdam",
         "division": "D-III",
         "mascot": "Bears",
         "conference": "D-III",
@@ -2731,7 +2731,7 @@
     },
     {
         "short_name": "SUNY Purchase",
-        "full_name": "State University of New York at Purchase",
+        "full_name": "SUNY-Purchase",
         "division": "D-III",
         "mascot": "Panthers",
         "conference": "D-III",
@@ -2746,7 +2746,7 @@
     },
     {
         "short_name": "SVU",
-        "full_name": "Southern Virginia University",
+        "full_name": "Southern Virginia",
         "division": "D-III",
         "mascot": "Knights",
         "conference": "D-III",
@@ -2761,7 +2761,7 @@
     },
     {
         "short_name": "Thiel",
-        "full_name": "Thiel College",
+        "full_name": "Thiel",
         "division": "D-III",
         "mascot": "Tomcats",
         "conference": "D-III",
@@ -2776,7 +2776,7 @@
     },
     {
         "short_name": "Thomas More",
-        "full_name": "Thomas More University",
+        "full_name": "Thomas More",
         "division": "NAIA",
         "mascot": "Saints",
         "conference": "NAIA",
@@ -2791,7 +2791,7 @@
     },
     {
         "short_name": "Trine",
-        "full_name": "Trine University",
+        "full_name": "Trine",
         "division": "D-III",
         "mascot": "Thunder",
         "conference": "D-III",
@@ -2806,7 +2806,7 @@
     },
     {
         "short_name": "Truett",
-        "full_name": "Truett-McConnell Univeristy",
+        "full_name": "Truett-McConnell",
         "division": "NAIA",
         "mascot": "Bears",
         "conference": "NAIA",
@@ -2821,7 +2821,7 @@
     },
     {
         "short_name": "Tusculum",
-        "full_name": "Tusculum University",
+        "full_name": "Tusculum",
         "division": "D-II",
         "mascot": "Pioneers",
         "conference": "Independent",
@@ -2911,7 +2911,7 @@
     },
     {
         "short_name": "UHSP",
-        "full_name": "University of Health Sciences & Pharmacy",
+        "full_name": "Health Sciences & Pharmacy",
         "division": "NAIA",
         "mascot": "Eutectics",
         "conference": "NAIA",
@@ -2926,7 +2926,7 @@
     },
     {
         "short_name": "UPRRP",
-        "full_name": "University of Puerto Rico, Rio Piedras",
+        "full_name": "Puerto Rico-Rio Piedras",
         "division": "D-II",
         "mascot": "Gallitos",
         "conference": "Independent",
@@ -2941,7 +2941,7 @@
     },
     {
         "short_name": "Urbana",
-        "full_name": "Urbana University",
+        "full_name": "Urbana",
         "division": "D-II",
         "mascot": "Blue Knights",
         "conference": "Independent",
@@ -2956,7 +2956,7 @@
     },
     {
         "short_name": "USC",
-        "full_name": "University of Southern California",
+        "full_name": "Southern California",
         "division": "D-I",
         "mascot": "Trojans",
         "conference": "MPSF",
@@ -2971,7 +2971,7 @@
     },
     {
         "short_name": "Valley Forge",
-        "full_name": "University of Valley Forge",
+        "full_name": "Valley Forge",
         "division": "D-III",
         "mascot": "Patriots",
         "conference": "D-III",
@@ -2986,7 +2986,7 @@
     },
     {
         "short_name": "Vanguard",
-        "full_name": "Vanguard University",
+        "full_name": "Vanguard",
         "division": "NAIA",
         "mascot": "Lions",
         "conference": "NAIA",
@@ -3001,7 +3001,7 @@
     },
     {
         "short_name": "Vassar",
-        "full_name": "Vassar College",
+        "full_name": "Vassar",
         "division": "D-III",
         "mascot": "Brewers",
         "conference": "D-III",
@@ -3016,7 +3016,7 @@
     },
     {
         "short_name": "Wabash",
-        "full_name": "Wabash College",
+        "full_name": "Wabash",
         "division": "D-III",
         "mascot": "Little Giants",
         "conference": "D-III",
@@ -3031,7 +3031,7 @@
     },
     {
         "short_name": "Warner",
-        "full_name": "Warner University",
+        "full_name": "Warner",
         "division": "NAIA",
         "mascot": "Royals",
         "conference": "NAIA",
@@ -3046,7 +3046,7 @@
     },
     {
         "short_name": "Webber",
-        "full_name": "Webber International University",
+        "full_name": "Webber International",
         "division": "NAIA",
         "mascot": "Warriors",
         "conference": "NAIA",
@@ -3061,7 +3061,7 @@
     },
     {
         "short_name": "Wells",
-        "full_name": "Wells College",
+        "full_name": "Wells",
         "division": "D-III",
         "mascot": "Express",
         "conference": "D-III",
@@ -3076,7 +3076,7 @@
     },
     {
         "short_name": "Westcliff",
-        "full_name": "Westcliff University",
+        "full_name": "Westcliff",
         "division": "NAIA",
         "mascot": "Warriors",
         "conference": "NAIA",
@@ -3091,7 +3091,7 @@
     },
     {
         "short_name": "Widener",
-        "full_name": "Widener University",
+        "full_name": "Widener",
         "division": "D-III",
         "mascot": "Pride",
         "conference": "D-III",
@@ -3106,7 +3106,7 @@
     },
     {
         "short_name": "Wilkes",
-        "full_name": "Wilkes University",
+        "full_name": "Wilkes",
         "division": "D-III",
         "mascot": "Colonels",
         "conference": "D-III",
@@ -3121,7 +3121,7 @@
     },
     {
         "short_name": "Wilson",
-        "full_name": "Wilson College (PA)",
+        "full_name": "Wilson",
         "division": "D-III",
         "mascot": "Phoenix",
         "conference": "D-III",
@@ -3136,7 +3136,7 @@
     },
     {
         "short_name": "WIT",
-        "full_name": "Wentworth Institute of Technology",
+        "full_name": "Wentworth Tech",
         "division": "D-III",
         "mascot": "Leopards",
         "conference": "D-III",
@@ -3151,7 +3151,7 @@
     },
     {
         "short_name": "Wittenberg",
-        "full_name": "Wittenberg University",
+        "full_name": "Wittenberg",
         "division": "D-III",
         "mascot": "Tigers",
         "conference": "D-III",
@@ -3166,7 +3166,7 @@
     },
     {
         "short_name": "WLC",
-        "full_name": "Wisconsin Lutheran College",
+        "full_name": "Wisconsin Lutheran",
         "division": "D-III",
         "mascot": "Warriors",
         "conference": "D-III",
@@ -3181,7 +3181,7 @@
     },
     {
         "short_name": "WPU",
-        "full_name": "William Penn University (Iowa)",
+        "full_name": "William Penn-Iowa",
         "division": "NAIA",
         "mascot": "Statesmen",
         "conference": "NAIA",
@@ -3196,7 +3196,7 @@
     },
     {
         "short_name": "Xavier",
-        "full_name": "Saint Xavier University",
+        "full_name": "Saint Xavier",
         "division": "NAIA",
         "mascot": "Cougars",
         "conference": "NAIA",
@@ -3211,7 +3211,7 @@
     },
     {
         "short_name": "Yeshiva",
-        "full_name": "Yeshiva University",
+        "full_name": "Yeshiva",
         "division": "D-III",
         "mascot": "Maccabees",
         "conference": "D-III",
@@ -3226,7 +3226,7 @@
     },
     {
         "short_name": "York",
-        "full_name": "York College",
+        "full_name": "York",
         "division": "D-III",
         "mascot": "Cardinals",
         "conference": "D-III",
