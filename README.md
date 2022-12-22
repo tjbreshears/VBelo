@@ -1,6 +1,6 @@
 # VBelo - NCAA Men's Volleyball Elo
 
-*Recently added: 2020 season, new K, new home court advantage*
+*New for 2023: player retention calculation*
 
 ## Current Rankings
 ![Up to date top 25 list](/outputs/elo_top_25.jpg)
