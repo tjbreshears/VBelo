@@ -15,11 +15,10 @@ DYouville,D'Youville College,D-II,Independent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Edward,Edward Waters University,D-II,SIAC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Emmanuel,Emmanuel College,D-II,Carolinas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Erskine,Erskine College,D-II,Carolinas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fairleigh,Fairleigh Dickinson University,D-I,Independent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FDU,Fairleigh Dickinson University,D-I,Independent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fort Valley,Fort Valley State University,D-II,SIAC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 GCU,Grand Canyon University,D-I,MPSF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 GMU,George Mason University,D-I,EIVA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NGU,North Greenville University,D-II,Carolinas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harvard,Harvard University,D-I,EIVA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hawaii,University of Hawai'i at Manoa,D-I,Big West,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 King,King University,D-II,Carolinas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -35,6 +34,7 @@ Loyola,Loyola University Chicago,D-I,MIVA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Maryville,Maryville University,D-II,Independent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 McKendree,McKendree University,D-II,MIVA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Morehouse,Morehouse College,D-II,SIAC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NGU,North Greenville University,D-II,Carolinas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 NJIT,New Jersey Institute of Technology,D-I,EIVA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ohio,The Ohio State University,D-I,MIVA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Olive,University of Mount Olive,D-II,Carolinas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

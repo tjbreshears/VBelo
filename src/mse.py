@@ -10,7 +10,7 @@ def mse_k ():
     for K in range (0,50):
         vbelo.season (K,-10,'2021')
         games = []
-        with open("outputs/games_output.csv", 'r') as data:
+        with open("../outputs/games_output.csv", 'r') as data:
             for line in csv.DictReader(data):
                 games.append(line)
 
@@ -37,7 +37,7 @@ def mse_t ():
     for t in range (-20,0):
         vbelo.season (24,t,'2021')
         games = []
-        with open("outputs/games_output.csv", 'r') as data:
+        with open("../outputs/games_output.csv", 'r') as data:
             for line in csv.DictReader(data):
                 games.append(line)
 
@@ -65,7 +65,7 @@ def mse_kt ():
         for t in range (-20,0):
             vbelo.season (K,t,'2021')
             games = []
-            with open("outputs/games_output.csv", 'r') as data:
+            with open("../outputs/games_output.csv", 'r') as data:
                 for line in csv.DictReader(data):
                     games.append(line)
 
@@ -92,7 +92,7 @@ def mse_kt ():
 def mse_current ():
     vbelo.season (30,-1,'2020')
     games = []
-    with open("outputs/games_output.csv", 'r') as data:
+    with open("../outputs/games_output.csv", 'r') as data:
         for line in csv.DictReader(data):
             games.append(line)
 

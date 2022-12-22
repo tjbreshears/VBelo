@@ -6,14 +6,14 @@ import matplotlib.pyplot as plt
 import json
 
 teams = []
-with open("inputs/VBelo - teams.csv", 'r') as data:
+with open("../inputs/VBelo - teams.csv", 'r') as data:
     for line in csv.DictReader(data):
         teams.append(line)
 for i in range(len(teams)):
     teams[i]['elo'] = int(teams[i]['elo'])
 
 games = []
-with open("inputs/VBelo - games.csv", 'r') as data:
+with open("../inputs/VBelo - games.csv", 'r') as data:
     for line in csv.DictReader(data):
         games.append(line)
 
@@ -45,16 +45,16 @@ def eloRating(game,K,t,current_season):
         last_date = game['date'].split(' ',1)[0]
 
 # Between season reversion
-# First team's elo is reduced by a max of 20% by accounting for attrition
-# Second all teams revert to the mean by 1/4
+# First team's elo is reduced by a max of 15% by accounting for attrition
+# Second all teams revert to the mean by 1/6
     if game['season'] != current_season:
         current_season = game['season']
         ret_year = "ret_" + current_season
         for i in range(len(teams)):
-            max_loss = float(teams[i]['elo']) * 0.2
-            actual_loss = max_loss * (1.0-float(teams[i][ret_year]))
+            max_loss = float(teams[i]['elo']) * 0.05
+            actual_loss = max_loss * (float(teams[i][ret_year]))
             teams[i]['elo'] = teams[i]['elo'] - actual_loss
-            teams[i]['elo'] = int(teams[i]['elo'])-((int(teams[i]['elo'])-1500)/4)
+            teams[i]['elo'] = int(teams[i]['elo'])-((int(teams[i]['elo'])-1500)/10)
 
 # Sets elo for new teams for their first season
         if current_season == '2022':
@@ -181,26 +181,26 @@ def season (K,t,season1):
 
 def export_games (games):
     field_names = ['date','season','home','n','p','t1','t2','r_t1','r_t2','s_t1','s_t2','p_t1','p_t2','s1_t1','s1_t2','s2_t1','s2_t2','s3_t1','s3_t2','s4_t1','s4_t2','s5_t1','s5_t2','elo_start_team1','elo_start_team2','elo_adjusted_team1','elo_adjusted_team2','probability_team1','probability_team2','elo_end_team1','elo_end_team2']
-    with open('outputs/games_output.csv', 'w', newline='') as csvfile:
+    with open('../outputs/games_output.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames = field_names)
         writer.writeheader()
         writer.writerows(games)
 
 def export_teams (teams):
     field_names = ['short_name','full_name','division','mascot','conference','elo','location','eligible','twitter','color','ret_2023','ret_2022','ret_2021']
-    with open('outputs/teams_output.csv', 'w', newline='') as csvfile:
+    with open('../outputs/teams_output.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames = field_names)
         writer.writeheader()
         writer.writerows(teams)
     json_object_teams = json.dumps(teams, indent = 4)
-    with open("outputs/teams.json", "w") as outfile:
+    with open("../outputs/teams.json", "w") as outfile:
         outfile.write(json_object_teams)
 
 def export_tracking (tracking):
     df_track = pd.DataFrame(tracking)
     df_track.rename(columns=df_track.iloc[0]).drop(df_track.index[0])
     df_track.transpose()
-    df_track.to_csv('outputs/tracking.csv',index=False)
+    df_track.to_csv('../outputs/tracking.csv',index=False)
 
 def top25 (teams):
     df = pd.DataFrame.from_dict(teams)
@@ -230,7 +230,7 @@ def top25 (teams):
 
     #display table
     fig.tight_layout()
-    plt.savefig("outputs\elo_top_25.jpg")
+    plt.savefig("../outputs/elo_top_25.jpg")
     plt.show()
 
 season(30,-1,'2020')
