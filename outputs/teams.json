@@ -1785,6 +1785,21 @@
         "ret_2021": "1"
     },
     {
+        "short_name": "Midway",
+        "full_name": "Midway",
+        "division": "NAIA",
+        "mascot": "Eagles",
+        "conference": "NAIA",
+        "elo": 1373,
+        "location": "38.14453438741419, -84.6772629389929",
+        "eligible": "0",
+        "twitter": "@GoMidwayEagles",
+        "color": "#0055a6",
+        "ret_2023": "1",
+        "ret_2022": "1",
+        "ret_2021": "1"
+    },
+    {
         "short_name": "Milligan",
         "full_name": "Milligan",
         "division": "NAIA",
@@ -2813,7 +2828,7 @@
         "elo": 1373,
         "location": "39.0210397287091, -84.56872684972652",
         "eligible": "0",
-        "twitter": "@tmusaints",
+        "twitter": "@Saints_MVB",
         "color": "#00549f",
         "ret_2023": "1",
         "ret_2022": "1",

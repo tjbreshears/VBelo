@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\inputs\static\VBelo - conference_h2h.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\inputs\static\VBelo - teamstats_2020.csv">
           <value>
             <Attribute>

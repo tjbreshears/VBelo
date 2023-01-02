@@ -128,4 +128,4 @@ def season_stats(year):
     #        outfile.write(json_object_teams)
 
 
-season_stats('2022')
+season_stats('2023')

@@ -8,7 +8,7 @@ import vbelo
 def mse_k ():
     best = [1,1]
     for K in range (0,50):
-        vbelo.season (K,-10,'2021')
+        vbelo.season (K, -10, '2021')
         games = []
         with open("../outputs/games_output.csv", 'r') as data:
             for line in csv.DictReader(data):
@@ -35,7 +35,7 @@ def mse_k ():
 def mse_t ():
     best = [1,1]
     for t in range (-20,0):
-        vbelo.season (24,t,'2021')
+        vbelo.season (24, t, '2021')
         games = []
         with open("../outputs/games_output.csv", 'r') as data:
             for line in csv.DictReader(data):
@@ -63,7 +63,7 @@ def mse_kt ():
     best = [1,1,1]
     for K in range (16,36):
         for t in range (-20,0):
-            vbelo.season (K,t,'2021')
+            vbelo.season (K, t, '2021')
             games = []
             with open("../outputs/games_output.csv", 'r') as data:
                 for line in csv.DictReader(data):
@@ -90,7 +90,7 @@ def mse_kt ():
 
 # MSE for one set of input variables
 def mse_current ():
-    vbelo.season (30,-1,'2020')
+    vbelo.season (30, -1, '2020')
     games = []
     with open("../outputs/games_output.csv", 'r') as data:
         for line in csv.DictReader(data):
