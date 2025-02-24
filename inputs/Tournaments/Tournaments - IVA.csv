@@ -1,0 +1,6 @@
+date,season,home,p,t1,t2,elo_start_team1,elo_start_team2,elo_adjusted_team1,elo_adjusted_team2,probability_team1,probability_team2,elo_end_team1,elo_end_team2
+1,2023,Queens,3 vs 6,Limestone,Alderson,,,,,,,,
+2,2023,Queens,4 vs 5,Tusculum,Maryville,,,,,,,,
+3,2023,Queens,2 vs 3/6,Queens,,,,,,,,,
+4,2023,Queens,1 vs 4/5,LMU,,,,,,,,,
+5,2023,Queens,1/4/5 vs 2/3/6,,,,,,,,,,

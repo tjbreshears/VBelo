@@ -1,23 +1,24 @@
 import csv
+import config
 
 games = []
-with open("outputs/games_output.csv", 'r') as data:
+with open("../../outputs/games_output.csv", 'r') as data:
     for line in csv.DictReader(data):
         games.append(line)
 
 h2h = []
-with open("inputs/static/VBelo - conference_h2h.csv", 'r') as data:
+with open(f"../../inputs/static/VBelo - conference_h2h_{config.current_year}.csv", 'r') as data:
     for line in csv.DictReader(data):
         h2h.append(line)
 
 teams = []
-with open("inputs/VBelo - teams.csv", 'r') as data:
+with open("../../inputs/VBelo - teams.csv", 'r') as data:
     for line in csv.DictReader(data):
         teams.append(line)
 for i in range(len(teams)):
     teams[i]['elo'] = int(teams[i]['elo'])
 
-not_tracked = ['D-III','NAIA','NCCAA','n/a']
+not_tracked = ['D-III','NAIA','NCCAA','NJCAA','CAN','n/a']
 
 def ooc (year):
     for i in range(len(games)):
@@ -37,11 +38,11 @@ def ooc (year):
                         h2h[y][t1_c] = int(h2h[y][t1_c]) + 1
 
 def export_h2h (h2h):
-    field_names = ['conference','Big West','Carolinas','EIVA','Independent','MIVA','MPSF','NEC','SIAC']
-    with open('outputs/h2h.csv', 'w', newline='') as csvfile:
+    field_names = ['conference','BWC','CC','ECC','EIVA','IVA','MIVA','MPSF','NEC','SIAC','IND']
+    with open(f'../../outputs/h2h_{config.current_year}.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames = field_names)
         writer.writeheader()
         writer.writerows(h2h)
 
-ooc('2023')
+ooc(config.current_year)
 export_h2h(h2h)

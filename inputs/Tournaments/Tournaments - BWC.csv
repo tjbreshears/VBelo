@@ -1,6 +1,6 @@
 date,season,home,p,t1,t2,elo_start_team1,elo_start_team2,elo_adjusted_team1,elo_adjusted_team2,probability_team1,probability_team2,elo_end_team1,elo_end_team2
-1,2022,Hawaii,3 vs 6,UCSB,CSUN,,,,,,,,
-2,2022,Hawaii,4 vs 5,UCSD,UCI,,,,,,,,
-3,2022,Hawaii,2 vs 3/6,Hawaii,UCSB,,,,,,,,
-4,2022,Hawaii,1 vs 4/5,LBSU,UCI,,,,,,,,
-5,2022,Hawaii,1/4/5 vs 2/3/6,,,,,,,,,,
+1,2024,Hawaii,3 vs 6,Hawaii,UCSB,,,,,,,,
+2,2024,Hawaii,4 vs 5,UCSD,CSUN,,,,,,,,
+3,2024,Hawaii,2 vs 3/6,UCI,,,,,,,,,
+4,2024,Hawaii,1 vs 4/5,LBSU,,,,,,,,,
+5,2024,Hawaii,1/4/5 vs 2/3/6,,,,,,,,,,

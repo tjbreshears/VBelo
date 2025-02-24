@@ -3,7 +3,9 @@ import math
 import pandas as pd
 import geopy.distance as gp
 import matplotlib.pyplot as plt
-import json
+
+import config
+
 
 teams = []
 with open("inputs/VBelo - teams.csv", 'r') as data:
@@ -20,7 +22,7 @@ with open("inputs/VBelo - games.csv", 'r') as data:
 old_date = ''
 tracking = []
 
-# Resets static elo for D-III and NAIA teams
+# Resets static elo for non D-I or D-II teams
 def static_elo ():
     for i in range(len(teams)):
         if teams[i]['division'] == 'D-III':
@@ -29,6 +31,10 @@ def static_elo ():
             teams[i]['elo'] = 1373
         elif teams[i]['division'] == 'NCCAA':
             teams[i]['elo'] = 1373
+        elif teams[i]['division'] == 'NJCAA':
+            teams[i]['elo'] = 1373
+        elif teams[i]['division'] == 'CAN':
+            teams[i]['elo'] = 1419
 
 # Function to calculate the Probability of winning/losing
 def probability(rating1, rating2):
@@ -46,27 +52,27 @@ def eloRating(game,K,t,current_season):
         last_date = game['date'].split(' ',1)[0]
 
 # Between season reversion
-# First team's elo is reduced by a max of 15% by accounting for attrition
+# First team's elo is reduced by a max of 15% by accounting for attrition -- currently unused
 # Second all teams revert to the mean by 1/6
     if game['season'] != current_season:
         year_stats = game['season']
         current_season = game['season']
-        ret_year = "ret_" + current_season
+        # ret_year = "ret_" + current_season
         for i in range(len(teams)):
-            max_loss = float(teams[i]['elo']) * 0.05
-            actual_loss = max_loss * (float(teams[i][ret_year]))
-            teams[i]['elo'] = teams[i]['elo'] - actual_loss
+            # max_loss = float(teams[i]['elo']) * 0.05
+            # actual_loss = max_loss * (float(teams[i][ret_year]))
+            # teams[i]['elo'] = teams[i]['elo'] - actual_loss
             teams[i]['elo'] = int(teams[i]['elo'])-((int(teams[i]['elo'])-1500)/10)
 
 # Sets elo for new teams for their first season
         if current_season == '2022':
             for i in range(len(teams)):
-                if teams[i]['short_name'] == 'American' or \
+                if teams[i]['short_name'] == 'AIC' or \
                 teams[i]['short_name'] == 'Benedict' or \
                 teams[i]['short_name'] == 'Central' or \
-                teams[i]['short_name'] == 'Edward' or \
-                teams[i]['short_name'] == 'Fairleigh' or \
-                teams[i]['short_name'] == 'Fort Valley' or \
+                teams[i]['short_name'] == 'EWU' or \
+                teams[i]['short_name'] == 'FDU' or \
+                teams[i]['short_name'] == 'FVSU' or \
                 teams[i]['short_name'] == 'KSU' or \
                 teams[i]['short_name'] == 'LIU' or \
                 teams[i]['short_name'] == 'Maryville' or \
@@ -77,9 +83,25 @@ def eloRating(game,K,t,current_season):
                 if teams[i]['short_name'] == 'MST' or \
                 teams[i]['short_name'] == 'Merrimack':
                     teams[i]['elo'] = 1419
+        elif current_season == '2024':
+            for i in range(len(teams)):
+                if teams[i]['short_name'] == 'Dominican' or \
+                teams[i]['short_name'] == 'STA':
+                    teams[i]['elo'] = 1419
+        elif current_season == '2025':
+            for i in range(len(teams)):
+                if teams[i]['short_name'] == 'Menlo' or \
+                teams[i]['short_name'] == 'Barry' or \
+                teams[i]['short_name'] == 'Catawba' or \
+                teams[i]['short_name'] == 'LMO' or \
+                teams[i]['short_name'] == 'Roosevelt' or \
+                teams[i]['short_name'] == 'Rockhurst' or \
+                teams[i]['short_name'] == 'Jessup' or \
+                teams[i]['short_name'] == 'Vanguard':
+                    teams[i]['elo'] = 1419
 
 
-#lifetime tracking of each team's elo
+# lifetime tracking of each team's elo
     new_date = game['date'].split(' ',1)[0]
 
     if old_date == new_date:
@@ -104,15 +126,15 @@ def eloRating(game,K,t,current_season):
             r2_start = teams[i]['elo']
             game['elo_start_team2'] = r2_start
 
-#sets adjusted elo in case there is no adjusted needed
-#will probably be removed when travel is added
+# sets adjusted elo in case there is no adjusted needed
+# will probably be removed when travel is added
     game['elo_adjusted_team1'] = r1_start
     game['elo_adjusted_team2'] = r2_start
     r1_adjust = r1_start
     r2_adjust = r2_start
 
-#home court advantage
-#home teams are always listed as team2 in input
+# home court advantage
+# home teams are always listed as team2 in input
     if game['home'] == game['t2']:
         r2_adjust = r2_start + 50
         game['elo_adjusted_team2'] = r2_adjust
@@ -188,15 +210,14 @@ def export_games (games):
         writer.writeheader()
         writer.writerows(games)
 
+
 def export_teams (teams):
     field_names = ['short_name','full_name','division','mascot','conference','elo','location','eligible','twitter','color','ret_2023','ret_2022','ret_2021']
     with open('outputs/teams_output.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames = field_names)
         writer.writeheader()
         writer.writerows(teams)
-    json_object_teams = json.dumps(teams, indent = 4)
-    with open("outputs/teams.json", "w") as outfile:
-        outfile.write(json_object_teams)
+
 
 def export_tracking (tracking):
     df_track = pd.DataFrame(tracking)
@@ -322,7 +343,9 @@ def season_stats(year):
             writer = csv.DictWriter(csvfile, fieldnames=field_names)
             writer.writeheader()
             writer.writerows(teams)
-def top25 (teams):
+
+
+def top25(teams):
     df = pd.DataFrame.from_dict(teams)
     df = df.loc[df['eligible'] == '1']
     df = df.sort_values(['elo'], ascending=False)
@@ -348,11 +371,12 @@ def top25 (teams):
     for i in range(0, 26):
         cells[i, 1].set_text_props(ha="center")
 
-    #display table
+    # display table
     fig.tight_layout()
     plt.savefig("outputs/elo_top_25.jpg")
     plt.show()
 
-season(30,-1,'2020')
-season_stats(year_stats)
+
+season(config.k, config.travel, config.first_year)
+season_stats(config.current_year)
 top25(teams)

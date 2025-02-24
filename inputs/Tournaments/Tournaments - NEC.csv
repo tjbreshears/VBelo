@@ -1,0 +1,6 @@
+date,season,home,p,t1,t2,elo_start_team1,elo_start_team2,elo_adjusted_team1,elo_adjusted_team2,probability_team1,probability_team2,elo_end_team1,elo_end_team2
+1,2023,LIU,3 vs 6,LIU,SHU,,,,,,,,
+2,2023,FDU,4 vs 5,FDU,Merrimack,,,,,,,,
+3,2023,Daemen,2 vs 3/4/5 (H),Daemen,FDU,,,,,,,,
+4,2023,SFU,1 vs 4/5/6 (L),SFU,SHU,,,,,,,,
+5,2023,SFU,1/4/5/6 vs 2/3/4/5,,,,,,,,,,

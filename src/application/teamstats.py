@@ -48,10 +48,11 @@ def season_stats(year):
             games.append(line)
 
     for i in range(len(games)):
+        print(i)
         if games[i]['season'] == year and games[i]['r_t1'] != '':
             for x in range(len(teams)):
                 if games[i]['t1'] == teams[x]['short_name']:
-                    teams[x]['elo'] = round(float(games[i]['elo_end_team1']),2)
+                    teams[x]['elo'] = round(float(games[i]['elo_end_team1']), 2)
                     teams[x]['games'] = int(teams[x]['games']) + 1
                     if games[i]['r_t1'] == '1':
                         teams[x]['wins'] = int(teams[x]['wins']) + 1
@@ -79,11 +80,11 @@ def season_stats(year):
                         teams[x]['cinco_losses'] = int(teams[x]['cinco_losses']) + 1
                     if int(teams[x]['cinco_wins'])+int(teams[x]['cinco_losses']) != 0:
                         teams[x]['cinco_pct'] = '{0:.3f}'.format(int(teams[x]['cinco_wins'])/(int(teams[x]['cinco_wins'])+int(teams[x]['cinco_losses'])))
-                    teams[x]['points_game'] = round(teams[x]['point_diff']/teams[x]['games'],2)
-                    teams[x]['points_set'] = round(teams[x]['point_diff']/(teams[x]['sets_won']+teams[x]['sets_lost']),2)
+                    teams[x]['points_game'] = round(teams[x]['point_diff']/teams[x]['games'], 2)
+                    teams[x]['points_set'] = round(teams[x]['point_diff']/(teams[x]['sets_won']+teams[x]['sets_lost']), 2)
 
                 if games[i]['t2'] == teams[x]['short_name']:
-                    teams[x]['elo'] = round(float(games[i]['elo_end_team2']),2)
+                    teams[x]['elo'] = round(float(games[i]['elo_end_team2']), 2)
                     teams[x]['games'] = int(teams[x]['games']) + 1
                     if games[i]['r_t2'] == '1':
                         teams[x]['wins'] = int(teams[x]['wins']) + 1
@@ -112,7 +113,7 @@ def season_stats(year):
                     if int(teams[x]['cinco_wins'])+int(teams[x]['cinco_losses']) != 0:
                         teams[x]['cinco_pct'] = '{0:.3f}'.format(int(teams[x]['cinco_wins'])/(int(teams[x]['cinco_wins'])+int(teams[x]['cinco_losses'])))
                     teams[x]['points_game'] = round(teams[x]['point_diff']/teams[x]['games'],2)
-                    teams[x]['points_set'] = round(teams[x]['point_diff']/(teams[x]['sets_won']+teams[x]['sets_lost']),2)
+                    teams[x]['points_set'] = round(teams[x]['point_diff']/(teams[x]['sets_won']+teams[x]['sets_lost']), 2)
 
         field_names = ['short_name', 'full_name', 'division', 'conference', 'elo', 'games', 'wins', 'losses', 'win_pct',
                        'conf_wins', 'conf_losses', 'conf_pct', 'home_wins', 'home_losses', 'home_pct', 'away_wins',
