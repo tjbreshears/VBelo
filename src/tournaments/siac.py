@@ -12,7 +12,7 @@ for i in range(len(teams)):
     teams[i]['elo'] = float(teams[i]['elo'])
 
 games = []
-with open("../../inputs/Tournaments/Tournaments - CC.csv", 'r') as data:
+with open("../../inputs/Tournaments/Tournaments - SIAC.csv", 'r') as data:
     for line in csv.DictReader(data):
         games.append(line)
 
@@ -161,7 +161,7 @@ def post_season(K, t):
         elorating(games[i], K, t)
 
 
-def cc(sims):
+def siac(sims):
     start_time = time.time()
     for i in range(sims):
         post_season(60, -5)
@@ -186,7 +186,7 @@ def cc(sims):
     seed5_semis_p = "{:.2%}".format(seed5_semis/sims)
     seed6_semis_p = "{:.2%}".format(seed6_semis/sims)
 
-    print("Conference Carolinas Tournament Projections")
+    print("SIAC Tournament Projections")
     print(f"{seed1} (1): 100%, {seed1_finals_p}, {seed1_win_p}")
     print(f"{seed2} (2): 100%, {seed2_finals_p}, {seed2_win_p}")
     print(f"{seed3} (3): {seed3_semis_p}, {seed3_finals_p}, {seed3_win_p}")
@@ -197,4 +197,4 @@ def cc(sims):
     print("\n\n--- %s seconds ---" % (time.time() - start_time))
 
 
-# cc(50000)
+# siac(50000)

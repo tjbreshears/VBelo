@@ -12,11 +12,11 @@ for i in range(len(teams)):
     teams[i]['elo'] = float(teams[i]['elo'])
 
 games = []
-with open("../../inputs/Tournaments/Tournaments - CC.csv", 'r') as data:
+with open("../../inputs/Tournaments/Tournaments - NEC.csv", 'r') as data:
     for line in csv.DictReader(data):
         games.append(line)
 
-# 8 team modified playoff bracket
+# 6 team modified playoff bracket - reseeding for semifinals
 # teams by seeds
 seed1 = games[3]['t1']
 seed2 = games[2]['t1']
@@ -79,8 +79,8 @@ def elorating(game, K, t):
             loc_1 = teams[i]['location']
         if game['t2'] == teams[i]['short_name']:
             loc_2 = teams[i]['location']
-    dist_1 = gp.distance(loc_home,loc_1).miles
-    dist_2 = gp.distance(loc_home,loc_2).miles
+    dist_1 = gp.distance(loc_home, loc_1).miles
+    dist_2 = gp.distance(loc_home, loc_2).miles
     score1 = math.floor(dist_1/250) * t
     score2 = math.floor(dist_2/250) * t
     if score1 < -25:
@@ -101,23 +101,29 @@ def elorating(game, K, t):
 # Monte Carlo part
     random_outcome = random.random()
 
-# Match 1: 3 vs 6 (quarterfinals)
-    if game['date'] == '1' and random_outcome < p1:
-        games[2]['t2'] = game['t1']
-        seed3_semis += 1
-    elif game['date'] == '1' and random_outcome > p1:
-        games[2]['t2'] = game['t2']
-        seed6_semis += 1
+# Match 1: 3 vs 6 (quarterfinals) with reseeding
+#    if game['date'] == '1' and random_outcome < p1:
+#        games[2]['t2'] = game['t1']
+#        seed3_semis += 1
+#    elif game['date'] == '1' and random_outcome > p1:
+#        games[3]['t2'] = game['t2']
+#        seed6_semis += 1
 
-# Match 2: 4 vs 5 (quarterfinals)
-    if game['date'] == '2' and random_outcome < p1:
-        games[3]['t2'] = game['t1']
-        seed4_semis += 1
-    elif game['date'] == '2' and random_outcome > p1:
-        games[3]['t2'] = game['t2']
-        seed5_semis += 1
+# Match 2: 4 vs 5 (quarterfinals) with reseeding
+#    if game['date'] == '2' and random_outcome < p1:
+#        if games[2]['t2'] == seed3:
+#            games[3]['t2'] = game['t1']
+#        else:
+#            games[2]['t2'] = game['t1']
+#        seed4_semis += 1
+#    elif game['date'] == '2' and random_outcome > p1:
+#        if games[2]['t2'] == seed3:
+#            games[3]['t2'] = game['t2']
+#        else:
+#            games[2]['t2'] = game['t2']
+#        seed5_semis += 1
 
-# Match 3: 2 vs 3/6 (semifinals)
+# Match 3: 2 vs 3/4/5 (semifinals)
     if game['date'] == '3' and random_outcome < p1:
         games[4]['t2'] = game['t1']
         seed2_finals += 1
@@ -125,10 +131,12 @@ def elorating(game, K, t):
         games[4]['t2'] = game['t2']
         if game['t2'] == seed3:
             seed3_finals += 1
-        elif game['t2'] == seed6:
-            seed6_finals += 1
+        elif game['t2'] == seed4:
+            seed4_finals += 1
+        elif game['t2'] == seed5:
+            seed5_finals += 1
 
-# Match 4: 1 vs 4/5 (semifinals)
+# Match 4: 1 vs 4/5/6 (semifinals)
     if game['date'] == '4' and random_outcome < p1:
         games[4]['t1'] = game['t1']
         seed1_finals += 1
@@ -138,8 +146,10 @@ def elorating(game, K, t):
             seed4_finals += 1
         elif game['t2'] == seed5:
             seed5_finals += 1
+        elif game['t2'] == seed6:
+            seed6_finals += 1
 
-# Match 5: 1/4/5 vs 2/3/6 (finals)
+# Match 5: 1/4/5/6 vs 2/3/4/5 (finals)
     if game['date'] == '5' and random_outcome < p1:
         if game['t1'] == seed1:
             seed1_win += 1
@@ -147,13 +157,17 @@ def elorating(game, K, t):
             seed4_win += 1
         elif game['t1'] == seed5:
             seed5_win += 1
+        elif game['t1'] == seed6:
+            seed6_win += 1
     elif game['date'] == '5' and random_outcome > p1:
         if game['t2'] == seed2:
             seed2_win += 1
         elif game['t2'] == seed3:
             seed3_win += 1
-        elif game['t2'] == seed6:
-            seed6_win += 1
+        elif game['t2'] == seed4:
+            seed4_win += 1
+        elif game['t1'] == seed5:
+            seed5_win += 1
 
 
 def post_season(K, t):
@@ -161,9 +175,14 @@ def post_season(K, t):
         elorating(games[i], K, t)
 
 
-def cc(sims):
+def nec(sims):
     start_time = time.time()
     for i in range(sims):
+#        games[2]['t2'] = ''
+#        games[3]['t2'] = ''
+#        games[4]['home'] = ''
+        games[4]['t1'] = ''
+        games[4]['t2'] = ''
         post_season(60, -5)
 
 # formatting for printing (the hard way)
@@ -186,7 +205,7 @@ def cc(sims):
     seed5_semis_p = "{:.2%}".format(seed5_semis/sims)
     seed6_semis_p = "{:.2%}".format(seed6_semis/sims)
 
-    print("Conference Carolinas Tournament Projections")
+    print("NEC Tournament Projections")
     print(f"{seed1} (1): 100%, {seed1_finals_p}, {seed1_win_p}")
     print(f"{seed2} (2): 100%, {seed2_finals_p}, {seed2_win_p}")
     print(f"{seed3} (3): {seed3_semis_p}, {seed3_finals_p}, {seed3_win_p}")
@@ -197,4 +216,4 @@ def cc(sims):
     print("\n\n--- %s seconds ---" % (time.time() - start_time))
 
 
-# cc(50000)
+# nec(50000)

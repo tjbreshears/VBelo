@@ -2,47 +2,49 @@ import csv
 import random
 import math
 import geopy.distance as gp
+import time
 
 teams = []
-with open("outputs/teams_output.csv", 'r') as data:
+with open("../../outputs/teams_output.csv", 'r') as data:
     for line in csv.DictReader(data):
         teams.append(line)
 for i in range(len(teams)):
     teams[i]['elo'] = float(teams[i]['elo'])
 
 games = []
-with open("inputs/Tournaments/Tournaments - BWC.csv", 'r') as data:
+with open("../../inputs/Tournaments/Tournaments - BWC.csv", 'r') as data:
     for line in csv.DictReader(data):
         games.append(line)
 
-#8 team modified playoff bracket
-#teams by seeds
-seed1 = 'LBSU'
-seed2 = 'Hawaii'
-seed3 = 'UCSB'
-seed4 = 'UCSD'
-seed5 = 'UCI'
-seed6 = 'CSUN'
+# 8 team modified playoff bracket
+# teams by seeds
+seed1 = games[3]['t1']
+seed2 = games[2]['t1']
+seed3 = games[0]['t1']
+seed4 = games[1]['t1']
+seed5 = games[1]['t2']
+seed6 = games[0]['t2']
 
-#winning
-seed1_win, seed2_win, seed3_win, seed4_win, seed5_win, seed6_win = 0,0,0,0,0,0
+# winning
+seed1_win, seed2_win, seed3_win, seed4_win, seed5_win, seed6_win = 0, 0, 0, 0, 0, 0
 
-#making finals
-seed1_finals, seed2_finals, seed3_finals, seed4_finals, seed5_finals, seed6_finals = 0,0,0,0,0,0
+# making finals
+seed1_finals, seed2_finals, seed3_finals, seed4_finals, seed5_finals, seed6_finals = 0, 0, 0, 0, 0, 0
 
-#making the semis
-seed3_semis, seed4_semis, seed5_semis, seed6_semis = 0,0,0,0
+# making the semis
+seed3_semis, seed4_semis, seed5_semis, seed6_semis = 0, 0, 0, 0
 
 
 def probability(rating1, rating2):
     return 1.0 * 1.0 / (1 + 1.0 * math.pow(10, 1.0 * (rating1 - rating2) / 400))
 
-def eloRating(game,K,t):
+
+def elorating(game, K, t):
     global seed1_win, seed2_win, seed3_win, seed4_win, seed5_win, seed6_win
     global seed1_finals, seed2_finals, seed3_finals, seed4_finals, seed5_finals, seed6_finals
     global seed3_semis, seed4_semis, seed5_semis, seed6_semis
 
-    global r1_start,r2_start,r1_adjust,r2_adjust,r1_end,r2_end
+    global r1_start, r2_start, r1_adjust, r2_adjust, r1_end, r2_end
     for i in range(len(teams)):
         if game['t1'] == teams[i]['short_name']:
             r1_start = teams[i]['elo']
@@ -52,14 +54,14 @@ def eloRating(game,K,t):
             r2_start = teams[i]['elo']
             game['elo_start_team2'] = r2_start
 
-#sets adjusted elo in case there is no adjusted needed
-#will probably be removed when travel is added
+# sets adjusted elo in case there is no adjusted needed
+# will probably be removed when travel is added
     game['elo_adjusted_team1'] = r1_start
     game['elo_adjusted_team2'] = r2_start
     r1_adjust = r1_start
     r2_adjust = r2_start
 
-#home court advantage
+# home court advantage
     if game['home'] == game['t2']:
         r2_adjust = r2_start + 50
         game['elo_adjusted_team2'] = r2_adjust
@@ -99,97 +101,53 @@ def eloRating(game,K,t):
 # Monte Carlo part
     random_outcome = random.random()
 
-#game 1: 3 vs 6 (quarterfinals)
-#    if game['date'] == '1' and p1 > 0.5 and random_outcome < p1:
-#        games[2]['t2'] = game['t1']
-#        seed3_semis += 1
-#    elif game['date'] == '1' and p1 > 0.5 and random_outcome > p1:
-#        games[2]['t2'] = game['t2']
-#        seed6_semis += 1
-#    elif game['date'] == '1' and p1 < 0.5 and random_outcome > p2:
-#        games[2]['t2'] = game['t1']
-#        seed3_semis += 1
-#    elif game['date'] == '1' and p1 < 0.5 and random_outcome < p2:
-#        games[2]['t2'] = game['t2']
-#        seed6_semis += 1
+# Match 1: 3 vs 6 (quarterfinals)
+    if game['date'] == '1' and random_outcome < p1:
+        games[2]['t2'] = game['t1']
+        seed3_semis += 1
+    elif game['date'] == '1' and random_outcome > p1:
+        games[2]['t2'] = game['t2']
+        seed6_semis += 1
 
-#game 2: 4 vs 5 (quarterfinals)
-#    if game['date'] == '2' and p1 > 0.5 and random_outcome < p1:
-#        games[3]['t2'] = game['t1']
-#        seed4_semis += 1
-#    elif game['date'] == '2' and p1 > 0.5 and random_outcome > p1:
-#        games[3]['t2'] = game['t2']
-#        seed5_semis += 1
-#    elif game['date'] == '2' and p1 < 0.5 and random_outcome > p2:
-#        games[3]['t2'] = game['t1']
-#        seed4_semis += 1
-#    elif game['date'] == '2' and p1 < 0.5 and random_outcome < p2:
-#        games[3]['t2'] = game['t2']
-#        seed5_semis += 1
+# Match 2: 4 vs 5 (quarterfinals)
+    if game['date'] == '2' and random_outcome < p1:
+        games[3]['t2'] = game['t1']
+        seed4_semis += 1
+    elif game['date'] == '2' and random_outcome > p1:
+        games[3]['t2'] = game['t2']
+        seed5_semis += 1
 
-#game 3: 2 vs 3/6 (semifinals)
-    if game['date'] == '3' and p1 > 0.5 and random_outcome < p1:
+# Match 3: 2 vs 3/6 (semifinals)
+    if game['date'] == '3' and random_outcome < p1:
         games[4]['t2'] = game['t1']
         seed2_finals += 1
-    elif game['date'] == '3' and p1 > 0.5 and random_outcome > p1:
-        games[4]['t2'] = game['t2']
-        if game['t2'] == seed3:
-            seed3_finals += 1
-        elif game['t2'] == seed6:
-            seed6_finals += 1
-    elif game['date'] == '3' and p1 < 0.5 and random_outcome > p2:
-        games[4]['t2'] = game['t1']
-        seed2_finals += 1
-    elif game['date'] == '3' and p1 < 0.5 and random_outcome < p2:
+    elif game['date'] == '3' and random_outcome > p1:
         games[4]['t2'] = game['t2']
         if game['t2'] == seed3:
             seed3_finals += 1
         elif game['t2'] == seed6:
             seed6_finals += 1
 
-#game 4: 1 vs 4/5 (semifinals)
-    if game['date'] == '4' and p1 > 0.5 and random_outcome < p1:
+# Match 4: 1 vs 4/5 (semifinals)
+    if game['date'] == '4' and random_outcome < p1:
         games[4]['t1'] = game['t1']
         seed1_finals += 1
-    elif game['date'] == '4' and p1 > 0.5 and random_outcome > p1:
-        games[4]['t1'] = game['t2']
-        if game['t2'] == seed4:
-            seed4_finals += 1
-        elif game['t2'] == seed5:
-            seed5_finals += 1
-    elif game['date'] == '4' and p1 < 0.5 and random_outcome > p2:
-        games[4]['t1'] = game['t1']
-        seed1_finals += 1
-    elif game['date'] == '4' and p1 < 0.5 and random_outcome < p2:
+    elif game['date'] == '4' and random_outcome > p1:
         games[4]['t1'] = game['t2']
         if game['t2'] == seed4:
             seed4_finals += 1
         elif game['t2'] == seed5:
             seed5_finals += 1
 
-#game 5: 1/4/5 vs 2/3/6 (finals)
-    if game['date'] == '5' and p1 > 0.5 and random_outcome < p1:
+# Match 5: 1/4/5 vs 2/3/6 (finals)
+    if game['date'] == '5' and random_outcome < p1:
         if game['t1'] == seed1:
             seed1_win += 1
         elif game['t1'] == seed4:
             seed4_win += 1
         elif game['t1'] == seed5:
             seed5_win += 1
-    elif game['date'] == '5' and p1 > 0.5 and random_outcome > p1:
-        if game['t2'] == seed2:
-            seed2_win += 1
-        elif game['t2'] == seed3:
-            seed3_win += 1
-        elif game['t2'] == seed6:
-            seed6_win += 1
-    elif game['date'] == '5' and p1 < 0.5 and random_outcome > p2:
-        if game['t1'] == seed1:
-            seed1_win += 1
-        elif game['t1'] == seed4:
-            seed4_win += 1
-        elif game['t1'] == seed5:
-            seed5_win += 1
-    elif game['date'] == '5' and p1 < 0.5 and random_outcome < p2:
+    elif game['date'] == '5' and random_outcome > p1:
         if game['t2'] == seed2:
             seed2_win += 1
         elif game['t2'] == seed3:
@@ -197,16 +155,18 @@ def eloRating(game,K,t):
         elif game['t2'] == seed6:
             seed6_win += 1
 
-def post_season (K,t):
+
+def post_season(K, t):
     for i in range(len(games)):
-        eloRating(games[i],K,t)
+        elorating(games[i], K, t)
 
 
-def monte_carlo (sims):
+def bwc(sims):
+    start_time = time.time()
     for i in range(sims):
-        post_season(30,-1)
+        post_season(60, -5)
 
-#formatting for printing (the hard way)
+# formatting for printing (the hard way)
     seed1_win_p = "{:.2%}".format(seed1_win/sims)
     seed2_win_p = "{:.2%}".format(seed2_win/sims)
     seed3_win_p = "{:.2%}".format(seed3_win/sims)
@@ -226,7 +186,7 @@ def monte_carlo (sims):
     seed5_semis_p = "{:.2%}".format(seed5_semis/sims)
     seed6_semis_p = "{:.2%}".format(seed6_semis/sims)
 
-
+    print("Big West Tournament Projections")
     print(f"{seed1} (1): 100%, {seed1_finals_p}, {seed1_win_p}")
     print(f"{seed2} (2): 100%, {seed2_finals_p}, {seed2_win_p}")
     print(f"{seed3} (3): {seed3_semis_p}, {seed3_finals_p}, {seed3_win_p}")
@@ -234,5 +194,7 @@ def monte_carlo (sims):
     print(f"{seed5} (5): {seed5_semis_p}, {seed5_finals_p}, {seed5_win_p}")
     print(f"{seed6} (6): {seed6_semis_p}, {seed6_finals_p}, {seed6_win_p}")
 
+    print("\n\n--- %s seconds ---" % (time.time() - start_time))
 
-monte_carlo(50000)
+
+# bwc(50000)
